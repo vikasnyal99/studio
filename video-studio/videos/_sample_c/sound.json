@@ -1,0 +1,28 @@
+{
+ "voice": {
+  "file": "videos/_sample_c/voice/narration.wav",
+  "start": 0.0,
+  "end": 28.0
+ },
+ "music": [
+  {
+   "file": "library/music/Interloper.mp3",
+   "from": 0,
+   "to": 28.0,
+   "below_voice_db": 13
+  }
+ ],
+ "sfx_dir": "library/sfx",
+ "cues": [
+  [
+   21.3,
+   "riser",
+   -15
+  ],
+  [
+   23.55,
+   "tick",
+   -12
+  ]
+ ]
+}

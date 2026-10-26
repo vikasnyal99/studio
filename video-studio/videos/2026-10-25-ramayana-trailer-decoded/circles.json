@@ -1,0 +1,299 @@
+{
+ "src": {
+  "t1": "videos/2026-10-25-ramayana-trailer-decoded/research/trailers/t1.mp4",
+  "t2": "videos/2026-10-25-ramayana-trailer-decoded/research/trailers/t2.mp4"
+ },
+ "out": "videos/2026-10-25-ramayana-trailer-decoded/assets",
+ "clips": [
+  {
+   "name": "c_sword",
+   "src": "t2",
+   "start": 57.0,
+   "end": 58.6,
+   "slow": 0.7,
+   "circles": [
+    {
+     "at": 57.58,
+     "draw": 0.2,
+     "until": 58.0,
+     "cx": 0.42,
+     "cy": 0.3,
+     "rx": 0.26,
+     "ry": 0.15
+    }
+   ]
+  },
+  {
+   "name": "c_foot",
+   "src": "t1",
+   "start": 233.9,
+   "end": 235.55,
+   "circles": [
+    {
+     "at": 234.9,
+     "cx": 0.33,
+     "cy": 0.3,
+     "rx": 0.18,
+     "ry": 0.26
+    }
+   ]
+  },
+  {
+   "name": "c_vortex",
+   "src": "t1",
+   "start": 236.2,
+   "end": 240.4,
+   "circles": [
+    {
+     "at": 238.7,
+     "cx": 0.51,
+     "cy": 0.56,
+     "rx": 0.2,
+     "ry": 0.3
+    }
+   ]
+  },
+  {
+   "name": "c_airavat_t1",
+   "src": "t1",
+   "start": 43.75,
+   "end": 45.3,
+   "circles": [
+    {
+     "at": 44.0,
+     "cx": 0.43,
+     "cy": 0.43,
+     "rx": 0.13,
+     "ry": 0.2
+    }
+   ]
+  },
+  {
+   "name": "c_airavat_t2",
+   "src": "t2",
+   "start": 31.83,
+   "end": 32.96,
+   "circles": [
+    {
+     "at": 32.1,
+     "cx": 0.43,
+     "cy": 0.5,
+     "rx": 0.12,
+     "ry": 0.2
+    }
+   ]
+  },
+  {
+   "name": "c_airavat_head",
+   "src": "t2",
+   "start": 35.04,
+   "end": 36.6,
+   "circles": [
+    {
+     "at": 35.6,
+     "cx": 0.5,
+     "cy": 0.25,
+     "rx": 0.22,
+     "ry": 0.2
+    }
+   ],
+   "plain": true
+  },
+  {
+   "name": "c_vajra",
+   "src": "t2",
+   "start": 102.9,
+   "end": 104.5,
+   "circles": [
+    {
+     "at": 103.3,
+     "cx": 0.5,
+     "cy": 0.46,
+     "rx": 0.17,
+     "ry": 0.13
+    }
+   ]
+  },
+  {
+   "name": "c_yagna",
+   "src": "t1",
+   "start": 59.5,
+   "end": 63.1,
+   "circles": [
+    {
+     "at": 61.9,
+     "cx": 0.72,
+     "cy": 0.63,
+     "rx": 0.13,
+     "ry": 0.18
+    }
+   ]
+  },
+  {
+   "name": "c_babies",
+   "src": "t1",
+   "start": 66.4,
+   "end": 67.7,
+   "circles": [
+    {
+     "at": 66.9,
+     "cx": 0.22,
+     "cy": 0.7,
+     "rx": 0.1,
+     "ry": 0.14
+    },
+    {
+     "at": 67.15,
+     "cx": 0.8,
+     "cy": 0.66,
+     "rx": 0.11,
+     "ry": 0.14
+    }
+   ]
+  },
+  {
+   "name": "c_bow_t2",
+   "src": "t2",
+   "start": 72.1,
+   "end": 74.3,
+   "circles": [
+    {
+     "at": 73.55,
+     "cx": 0.52,
+     "cy": 0.33,
+     "rx": 0.45,
+     "ry": 0.14
+    }
+   ]
+  },
+  {
+   "name": "c_bow_t1",
+   "src": "t1",
+   "start": 90.5,
+   "end": 95.45,
+   "circles": [
+    {
+     "at": 94.75,
+     "cx": 0.5,
+     "cy": 0.28,
+     "rx": 0.5,
+     "ry": 0.2
+    }
+   ]
+  },
+  {
+   "name": "c_axe",
+   "src": "t2",
+   "start": 77.6,
+   "end": 79.35,
+   "circles": [
+    {
+     "at": 78.6,
+     "cx": 0.34,
+     "cy": 0.34,
+     "rx": 0.12,
+     "ry": 0.16
+    }
+   ]
+  },
+  {
+   "name": "c_jatayu_city",
+   "src": "t2",
+   "start": 21.8,
+   "end": 24.7,
+   "circles": [
+    {
+     "at": 22.5,
+     "until": 24.0,
+     "cx": 0.55,
+     "cy": 0.55,
+     "rx": 0.3,
+     "ry": 0.24
+    }
+   ]
+  },
+  {
+   "name": "c_jatayu_birds",
+   "src": "t2",
+   "start": 114.15,
+   "end": 116.0,
+   "circles": [
+    {
+     "at": 114.5,
+     "until": 115.25,
+     "cx": 0.45,
+     "cy": 0.43,
+     "rx": 0.2,
+     "ry": 0.17
+    }
+   ]
+  },
+  {
+   "name": "c_jatayu_attack",
+   "src": "t2",
+   "start": 116.0,
+   "end": 120.4,
+   "plain": true
+  },
+  {
+   "name": "c_pushpak_close",
+   "src": "t1",
+   "start": 163.2,
+   "end": 164.85,
+   "circles": [
+    {
+     "at": 163.5,
+     "cx": 0.42,
+     "cy": 0.42,
+     "rx": 0.36,
+     "ry": 0.42
+    }
+   ]
+  },
+  {
+   "name": "c_pushpak_aerial",
+   "src": "t2",
+   "start": 101.0,
+   "end": 102.15,
+   "circles": [
+    {
+     "at": 101.3,
+     "cx": 0.47,
+     "cy": 0.36,
+     "rx": 0.1,
+     "ry": 0.14
+    }
+   ]
+  },
+  {
+   "name": "c_ravana_pushpak",
+   "src": "t1",
+   "start": 168.55,
+   "end": 169.95,
+   "circles": [
+    {
+     "at": 168.8,
+     "cx": 0.64,
+     "cy": 0.36,
+     "rx": 0.16,
+     "ry": 0.3
+    }
+   ]
+  },
+  {
+   "name": "c_sita_pushpak",
+   "src": "t1",
+   "start": 169.97,
+   "end": 171.4,
+   "circles": [
+    {
+     "at": 170.3,
+     "cx": 0.48,
+     "cy": 0.47,
+     "rx": 0.15,
+     "ry": 0.28
+    }
+   ]
+  }
+ ]
+}

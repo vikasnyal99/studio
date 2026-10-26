@@ -1,0 +1,258 @@
+{
+ "end": 99,
+ "grade": "warm",
+ "audio": "doc/sita-haran/narration.wav",
+ "music": {
+  "src": "lib:music/Long_Note_Two.mp3",
+  "vol": 0.1
+ },
+ "sfx": [
+  [
+   58.6,
+   "lib:sfx/riser.wav",
+   0.45
+  ],
+  [
+   61.0,
+   "lib:sfx/whoosh.wav",
+   0.6
+  ],
+  [
+   61.2,
+   "lib:sfx/drone.wav",
+   0.35
+  ],
+  [
+   66.4,
+   "lib:sfx/hit.wav",
+   0.6
+  ],
+  [
+   73.2,
+   "lib:sfx/whoosh.wav",
+   0.4
+  ],
+  [
+   92.7,
+   "lib:sfx/swell.wav",
+   0.5
+  ]
+ ],
+ "shots": [
+  {
+   "t": 0,
+   "kind": "card",
+   "text": "Treta Yug"
+  },
+  {
+   "t": 2.4,
+   "in": "black",
+   "img": "doc/sita-haran/setup_p1.png",
+   "move": "push",
+   "fx": [
+    "dust",
+    "rays"
+   ],
+   "label": {
+    "text": "Panchavati",
+    "sub": "Godavari ke kinare",
+    "at": 0.8
+   }
+  },
+  {
+   "t": 10.6,
+   "img": "doc/sita-haran/setup_p1.png",
+   "move": "left",
+   "z": [
+    1.35,
+    1.35
+   ],
+   "focus": [
+    30,
+    50
+   ],
+   "fx": [
+    "dust"
+   ]
+  },
+  {
+   "t": 16.6,
+   "img": "doc/sita-haran/setup_p2.png",
+   "move": "push",
+   "z": [
+    1.05,
+    1.25
+   ],
+   "fx": [
+    "dust"
+   ]
+  },
+  {
+   "t": 23.6,
+   "img": "doc/sita-haran/setup_p3.png",
+   "move": "push",
+   "fx": [
+    "dust"
+   ],
+   "label": {
+    "text": "Sita Mata",
+    "at": 0.6
+   }
+  },
+  {
+   "t": 28.5,
+   "img": "doc/sita-haran/setup_p4.png",
+   "move": "right",
+   "fx": [
+    "dust",
+    "rays"
+   ]
+  },
+  {
+   "t": 35.0,
+   "img": "doc/sita-haran/hero.png",
+   "z": [
+    1.8,
+    1.95
+   ],
+   "focus": [
+    73,
+    17
+   ]
+  },
+  {
+   "t": 40.2,
+   "img": "doc/sita-haran/reveal_p1.png",
+   "move": "push",
+   "z": [
+    1.05,
+    1.2
+   ]
+  },
+  {
+   "t": 45.3,
+   "in": "fade",
+   "img": "doc/sita-haran/hero.png",
+   "z": [
+    1.6,
+    1.72
+   ],
+   "focus": [
+    27,
+    38
+   ],
+   "fx": [
+    "rays"
+   ]
+  },
+  {
+   "t": 50.5,
+   "img": "doc/sita-haran/hero.png",
+   "z": [
+    1.9,
+    2.05
+   ],
+   "focus": [
+    40,
+    89
+   ]
+  },
+  {
+   "t": 54.5,
+   "img": "doc/sita-haran/hero.png",
+   "move": "push",
+   "z": [
+    1.0,
+    1.12
+   ],
+   "fx": [
+    "rays",
+    "dust"
+   ]
+  },
+  {
+   "t": 60.9,
+   "img": "doc/sita-haran/reveal_p2.png",
+   "move": "push",
+   "z": [
+    1.05,
+    1.3
+   ],
+   "fx": [
+    "smoke",
+    "flicker"
+   ],
+   "grade": "night"
+  },
+  {
+   "t": 66.3,
+   "img": "doc/sita-haran/reveal_p3.png",
+   "move": "pull",
+   "fx": [
+    "smoke",
+    "embers"
+   ],
+   "grade": "night",
+   "label": {
+    "text": "Ravana",
+    "sub": "Lankapati",
+    "at": 3.4
+   }
+  },
+  {
+   "t": 73.1,
+   "img": "doc/sita-haran/reveal_p4.png",
+   "move": "push",
+   "z": [
+    1.05,
+    1.25
+   ],
+   "grade": "night"
+  },
+  {
+   "t": 76.8,
+   "img": "doc/sita-haran/vimana.png",
+   "move": "push",
+   "z": [
+    1.3,
+    1.45
+   ],
+   "focus": [
+    58,
+    15
+   ],
+   "fx": [
+    "embers"
+   ]
+  },
+  {
+   "t": 84.1,
+   "img": "doc/sita-haran/vimana.png",
+   "move": "pull",
+   "z": [
+    1.3,
+    1.02
+   ],
+   "fx": [
+    "dust"
+   ]
+  },
+  {
+   "t": 88.3,
+   "in": "fade",
+   "img": "doc/sita-haran/setup_p1.png",
+   "move": "pull",
+   "grade": "cold",
+   "fx": [
+    "fog"
+   ]
+  },
+  {
+   "t": 92.6,
+   "in": "black",
+   "kind": "title",
+   "text": "Sita Haran",
+   "sub": "RAMAYANA \u00b7 ARANYA KAND"
+  }
+ ]
+}

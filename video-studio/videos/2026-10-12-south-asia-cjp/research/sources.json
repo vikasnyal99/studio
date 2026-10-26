@@ -1,0 +1,606 @@
+{
+ "captured": "2026-10-12",
+ "facts": [
+  {
+   "claim": "Colombo Consumer Price Index inflation reached 69.8% year on year in September 2022",
+   "sources": [
+    "https://www.bloomberg.com/news/articles/2022-09-30/sri-lanka-inflation-accelerates-to-69-8-in-september",
+    "https://adaderana.lk/news/85260/ccpi-based-inflation-soars-to-698-in-september"
+   ],
+   "note": "The national index (NCPI) was higher, 73.7% in the same month. The video shows the Colombo figure and labels it as such.",
+   "status": "verified"
+  },
+  {
+   "claim": "Aragalaya is Sinhala for 'The Struggle'",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2022_Sri_Lankan_protests"
+   ],
+   "status": "verified"
+  },
+  {
+   "claim": "Protesters entered the President's official residence on 9 July 2022",
+   "sources": [
+    "https://www.lbc.co.uk/article/sri-lanka-protesters-swim-in-presidents-pool-after-storming-palace-DWzGRG_2/"
+   ],
+   "status": "verified"
+  },
+  {
+   "claim": "Gotabaya Rajapaksa flew to the Maldives on 13 July 2022, on to Singapore on 14 July, and sent his resignation that day",
+   "sources": [
+    "https://www.aljazeera.com/news/2022/7/13/sri-lanka-president-flees-country-ahead-of-resignation",
+    "https://www.axios.com/2022/07/14/sri-lanka-president-resigns-gotabaya-rajapaksa"
+   ],
+   "note": "The resignation was formally accepted on 15 July; the stamp shows 14 July, the day it was submitted.",
+   "status": "verified"
+  },
+  {
+   "claim": "Sheikh Hasina resigned and left Bangladesh for India on 5 August 2024",
+   "status": "verified",
+   "sources": [
+    "https://en.wikipedia.org/wiki/July_Revolution_(Bangladesh)"
+   ]
+  },
+  {
+   "claim": "Nepal's PM K.P. Sharma Oli resigned on 9 September 2025 after Gen Z protests that began over a social-media ban",
+   "status": "verified",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2025_Nepalese_Gen_Z_protests"
+   ]
+  },
+  {
+   "claim": "India-Bangladesh border is 4,096 km",
+   "status": "from general knowledge; narration says 'more than 4,000 km'",
+   "sources": []
+  },
+  {
+   "claim": "Hambantota Port is on a 99-year lease to a Chinese firm",
+   "status": "from general knowledge (2017 lease to China Merchants Port)",
+   "sources": []
+  },
+  {
+   "claim": "Cockroach Janta Party was founded on 16 May 2026 by Abhijeet Dipke",
+   "status": "verified",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Cockroach_Janta_Party"
+   ]
+  },
+  {
+   "claim": "Education Minister Dharmendra Pradhan announced his resignation on 25 July 2026 after CJP-led protests over exam paper leaks",
+   "status": "verified",
+   "sources": [
+    "https://www.cnn.com/2026/07/25/india/india-education-minister-resignation-intl",
+    "https://www.aljazeera.com/features/2026/7/25/we-have-done-it-joy-as-cockroach-protests-push-india-minister-out"
+   ],
+   "note": "CNN reported the Prime Minister had not yet publicly accepted it; the on-screen stamp says 'announced'."
+  },
+  {
+   "claim": "CJP is protesting over the Election Commission's SIR voter-roll revision and demanding CEC Gyanesh Kumar's resignation",
+   "status": "verified",
+   "sources": [
+    "https://www.aljazeera.com/news/liveblog/2026/10/10/india-protest-live-police-detain-cockroach-leaders-new-delhi-in-lockdown",
+    "https://edition.cnn.com/2026/10/09/india/india-cockroach-party-protests-season-2-intl-hnk"
+   ]
+  },
+  {
+   "claim": "Narration: 'According to Reuters', Dipke leads a national campaign on voter roll revision",
+   "status": "fact supported by CNN and Al Jazeera; the Reuters attribution was NOT found",
+   "sources": []
+  },
+  {
+   "claim": "Dhruv Rathee was announced as special guest at a CJP protest",
+   "status": "verified (Bengaluru, announced 7 October 2026)",
+   "sources": [
+    "https://thesouthfirst.com/karnataka/dhruv-rathee-to-be-special-guest-at-cjps-bengaluru-protest-against-cec/",
+    "https://www.theweek.in/news/india/2026/10/07/scrap-sir-prakash-raj-announces-dhruv-rathee-as-special-guest-at-bengaluru-protest.html"
+   ]
+  },
+  {
+   "claim": "Dipke previously worked with the Aam Aadmi Party and acknowledged it in an interview with The Wire",
+   "status": "verified (AAP social-media volunteer 2020-2023)",
+   "sources": [
+    "https://m.thewire.in/article/politics/abhijeet-dipke-reveals-how-cockroach-janta-party-was-born-details-aap-links",
+    "https://en.wikipedia.org/wiki/Abhijeet_Dipke"
+   ]
+  },
+  {
+   "claim": "Narration: ThePrint examined a 12-member CJP team and reported six had past AAP association or publicly supported AAP",
+   "status": "NOT verified: the article and the 12/6 figures were not found. On screen the video only says several members' AAP links have been questioned, which other outlets report",
+   "sources": [
+    "https://www.thehansindia.com/news/national/cockroach-janta-party-faces-questions-over-alleged-aap-links-after-ex-civil-servant-quits-1078196"
+   ]
+  },
+  {
+   "claim": "Narration: 'According to The Indian Express', CJP researcher Vijeta Dahiya was introduced to the team through Dhruv Rathee",
+   "status": "fact supported by Brut India (joined on Rathee's advice); the Indian Express attribution was NOT found. Reports call him a spokesperson, and suggest he may no longer hold the role",
+   "sources": [
+    "https://www.brut.media/in/articles/india/politics/who-is-vijeta-dahiya-the-political-researcher-and-filmmaker-named-as-cjp-spokesperson"
+   ]
+  },
+  {
+   "claim": "Narration: Dhruv Rathee started political videos in 2016",
+   "status": "not checked; the year is not shown on screen",
+   "sources": []
+  }
+ ],
+ "screenshots": [
+  {
+   "file": "assets/shot_crisis.png",
+   "outlet": "The Kathmandu Post",
+   "date": "2022-04-01",
+   "url": "https://kathmandupost.com/world/2022/04/01/sri-lanka-imposes-curfew-after-protests-over-economic-crisis-turn-violent"
+  },
+  {
+   "file": "assets/shot_fuel.png",
+   "outlet": "Arab News",
+   "date": "2022-06-27",
+   "url": "https://www.arabnews.com/node/2111411/world"
+  },
+  {
+   "file": "assets/shot_power.png",
+   "outlet": "Deccan Herald (AFP)",
+   "date": "2022-03-31",
+   "url": "https://www.deccanherald.com/amp/story/world%2Fsri-lanka-runs-out-of-diesel-faces-longest-ever-blackout-1096394.html"
+  },
+  {
+   "file": "assets/shot_pool.png",
+   "outlet": "LBC",
+   "date": "2022-07-09",
+   "url": "https://www.lbc.co.uk/article/sri-lanka-protesters-swim-in-presidents-pool-after-storming-palace-DWzGRG_2/"
+  },
+  {
+   "file": "assets/shot_southfirst_guest.png",
+   "outlet": "The South First",
+   "date": "2026-10-07",
+   "url": "https://thesouthfirst.com/karnataka/dhruv-rathee-to-be-special-guest-at-cjps-bengaluru-protest-against-cec/"
+  },
+  {
+   "file": "assets/shot_hans_aap.png",
+   "outlet": "The Hans India",
+   "date": "2026-05-22",
+   "url": "https://www.thehansindia.com/news/national/cockroach-janta-party-faces-questions-over-alleged-aap-links-after-ex-civil-servant-quits-1078196"
+  },
+  {
+   "file": "assets/shot_brut_dahiya.png",
+   "outlet": "Brut India",
+   "date": "2026-06-24",
+   "url": "https://www.brut.media/in/articles/india/politics/who-is-vijeta-dahiya-the-political-researcher-and-filmmaker-named-as-cjp-spokesperson"
+  },
+  {
+   "file": "assets/shot_wiki_rathee.png",
+   "outlet": "Wikipedia",
+   "date": "2026-10-12",
+   "url": "https://en.wikipedia.org/wiki/Dhruv_Rathee"
+  }
+ ],
+ "photos": [
+  {
+   "file": "assets/protest_crowd.jpg",
+   "title": "Anti-government protest in Sri Lanka 2022.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Anti-government_protest_in_Sri_Lanka_2022.jpg",
+   "author": "AntanO",
+   "licence": "CC BY-SA 4.0",
+   "description": "Anti-government protest in Sri Lanka on April 13, 2022 in front of the Presidential Secretariat",
+   "date": "2022-04-13 15:43:49",
+   "used": true
+  },
+  {
+   "file": "assets/gotagogama.jpg",
+   "title": "Gotagogama.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Gotagogama.jpg",
+   "author": "AntanO",
+   "licence": "CC BY-SA 4.0",
+   "description": "Gotagogama which means \"Gota Go Village\" in Sinhala",
+   "date": "2022-04-13 16:15:08",
+   "used": true
+  },
+  {
+   "file": "assets/crisis.jpg",
+   "title": "Sri Lankan economic crisis 2022.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Sri_Lankan_economic_crisis_2022.jpg",
+   "author": "AntanO",
+   "licence": "CC BY-SA 4.0",
+   "description": "2022 Sri Lankan economic crisis, people wait for long time to refill liquefied petroleum gas cylinders",
+   "date": "2022-05-23 11:57:43",
+   "used": true
+  },
+  {
+   "file": "assets/signboard.jpg",
+   "title": "Sign Board placed at the Gotagogama protest village.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Sign_Board_placed_at_the_Gotagogama_protest_village.jpg",
+   "author": "KajankaMathi",
+   "licence": "CC BY-SA 4.0",
+   "description": "Name/Sign Board placed at the Gotagogama protest village",
+   "date": "2022-04-15",
+   "used": false
+  },
+  {
+   "file": "assets/gotabaya.jpg",
+   "title": "State visit of President HE Gotabaya Rajapaksa to India (November 28-30, 2019).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:State_visit_of_President_HE_Gotabaya_Rajapaksa_to_India_(November_28-30,_2019).jpg",
+   "author": "Government of India",
+   "licence": "GODL-India",
+   "description": "Встреча премьер-министра Индии Нарендры Моди с президентом Шри-Ланки Готабаей Раджапаксой.",
+   "date": "2019-11-29 17:56:59",
+   "used": true
+  },
+  {
+   "file": "assets/demo.jpg",
+   "title": "Demonstration mod den srilankansk, 2022 (beskåret).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Demonstration_mod_den_srilankansk,_2022_(besk%C3%A5ret).jpg",
+   "author": "AntanO",
+   "licence": "CC BY-SA 4.0",
+   "description": "Anti-government protest in Sri Lanka on April 13, 2022 in front of the Presidential Secretariat",
+   "date": "2022-04-13 15:43:49",
+   "used": true
+  },
+  {
+   "file": "assets/bd_1.jpg",
+   "title": "7.Bangladesh quota reform movement 2024.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:7.Bangladesh_quota_reform_movement_2024.jpg",
+   "author": "Rayhan Ahmed",
+   "licence": "CC BY-SA 4.0",
+   "description": "Students launched the \"Bangla Blockade\" following a one-point demand for scrapping all illogical and discriminatory quotas in public service through enactment o",
+   "date": "2024-07-06 16:43:00",
+   "used": true
+  },
+  {
+   "file": "assets/bd_2.jpg",
+   "title": "3.Bangladesh quota reform movement 2024.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:3.Bangladesh_quota_reform_movement_2024.jpg",
+   "author": "Rayhan9d",
+   "licence": "CC BY-SA 4.0",
+   "description": "Students launched the \"Bangla Blockade\" following a one-point demand for scrapping all illogical and discriminatory quotas in public service through enactment o",
+   "date": "2024-07-11 00:22:27",
+   "used": true
+  },
+  {
+   "file": "assets/bd_3.jpg",
+   "title": "10.Bangladesh quota reform movement 2024.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:10.Bangladesh_quota_reform_movement_2024.jpg",
+   "author": "Rayhan9d",
+   "licence": "CC BY-SA 4.0",
+   "description": "Students launched the \"Bangla Blockade\" following a one-point demand for scrapping all illogical and discriminatory quotas in public service through enactment o",
+   "date": "2024-07-06 17:30:14",
+   "used": true
+  },
+  {
+   "file": "assets/bd_4.jpg",
+   "title": "9.Bangladesh quota reform movement 2024.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:9.Bangladesh_quota_reform_movement_2024.jpg",
+   "author": "Rayhan9d",
+   "licence": "CC BY-SA 4.0",
+   "description": "Students launched the \"Bangla Blockade\" following a one-point demand for scrapping all illogical and discriminatory quotas in public service through enactment o",
+   "date": "2024-07-06 17:18:04",
+   "used": true
+  },
+  {
+   "file": "assets/bd_5.jpg",
+   "title": "5.Bangladesh quota reform movement 2024.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:5.Bangladesh_quota_reform_movement_2024.jpg",
+   "author": "Rayhan9d",
+   "licence": "CC BY-SA 4.0",
+   "description": "Students launched the \"Bangla Blockade\" following a one-point demand for scrapping all illogical and discriminatory quotas in public service through enactment o",
+   "date": "2024-07-11 04:26:37",
+   "used": false
+  },
+  {
+   "file": "assets/bd_6.jpg",
+   "title": "Students protest against Quota in Dhaka City.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Students_protest_against_Quota_in_Dhaka_City.jpg",
+   "author": "S.M.M.Musabbir Uddin",
+   "licence": "CC BY 4.0",
+   "description": "Students protest against Quota in Dhaka City",
+   "date": "2024-07-08 18:48:07",
+   "used": false
+  },
+  {
+   "file": "assets/bd_7.jpg",
+   "title": "2024 Bangladesh Quota Reform Movement.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:2024_Bangladesh_Quota_Reform_Movement.jpg",
+   "author": "Rownak Shahriar Ruhan",
+   "licence": "CC BY 4.0",
+   "description": "Bengal blockade in anti-quota movement\nShahbagh, Kantaban, Science Lab",
+   "date": "2024-07-12",
+   "used": true
+  },
+  {
+   "file": "assets/bd_gas.jpg",
+   "title": "Smoke after Police throwing tear gas during Protests.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Smoke_after_Police_throwing_tear_gas_during_Protests.jpg",
+   "author": "Pritom Kundu",
+   "licence": "CC BY-SA 4.0",
+   "description": "Smoke after Bangladesh police throwing tear gas during 2024 quota reform movement, on 17 July in Dhaka",
+   "date": "17 July 2024 (accord",
+   "used": true
+  },
+  {
+   "file": "assets/bd_parl.jpg",
+   "title": "Parliament storming on August 5, 2024.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Parliament_storming_on_August_5,_2024.jpg",
+   "author": "Shazid Ahsan",
+   "licence": "CC BY-SA 4.0",
+   "description": "On August 5, 2024, people from all walks of life, including students, entered Dhaka from across the country to surround the Parliament House and Ganabhaban. Dur",
+   "date": "2024-08-05 18:22:28",
+   "used": true
+  },
+  {
+   "file": "assets/hasina.jpg",
+   "title": "Sheikh Hasina Gopalganj in 2023 (cropped).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Sheikh_Hasina_Gopalganj_in_2023_(cropped).jpg",
+   "author": "DelwarHossain",
+   "licence": "CC BY-SA 4.0",
+   "description": "Sheikh Hasina in Gopalganj Kotalipara, 2023",
+   "date": "25 February 2023",
+   "used": true
+  },
+  {
+   "file": "assets/np_1.jpg",
+   "title": "Demonstrations and protests in Nepal in 2025-070A6049.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Demonstrations_and_protests_in_Nepal_in_2025-070A6049.jpg",
+   "author": "Bijay Chaurasia",
+   "licence": "CC BY-SA 4.0",
+   "description": "Department of Transport Management, Nepal after Genz Protest",
+   "date": "2025-09-20",
+   "used": true
+  },
+  {
+   "file": "assets/np_2.jpg",
+   "title": "Demonstrations and protests in Nepal in 2025-070A6047.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Demonstrations_and_protests_in_Nepal_in_2025-070A6047.jpg",
+   "author": "Bijay Chaurasia",
+   "licence": "CC BY-SA 4.0",
+   "description": "Demonstrations and protests in Nepal in 2025",
+   "date": "2025-09-20",
+   "used": false
+  },
+  {
+   "file": "assets/np_parl.jpg",
+   "title": "Sansad Bhavan of Nepal (International Convention Centre Nepal) After GenZ Protest-070A6053.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Sansad_Bhavan_of_Nepal_(International_Convention_Centre_Nepal)_After_GenZ_Protest-070A6053.jpg",
+   "author": "Bijay Chaurasia",
+   "licence": "CC BY-SA 4.0",
+   "description": "Sansad Bhavan of Nepal (International Convention Centre Nepal) After GenZ Protest.",
+   "date": "2025-09-20",
+   "used": true
+  },
+  {
+   "file": "assets/np_gate.jpg",
+   "title": "Main entrance of Sansad Bhavan of Nepal After GenZ Protest-070A6043.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Main_entrance_of_Sansad_Bhavan_of_Nepal_After_GenZ_Protest-070A6043.jpg",
+   "author": "Bijay Chaurasia",
+   "licence": "CC BY-SA 4.0",
+   "description": "8,9 September 2025\tMain entrance of Sansad Bhavan of Nepal (International Convention Centre Nepal) After GenZ Protest",
+   "date": "2025-09-20",
+   "used": true
+  },
+  {
+   "file": "assets/np_3.jpg",
+   "title": "2025 Nepalese Gen Z protesters infront of Bharatpur mahanagarpalika office.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:2025_Nepalese_Gen_Z_protesters_infront_of_Bharatpur_mahanagarpalika_office.jpg",
+   "author": "हिमाल सुवेदी",
+   "licence": "CC BY-SA 4.0",
+   "description": "नेपालको जेन जी आन्दोलन",
+   "date": "2025-09-09 15:12:39",
+   "used": true
+  },
+  {
+   "file": "assets/port_1.jpg",
+   "title": "Mahinda Rajapaksa Port - Hambanthota.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Mahinda_Rajapaksa_Port_-_Hambanthota.jpg",
+   "author": "Amalbalasooriya",
+   "licence": "CC BY-SA 4.0",
+   "description": "Mahinda Rajapaksa Port - Hambanthota",
+   "date": "2020-08-30",
+   "used": true
+  },
+  {
+   "file": "assets/port_2.jpg",
+   "title": "Hambantota International Port View.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Hambantota_International_Port_View.jpg",
+   "author": "Dilshanhettihewa",
+   "licence": "CC BY-SA 4.0",
+   "description": "One of the largest port in South Asia",
+   "date": "2018-03-14 16:25:18",
+   "used": false
+  },
+  {
+   "file": "assets/cjp_1.jpg",
+   "title": "Jantar Mantar Protest.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Jantar_Mantar_Protest.jpg",
+   "author": "Alnitak-Alnilam-Mintaka",
+   "licence": "CC BY-SA 4.0",
+   "description": "Jantar Mantar Protest, Delhi.",
+   "date": "2026-07-21 19:34:12",
+   "used": true
+  },
+  {
+   "file": "assets/cjp_2.jpg",
+   "title": "Students from All Over India protesting against 2026 NEET UG paper leak place Jantar Mantar on 20 July 2026 ahead of Parliament March 29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Students_from_All_Over_India_protesting_against_2026_NEET_UG_paper_leak_place_Jantar_Mantar_on_20_July_2026_ahead_of_Parliament_March_29.jpg",
+   "author": "Sumita Roy Dutta",
+   "licence": "CC BY-SA 4.0",
+   "description": "Students from All Over India protesting against 2026 NEET UG paper leak place  Jantar Mantar on  20 July  2026 ahead of Parliament March",
+   "date": "2026-07-20 07:56:02",
+   "used": true
+  },
+  {
+   "file": "assets/cjp_3.jpg",
+   "title": "Students from All Over India protesting against 2026 NEET UG paper leak place Jantar Mantar on 20 July 2026 ahead of Parliament March 27.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Students_from_All_Over_India_protesting_against_2026_NEET_UG_paper_leak_place_Jantar_Mantar_on_20_July_2026_ahead_of_Parliament_March_27.jpg",
+   "author": "Sumita Roy Dutta",
+   "licence": "CC BY-SA 4.0",
+   "description": "Students from All Over India protesting against 2026 NEET UG paper leak place  Jantar Mantar on  20 July  2026 ahead of Parliament March",
+   "date": "2026-07-20 07:52:45",
+   "used": true
+  },
+  {
+   "file": "assets/cjp_4.jpg",
+   "title": "Students from All Over India protesting against 2026 NEET UG paper leak place Jantar Mantar on 20 July 2026 ahead of Parliament March 31.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Students_from_All_Over_India_protesting_against_2026_NEET_UG_paper_leak_place_Jantar_Mantar_on_20_July_2026_ahead_of_Parliament_March_31.jpg",
+   "author": "Sumita Roy Dutta",
+   "licence": "CC BY-SA 4.0",
+   "description": "Students from All Over India protesting against 2026 NEET UG paper leak place  Jantar Mantar on  20 July  2026 ahead of Parliament March",
+   "date": "2026-07-20 07:56:07",
+   "used": true
+  },
+  {
+   "file": "assets/cjp_5.jpg",
+   "title": "Students from All Over India protesting against 2026 NEET UG paper leak place Jantar Mantar on 20 July 2026 ahead of Parliament March 21.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Students_from_All_Over_India_protesting_against_2026_NEET_UG_paper_leak_place_Jantar_Mantar_on_20_July_2026_ahead_of_Parliament_March_21.jpg",
+   "author": "Sumita Roy Dutta",
+   "licence": "CC BY-SA 4.0",
+   "description": "Students from All Over India protesting against 2026 NEET UG paper leak place  Jantar Mantar on  20 July  2026 ahead of Parliament March",
+   "date": "2026-07-20 07:50:53",
+   "used": true
+  },
+  {
+   "file": "assets/cjp_6.jpg",
+   "title": "Students from All Over India protesting against 2026 NEET UG paper leak place Jantar Mantar on 20 July 2026 ahead of Parliament March 11.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Students_from_All_Over_India_protesting_against_2026_NEET_UG_paper_leak_place_Jantar_Mantar_on_20_July_2026_ahead_of_Parliament_March_11.jpg",
+   "author": "Sumita Roy Dutta",
+   "licence": "CC BY-SA 4.0",
+   "description": "Students from All Over India protesting against 2026 NEET UG paper leak place  Jantar Mantar on  20 July  2026 ahead of Parliament March",
+   "date": "2026-07-20 07:41:28",
+   "used": true
+  },
+  {
+   "file": "assets/cjp_logo.png",
+   "title": "Cockroach Janta party.png",
+   "page": "https://commons.wikimedia.org/wiki/File:Cockroach_Janta_party.png",
+   "author": "SALlM BlN YOUSUF",
+   "licence": "CC BY 4.0",
+   "description": "Cockroach 🪳 Janta Party",
+   "date": "2026-05-23",
+   "used": false
+  },
+  {
+   "file": "assets/pradhan.jpg",
+   "title": "Dharmendra Pradhan ଧର୍ମେନ୍ଦ୍ର ପ୍ରଧାନ.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Dharmendra_Pradhan_%E0%AC%A7%E0%AC%B0%E0%AD%8D%E0%AC%AE%E0%AD%87%E0%AC%A8%E0%AD%8D%E0%AC%A6%E0%AD%8D%E0%AC%B0_%E0%AC%AA%E0%AD%8D%E0%AC%B0%E0%AC%A7%E0%AC%BE%E0%AC%A8.jpg",
+   "author": "Subhransu Panda",
+   "licence": "CC BY-SA 4.0",
+   "description": "India's PNG Minister Dharmendra Pradhan addresses at an event in Bhubaneswar organised by Odia Media Private Limited &amp; PEN IN Books",
+   "date": "2017-04-09 19:50:18",
+   "used": true
+  },
+  {
+   "file": "assets/gyanesh.jpg",
+   "title": "The Chief Election Commissioner (CEC) of India, Shri Gyanesh Kumar addressing a Press Conference by Election Commission of India at Vigyan Bhawan, in New Delhi on October 27, 2025 (1).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Chief_Election_Commissioner_(CEC)_of_India,_Shri_Gyanesh_Kumar_addressing_a_Press_Conference_by_Election_Commission_of_India_at_Vigyan_Bhawan,_in_New_Delhi_on_October_27,_2025_(1).jpg",
+   "author": "Election Commission of India",
+   "licence": "GODL-India",
+   "description": "The Chief Election Commissioner (CEC) of India, Shri Gyanesh Kumar addressing a Press Conference by Election Commission of India at Vigyan Bhawan, in New Delhi ",
+   "date": "2025-10-27",
+   "used": true
+  },
+  {
+   "file": "assets/rathee.jpg",
+   "title": "Dhruv Rathee (cropped).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Dhruv_Rathee_(cropped).jpg",
+   "author": "NewsClickin",
+   "licence": "CC BY 3.0",
+   "description": "Indian YouTube Social Worker and Internet Activist, Dhruv Rathee",
+   "date": "2019-01-13",
+   "used": true
+  },
+  {
+   "file": "assets/dipke.jpg",
+   "title": "Abhijeet Dipke during an interview with LetsUpp Marathi on YouTube (in Marathi).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Abhijeet_Dipke_during_an_interview_with_LetsUpp_Marathi_on_YouTube_(in_Marathi).jpg",
+   "author": "LetsUpp Marathi on YouTube",
+   "licence": "CC BY 3.0",
+   "description": "This is a screenshot from a podcast interview (in Marathi language) of Abhijeet Dipke on YouTube channel, LetsUpp Marathi. I have confirmed the video is under t",
+   "date": "2026-08-13",
+   "used": true
+  },
+  {
+   "file": "assets/gyanesh_portrait.jpg",
+   "title": "The Chief Election Commissioner of India, Sh. Gyanesh Kumar.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Chief_Election_Commissioner_of_India,_Sh._Gyanesh_Kumar.jpg",
+   "author": "Prime Minister's Office",
+   "licence": "GODL-India",
+   "date": "2025-06-25",
+   "description": "The Chief Election Commissioner of India, Sh. Gyanesh Kumar addressing at the release of Index Cards for bye-elections in under 72 hours on June 25, 2025.",
+   "credit": "Photo: Prime Minister's Office / Wikimedia Commons · GODL-India"
+  },
+  {
+   "file": "assets/voters_queue.jpg",
+   "title": "The female voters in a queue at a polling station, in Sialai village, Nanur, Birbhum district, during the Assembly Election in West Bengal on April 23, 2011.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:The_female_voters_in_a_queue_at_a_polling_station,_in_Sialai_village,_Nanur,_Birbhum_district,_during_the_Assembly_Election_in_West_Bengal_on_April_23,_2011.jpg",
+   "author": "Election Commission of India",
+   "licence": "GODL-India",
+   "date": "2011-04-23 07:47:50",
+   "description": "The female voters in a queue at a polling station, in Sialai village, Nanur, Birbhum district, during the Assembly Election in West Bengal on April 23, 2011.",
+   "credit": "Photo: Election Commission of India / Wikimedia Commons · GODL-India"
+  },
+  {
+   "file": "assets/evm.jpg",
+   "title": "Polling officials are carrying Electronic Voting Machine (EVMs) and other election related materials required for the General Elections 2024, in Patna on May 31, 2024 (2).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Polling_officials_are_carrying_Electronic_Voting_Machine_(EVMs)_and_other_election_related_materials_required_for_the_General_Elections_2024,_in_Patna_on_May_31,_2024_(2).jpg",
+   "author": "Election Commission of India",
+   "licence": "GODL-India",
+   "date": "2024-05-31",
+   "description": "Polling officials are carrying Electronic Voting Machine (EVMs) and other election related materials required for the 7th Phase of General Elections 2024 at Kan",
+   "credit": "Photo: Election Commission of India / Wikimedia Commons · GODL-India"
+  },
+  {
+   "file": "assets/parliament.jpg",
+   "title": "PM installs ‘Sengol’ at new Parliament building, in New Delhi on May 28, 2023.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:PM_installs_%E2%80%98Sengol%E2%80%99_at_new_Parliament_building,_in_New_Delhi_on_May_28,_2023.jpg",
+   "author": "Prime Minister's Office",
+   "licence": "GODL-India",
+   "date": "2023-05-28 07:55:06",
+   "description": "PM installs ‘Sengol’ at new Parliament building, in New Delhi on May 28, 2023.",
+   "credit": "Photo: Prime Minister's Office / Wikimedia Commons · GODL-India"
+  },
+  {
+   "file": "assets/bd_graffiti.jpg",
+   "title": "Graffiti in Rajshahi after July revolution, Bangladesh 01.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Graffiti_in_Rajshahi_after_July_revolution,_Bangladesh_01.jpg",
+   "author": "Mmrsafy",
+   "licence": "CC0",
+   "date": "2024-09-28 16:44:51",
+   "description": "Since August 5, 2024, youths of Bangladesh have painted graffiti on walls across the country. In these graffiti, the words of standing up against oppression, br",
+   "credit": "Photo: Mmrsafy / Wikimedia Commons · CC0"
+  },
+  {
+   "file": "assets/np_chitwan.jpg",
+   "title": "2025 Nepalese Gen Z protesters in Chitwan District.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:2025_Nepalese_Gen_Z_protesters_in_Chitwan_District.jpg",
+   "author": "हिमाल सुवेदी",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-09-09 14:24:16",
+   "description": "नेपालको जेन जी आन्दोलन",
+   "credit": "Photo: हिमाल सुवेदी / Wikimedia Commons · CC BY-SA 4.0"
+  }
+ ],
+ "map": {
+  "source": "Natural Earth 10m countries, India point of view",
+  "licence": "Public domain",
+  "url": "https://www.naturalearthdata.com/"
+ },
+ "music": [
+  {
+   "track": "Interloper",
+   "author": "Kevin MacLeod (incompetech.com)",
+   "licence": "CC BY 4.0",
+   "credit_required": true
+  },
+  {
+   "track": "Crypto",
+   "author": "Kevin MacLeod (incompetech.com)",
+   "licence": "CC BY 4.0",
+   "credit_required": true
+  }
+ ],
+ "fonts": [
+  {
+   "name": "Inter",
+   "licence": "SIL Open Font License"
+  },
+  {
+   "name": "DM Serif Display",
+   "licence": "SIL Open Font License"
+  }
+ ]
+}

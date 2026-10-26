@@ -1,0 +1,173 @@
+# ─────────────────────────────────────────────────────────────
+# studio monorepo: commit code, configs, docs, skills, prompts and
+# small project specs (scenes.json, proofs.json, briefs, lyrics).
+# Never commit media, renders, recordings, models or scraped data.
+# ─────────────────────────────────────────────────────────────
+
+# ── Media: video ─────────────────────────────────────────────
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.avi
+*.m4v
+*.flv
+*.wmv
+*.mts
+*.prproj
+*.mlt
+
+# ── Media: audio ─────────────────────────────────────────────
+*.wav
+*.mp3
+*.m4a
+*.aac
+*.flac
+*.ogg
+*.opus
+*.aiff
+*.aif
+*.mid
+*.midi
+*.aup3
+*.rpp-bak
+
+# ── Media: images & design files ─────────────────────────────
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.bmp
+*.tif
+*.tiff
+*.heic
+*.avif
+*.psd
+*.kra
+*.xcf
+*.ai
+# SVG icons in video-studio/library/icons are code-like and tiny: keep them.
+
+# ── Text, subtitles, logs ────────────────────────────────────
+# Plain-text files are narration drafts, transcripts and notes: not committed.
+*.txt
+!requirements*.txt
+!**/requirements*.txt
+!LICENSE*.txt
+!**/LICENCE*.txt
+*.srt
+*.vtt
+*.ass
+*.log
+logs/
+
+# ── Documents & archives ─────────────────────────────────────
+*.pdf
+*.docx
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.rar
+
+# ── AI models & big data ─────────────────────────────────────
+*.onnx
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.bin
+*.gguf
+*.jsonl
+models/
+
+# ── Python ───────────────────────────────────────────────────
+.venv/
+.venv-*/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# ── Node / Remotion ──────────────────────────────────────────
+node_modules/
+.remotion/
+dist/
+build/
+.cache/
+
+# ── Secrets & local settings ─────────────────────────────────
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+cookies*.txt
+.claude/settings.local.json
+**/.claude/settings.local.json
+
+# ── OS / editor junk ─────────────────────────────────────────
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.~lock.*#
+.idea/
+.vscode/
+
+# ═════════════════════════════════════════════════════════════
+# Per-project generated folders
+# ═════════════════════════════════════════════════════════════
+
+# ── video-studio ─────────────────────────────────────────────
+# Keep: scripts/, tests/, docs/, library/templates, library/maps,
+# library/icons, library/fonts, and per video: scenes.json, proofs.json,
+# shorts.json, circles.json, clip_map.md, research/sources.*
+video-studio/inbox/*
+!video-studio/inbox/.gitkeep
+video-studio/videos/*/voice/
+video-studio/videos/*/raw/
+video-studio/videos/*/timing/
+video-studio/videos/*/hf/
+video-studio/videos/*/check/
+video-studio/videos/*/output/
+video-studio/videos/*/assets/
+video-studio/videos/*/research/trailers/
+video-studio/videos/*/research/.last_search.json
+video-studio/library/custom-source/
+video-studio/library/music/*
+!video-studio/library/music/LICENCE.md
+video-studio/library/sfx/*
+!video-studio/library/sfx/*.md
+
+# ── animation-studio ─────────────────────────────────────────
+# Keep: src/, scripts/, prompts/ (minus out/), jobs/*.md + *.json specs,
+# public/fonts, remotion.config.ts, package*.json
+animation-studio/out/
+animation-studio/prompts/out/
+animation-studio/assets/incoming/
+animation-studio/assets/chatgpt-accounts.json
+animation-studio/public/jobs/
+animation-studio/public/doc/
+animation-studio/public/shots/
+animation-studio/public/fight/
+animation-studio/public/lib/music/
+
+# ── audio-studio ─────────────────────────────────────────────
+# Keep: brief.md, lyrics.md, prompts.md, LANGUAGE.md, templates, scripts
+audio-studio/languages/*/songs/*/generations/
+audio-studio/languages/*/songs/*/stems/
+audio-studio/languages/*/songs/*/vocals/
+audio-studio/languages/*/songs/*/mix/
+audio-studio/languages/*/songs/*/master/
+audio-studio/languages/*/songs/*/midi/
+audio-studio/_shared/samples/*
+!audio-studio/_shared/samples/README.md
+
+# ── idea-generator ───────────────────────────────────────────
+# Keep: analyses, plans, idea banks, briefs, final scripts (.md)
+idea-generator/channels/*/data/
+idea-generator/research/counter-videos/*/
+idea-generator/research/benchmarks/*.json

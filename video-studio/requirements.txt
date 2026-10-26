@@ -1,0 +1,7 @@
+# versions that are known to work together (a newer PyAV broke faster-whisper)
+faster-whisper==1.2.1
+av==12.3.0
+numpy
+requests
+pillow
+pytest

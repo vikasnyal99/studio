@@ -1,0 +1,15 @@
+[transcription]
+# tiny, base, small, medium, large-v3: larger is more accurate for Hindi but slower on CPU.
+# medium takes about 0.6x the length of the recording on this laptop.
+model_size = "medium"
+device = "cpu"
+compute_type = "int8"
+language = "hi"
+vad_filter = true
+beam_size = 5
+# A few words in the spelling you want; nudges Whisper towards Hinglish loanwords.
+initial_prompt = "government, protest, political, economy, India, YouTube, social media"
+# per-word timings, needed so cuts land exactly on spoken words
+word_timestamps = true
+# false stops Whisper repeating itself and skipping lines
+condition_on_previous_text = false

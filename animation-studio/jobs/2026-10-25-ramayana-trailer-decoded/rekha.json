@@ -1,0 +1,11 @@
+{
+ "end": 26,
+ "grade": "warm",
+ "shots": [
+  {"t": 0, "img": "doc/2026-10-25-ramayana-trailer-decoded/setup_p2.png", "move": "push", "fx": ["dust"], "label": {"text": "Lokpriya manyata", "sub": "Popular belief"}},
+  {"t": 5, "in": "black", "img": "doc/2026-10-25-ramayana-trailer-decoded/setup_p1.png", "move": "pull", "fx": ["rays"], "label": {"text": "Valmiki Ramayana", "sub": "Aranya Kanda"}},
+  {"t": 10, "img": "doc/2026-10-25-ramayana-trailer-decoded/setup_p3.png", "move": "push", "fx": ["dust"], "label": {"text": "Sarga 45", "sub": "Sita sends Lakshman away"}},
+  {"t": 16, "img": "doc/2026-10-25-ramayana-trailer-decoded/setup_p4.png", "move": "left", "fx": ["rays"], "label": {"text": "Sarga 46", "sub": "The sanyasi arrives"}},
+  {"t": 21, "img": "doc/2026-10-25-ramayana-trailer-decoded/hero.png", "z": [1.5, 1.65], "focus": [62, 36], "fx": ["dust"]}
+ ]
+}

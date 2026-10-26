@@ -1,0 +1,17 @@
+{
+  "model": "sonnet",
+  "permissions": {
+    "allow": [
+      "Bash(.venv/bin/python scripts/*)",
+      "Bash(.venv/bin/python -m pytest *)",
+      "Bash(ffprobe *)",
+      "Bash(ls *)",
+      "Bash(grep *)",
+      "WebSearch",
+      "WebFetch"
+    ],
+    "additionalDirectories": [
+      "/home/vikas/Desktop/studio/animation-studio"
+    ]
+  }
+}

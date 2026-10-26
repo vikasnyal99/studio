@@ -1,0 +1,1072 @@
+{
+ "shots": {
+  "p_h1": {
+   "kind": "claim",
+   "dur": 4.73,
+   "clip": "bengal.mp4",
+   "from": 0,
+   "who": "S.Y. Quraishi · Dhruv Rathee podcast · 0:01",
+   "quote": "West Bengal ka election illegal tha, isko dobara hona chahiye.",
+   "quoteAt": 0.2
+  },
+  "p_h2": {
+   "kind": "claim",
+   "dur": 4.2,
+   "clip": "13cr.mp4",
+   "from": 7.47,
+   "who": "Dhruv Rathee · podcast intro · 2:58",
+   "quote": "13 crore se zyada voters ke naam kaate ja chuke hain.",
+   "quoteAt": 0.1,
+   "verdict": {
+    "text": "SACH?",
+    "at": 3.2,
+    "c": "gold"
+   }
+  },
+  "p_h3": {
+   "kind": "kinetic",
+   "dur": 3.0,
+   "lines": [
+    {
+     "text": "77 MINUTE",
+     "at": 0.1,
+     "size": 130
+    },
+    {
+     "text": "0 COUNTER-QUESTION",
+     "at": 1.4,
+     "hit": true,
+     "c": "red",
+     "size": 140
+    }
+   ]
+  },
+  "p_h4": {
+   "kind": "kinetic",
+   "dur": 2.14,
+   "lines": [
+    {
+     "text": "SAARE SABOOT",
+     "at": 0.0,
+     "hit": true,
+     "c": "gold",
+     "size": 140
+    },
+    {
+     "text": "COURT KA RECORD",
+     "at": 0.75,
+     "hit": true,
+     "size": 110
+    }
+   ],
+   "stamp": {
+    "text": "FACT CHECK",
+    "at": 1.3,
+    "c": "red"
+   },
+   "bg": "shot_hitavada_sc.png"
+  },
+  "p_c1": {
+   "kind": "claim",
+   "dur": 6.77,
+   "clip": "13crill.mp4",
+   "from": 15.35,
+   "who": "S.Y. Quraishi · Dhruv Rathee podcast · 66:17",
+   "quote": "13 crore logon ko illegally delete kiya… koi maamuli kaam to nahi hai.",
+   "quoteAt": 0.3
+  },
+  "p_d_outlook": {
+   "kind": "doc",
+   "dur": 12.4,
+   "img": "shot_outlook_1339.png",
+   "w": 1700,
+   "h": 520,
+   "chip": "Outlook · 7 October 2026",
+   "marks": [
+    {
+     "k": "hl",
+     "r": [
+      1.5,
+      19,
+      59,
+      13.5
+     ],
+     "at": 0.9
+    },
+    {
+     "k": "circle",
+     "r": [
+      78.8,
+      62.5,
+      13.5,
+      6.7
+     ],
+     "at": 9.4,
+     "c": "red",
+     "note": "ASDD",
+     "side": "below"
+    }
+   ],
+   "cam": [
+    [
+     0,
+     50,
+     50,
+     1.0
+    ],
+    [
+     1.0,
+     45,
+     30,
+     1.2
+    ],
+    [
+     8.6,
+     62,
+     60,
+     1.35
+    ]
+   ]
+  },
+  "p_donut": {
+   "kind": "donut",
+   "dur": 13.3,
+   "title": "13.39 crore · <span style='color:#e8b34b'>kaun?</span>",
+   "total": "13.39 cr",
+   "sub": "ASDD category",
+   "slices": [
+    {
+     "label": "Mar chuke",
+     "v": 2.7,
+     "c": "red",
+     "at": 1.3
+    },
+    {
+     "label": "Duplicate entries",
+     "v": 1.0,
+     "c": "amber",
+     "at": 3.9
+    },
+    {
+     "label": "Absent / shifted / others",
+     "v": 9.5,
+     "c": "#6b8cae",
+     "at": 8.4
+    }
+   ],
+   "credit": "ECI data via The Hindu, 30 Sep 2026"
+  },
+  "p_d_asdd": {
+   "kind": "doc",
+   "dur": 10.8,
+   "img": "shot_hindu_asdd.png",
+   "w": 1900,
+   "h": 700,
+   "chip": "The Hindu · 30 September 2026",
+   "marks": [
+    {
+     "k": "hl",
+     "r": [
+      62.1,
+      13.6,
+      24.7,
+      12.9
+     ],
+     "at": 0.6
+    },
+    {
+     "k": "ul",
+     "r": [
+      1,
+      27.9,
+      72,
+      13.6
+     ],
+     "at": 1.3,
+     "c": "red"
+    },
+    {
+     "k": "hl",
+     "r": [
+      15.3,
+      47,
+      80,
+      7
+     ],
+     "at": 4.3
+    },
+    {
+     "k": "box",
+     "r": [
+      0.5,
+      53.5,
+      57,
+      6.5
+     ],
+     "at": 5.5,
+     "c": "red",
+     "note": "wapas aa sakte hain",
+     "side": "below"
+    }
+   ],
+   "cam": [
+    [
+     0,
+     50,
+     35,
+     1.15
+    ],
+    [
+     3.8,
+     48,
+     50,
+     1.3
+    ]
+   ]
+  },
+  "p_v1": {
+   "kind": "kinetic",
+   "dur": 4.07,
+   "lines": [
+    {
+     "text": "NUMBER SAHI",
+     "at": 0.1,
+     "c": "green",
+     "size": 120
+    },
+    {
+     "text": "MATLAB GALAT",
+     "at": 1.4,
+     "hit": true,
+     "c": "red",
+     "size": 120
+    }
+   ],
+   "stamp": {
+    "text": "ADHA SACH",
+    "at": 2.6,
+    "c": "amber"
+   }
+  },
+  "p_c2": {
+   "kind": "claim",
+   "dur": 5.93,
+   "clip": "section.mp4",
+   "from": 3.39,
+   "who": "S.Y. Quraishi · Dhruv Rathee podcast · 7:45",
+   "quote": "SIR ka lafz to na Constitution mein tha, na Representation of the People Act mein.",
+   "quoteAt": 0.3
+  },
+  "p_law21": {
+   "kind": "law",
+   "dur": 12.9,
+   "head": "REPRESENTATION OF THE PEOPLE ACT, 1950 · SECTION 21(3)",
+   "text": "Notwithstanding anything contained in sub-section (2), the Election Commission may at any time, for reasons to be recorded, direct a [[special revision]] of the electoral roll for [[any constituency or part of a constituency]] in such manner as it may think fit.",
+   "marks": [
+    9.6,
+    6.4
+   ],
+   "credit": "India Code · Representation of the People Act, 1950"
+  },
+  "p_law25": {
+   "kind": "law",
+   "dur": 7.5,
+   "head": "REGISTRATION OF ELECTORS RULES, 1960 · RULE 25(2)",
+   "text": "… the roll shall be revised either [[intensively]] or [[summarily]] or partly intensively and partly summarily, as the Election Commission may direct.",
+   "marks": [
+    4.9,
+    5.9
+   ],
+   "credit": "India Code · Registration of Electors Rules, 1960"
+  },
+  "p_k_both": {
+   "kind": "kinetic",
+   "dur": 2.6,
+   "lines": [
+    {
+     "text": "SPECIAL ✓",
+     "at": 0.05,
+     "c": "gold",
+     "size": 140,
+     "hit": true
+    },
+    {
+     "text": "INTENSIVE ✓",
+     "at": 1.0,
+     "c": "gold",
+     "size": 140,
+     "hit": true
+    }
+   ]
+  },
+  "p_d_sc": {
+   "kind": "doc",
+   "dur": 10.4,
+   "img": "shot_hitavada_sc.png",
+   "w": 1900,
+   "h": 1640,
+   "chip": "The Hitavada · 28 May 2026",
+   "marks": [
+    {
+     "k": "ul",
+     "r": [
+      1,
+      1.2,
+      38.2,
+      3.7
+     ],
+     "at": 0.8,
+     "c": "red"
+    },
+    {
+     "k": "hl",
+     "r": [
+      55.8,
+      72,
+      43.7,
+      2.4
+     ],
+     "at": 5.0
+    },
+    {
+     "k": "hl",
+     "r": [
+      1,
+      75,
+      78,
+      2.4
+     ],
+     "at": 5.5
+    }
+   ],
+   "cam": [
+    [
+     0,
+     30,
+     8,
+     2.2
+    ],
+    [
+     3.6,
+     50,
+     74,
+     1.8
+    ]
+   ]
+  },
+  "p_c3a": {
+   "kind": "claim",
+   "dur": 6.13,
+   "clip": "sc.mp4",
+   "from": 0.0,
+   "who": "S.Y. Quraishi · Dhruv Rathee podcast · 8:51",
+   "quote": "Supreme Court ne keh diya… Election Commission jahan chahe kara sakta hai.",
+   "quoteAt": 0.3
+  },
+  "p_c3b": {
+   "kind": "claim",
+   "dur": 3.03,
+   "clip": "sc.mp4",
+   "from": 10.0,
+   "who": "S.Y. Quraishi · Dhruv Rathee podcast · 9:01",
+   "quote": "Finally Supreme Court ka decision yahi hai.",
+   "quoteAt": 0.0,
+   "verdict": {
+    "text": "KHUD MAANA",
+    "at": 1.1,
+    "c": "gold"
+   }
+  },
+  "p_c4": {
+   "kind": "claim",
+   "dur": 8.5,
+   "clip": "migrant.mp4",
+   "from": 0.0,
+   "who": "S.Y. Quraishi · Dhruv Rathee podcast · 58:03",
+   "quote": "Delhi aaye to Delhi mein addition hona chahiye… addition kahin nahi ho raha.",
+   "quoteAt": 0.3
+  },
+  "p_k_mig": {
+   "kind": "kinetic",
+   "dur": 6.85,
+   "lines": [
+    {
+     "text": "PURANI JAGAH ✗",
+     "at": 0.2,
+     "c": "red",
+     "size": 120
+    },
+    {
+     "text": "NAYI JAGAH ✓",
+     "at": 1.6,
+     "c": "green",
+     "size": 120,
+     "hit": true
+    }
+   ],
+   "stamp": {
+    "text": "GALAT",
+    "at": 5.6,
+    "c": "red"
+   }
+  },
+  "p_c5": {
+   "kind": "claim",
+   "dur": 8.6,
+   "clip": "pop.mp4",
+   "from": 2.0,
+   "who": "S.Y. Quraishi · Dhruv Rathee podcast · 13:45",
+   "quote": "103 crore aabadi… sirf 88 crore voter reh jaayenge… 12 crore kahan gaye?",
+   "quoteAt": 0.3
+  },
+  "p_v4": {
+   "kind": "kinetic",
+   "dur": 3.15,
+   "lines": [
+    {
+     "text": "ADHOORA NUMBER",
+     "at": 0.1,
+     "size": 130
+    }
+   ],
+   "stamp": {
+    "text": "JALDBAAZI",
+    "at": 1.2,
+    "c": "amber"
+   }
+  },
+  "p_c6a": {
+   "kind": "claim",
+   "dur": 4.6,
+   "clip": "bihar500.mp4",
+   "from": 16.17,
+   "who": "S.Y. Quraishi · Dhruv Rathee podcast · 45:41",
+   "quote": "Maine akhbaar mein kahin padha tha…",
+   "quoteAt": 1.3
+  },
+  "p_c6b": {
+   "kind": "claim",
+   "dur": 2.0,
+   "clip": "bihar500.mp4",
+   "from": 23.46,
+   "who": "S.Y. Quraishi · Dhruv Rathee podcast · 45:47",
+   "quote": "…sirf 500 foreigner paye gaye the.",
+   "quoteAt": 0.0
+  },
+  "p_c6c": {
+   "kind": "claim",
+   "dur": 5.63,
+   "clip": "bihar500.mp4",
+   "from": 32.61,
+   "who": "S.Y. Quraishi · Dhruv Rathee podcast · 45:56",
+   "quote": "150 Bangladeshi aur 350 Nepal ki Hindu auratein.",
+   "quoteAt": 0.1
+  },
+  "p_k500": {
+   "kind": "kinetic",
+   "dur": 6.3,
+   "lines": [
+    {
+     "text": "500?",
+     "at": 0.1,
+     "c": "gold",
+     "size": 170,
+     "hit": true
+    },
+    {
+     "text": "SOURCE: \"KISI AKHBAAR MEIN\"",
+     "at": 2.3,
+     "size": 90
+    }
+   ],
+   "stamp": {
+    "text": "BINA SABOOT",
+    "at": 4.9,
+    "c": "red"
+   }
+  },
+  "p_d_nl": {
+   "kind": "doc",
+   "dur": 8.2,
+   "img": "shot_nl_foreign.png",
+   "w": 1820,
+   "h": 620,
+   "chip": "Newslaundry · 4 November 2025",
+   "marks": [
+    {
+     "k": "circle",
+     "r": [
+      75.3,
+      22.6,
+      13.2,
+      9.7
+     ],
+     "at": 1.0,
+     "c": "red"
+    },
+    {
+     "k": "hl",
+     "r": [
+      2.2,
+      63.7,
+      35.7,
+      7.3
+     ],
+     "at": 5.3
+    }
+   ],
+   "cam": [
+    [
+     0,
+     50,
+     45,
+     1.1
+    ],
+    [
+     0.8,
+     62,
+     32,
+     1.25
+    ],
+    [
+     4.8,
+     45,
+     60,
+     1.25
+    ]
+   ]
+  },
+  "p_k_appeal": {
+   "kind": "kinetic",
+   "dur": 7.0,
+   "lines": [
+    {
+     "text": "BIHAR · FINAL LIST KE BAAD",
+     "at": 0.3,
+     "size": 80
+    },
+    {
+     "text": "0 APPEAL",
+     "at": 4.6,
+     "hit": true,
+     "c": "gold",
+     "size": 170
+    }
+   ]
+  },
+  "p_c7": {
+   "kind": "claim",
+   "dur": 7.9,
+   "clip": "illegal.mp4",
+   "from": 24.16,
+   "who": "S.Y. Quraishi · Dhruv Rathee podcast · 47:15",
+   "quote": "Jo West Bengal ka election tha, ye illegal tha… illegal roll ke basis pe hua.",
+   "quoteAt": 1.1
+  },
+  "p_d_bengal": {
+   "kind": "doc",
+   "dur": 10.4,
+   "img": "shot_outlook_bengal.png",
+   "w": 1700,
+   "h": 560,
+   "chip": "Outlook · 13 April 2026",
+   "marks": [
+    {
+     "k": "hl",
+     "r": [
+      25.6,
+      17.9,
+      43.2,
+      12.5
+     ],
+     "at": 1.3
+    },
+    {
+     "k": "ul",
+     "r": [
+      14.7,
+      32,
+      22.4,
+      12.5
+     ],
+     "at": 5.5,
+     "c": "red"
+    },
+    {
+     "k": "box",
+     "r": [
+      81.2,
+      91,
+      11.8,
+      5.4
+     ],
+     "at": 0.3,
+     "c": "red"
+    }
+   ],
+   "cam": [
+    [
+     0,
+     50,
+     45,
+     1.0
+    ],
+    [
+     1.0,
+     48,
+     30,
+     1.2
+    ]
+   ]
+  },
+  "p_k_raay": {
+   "kind": "kinetic",
+   "dur": 5.9,
+   "lines": [
+    {
+     "text": "27 MAY 2026 · SIR UPHELD",
+     "at": 0.3,
+     "c": "gold",
+     "size": 100
+    },
+    {
+     "text": "BENGAL ELECTION ILLEGAL? ✗",
+     "at": 3.0,
+     "hit": true,
+     "size": 100
+    }
+   ],
+   "stamp": {
+    "text": "SIRF RAAY",
+    "at": 4.3,
+    "c": "amber"
+   }
+  },
+  "p_c8": {
+   "kind": "claim",
+   "dur": 7.1,
+   "clip": "nrc.mp4",
+   "from": 45.8,
+   "who": "S.Y. Quraishi · Dhruv Rathee podcast · 48:42",
+   "quote": "SIR NRC ka baap hai… 7 lakh Muslim nikle, 12 lakh Hindu nikle.",
+   "quoteAt": 0.4
+  },
+  "p_d_sc2": {
+   "kind": "doc",
+   "dur": 9.4,
+   "img": "shot_hitavada_sc.png",
+   "w": 1900,
+   "h": 1640,
+   "chip": "The Hitavada · 28 May 2026",
+   "marks": [
+    {
+     "k": "hl",
+     "r": [
+      1,
+      81.1,
+      67,
+      2.4
+     ],
+     "at": 4.2
+    },
+    {
+     "k": "box",
+     "r": [
+      0.5,
+      78,
+      99,
+      7
+     ],
+     "at": 6.6,
+     "c": "red",
+     "note": "deletion ≠ non-citizen",
+     "side": "above"
+    }
+   ],
+   "cam": [
+    [
+     0,
+     50,
+     50,
+     1.0
+    ],
+    [
+     0.6,
+     50,
+     80,
+     1.85
+    ]
+   ]
+  },
+  "p_k_nrc": {
+   "kind": "kinetic",
+   "dur": 3.6,
+   "lines": [
+    {
+     "text": "NRC = CITIZENSHIP",
+     "at": 0.05,
+     "c": "gold",
+     "size": 110
+    },
+    {
+     "text": "VOTER LIST = VOTER LIST",
+     "at": 1.7,
+     "size": 110,
+     "hit": true
+    }
+   ]
+  },
+  "p_d_republic": {
+   "kind": "doc",
+   "dur": 7.2,
+   "img": "shot_republic_nrc.png",
+   "w": 1700,
+   "h": 640,
+   "chip": "Republic World (PTI) · 30 November 2019",
+   "marks": [
+    {
+     "k": "hl",
+     "r": [
+      1.8,
+      13.3,
+      51,
+      12.5
+     ],
+     "at": 0.4
+    },
+    {
+     "k": "hl",
+     "r": [
+      44.7,
+      50.8,
+      31,
+      7
+     ],
+     "at": 3.2
+    },
+    {
+     "k": "circle",
+     "r": [
+      44.7,
+      50.8,
+      31,
+      7
+     ],
+     "at": 4.4,
+     "c": "red"
+    }
+   ],
+   "cam": [
+    [
+     0,
+     50,
+     40,
+     1.0
+    ],
+    [
+     2.8,
+     52,
+     50,
+     1.2
+    ]
+   ]
+  },
+  "p_v7": {
+   "kind": "kinetic",
+   "dur": 3.5,
+   "lines": [
+    {
+     "text": "7 LAKH / 12 LAKH?",
+     "at": 0.1,
+     "size": 120
+    }
+   ],
+   "stamp": {
+    "text": "BINA SABOOT",
+    "at": 0.9,
+    "c": "red"
+   }
+  },
+  "p_c9a": {
+   "kind": "claim",
+   "dur": 6.93,
+   "clip": "form6.mp4",
+   "from": 2.37,
+   "who": "S.Y. Quraishi · Dhruv Rathee podcast · 50:57",
+   "quote": "Form 6 ke zariye purane voter ko le hi nahi sakte… illegal hai.",
+   "quoteAt": 1.0
+  },
+  "p_c9b": {
+   "kind": "claim",
+   "dur": 3.13,
+   "clip": "form6.mp4",
+   "from": 27.42,
+   "who": "S.Y. Quraishi · Dhruv Rathee podcast · 51:21",
+   "quote": "…criminally liable hoon, ek saal ki jail hai.",
+   "quoteAt": 0.0
+  },
+  "p_d_form6": {
+   "kind": "doc",
+   "dur": 6.9,
+   "img": "shot_scroll_form6.png",
+   "w": 1320,
+   "h": 780,
+   "chip": "Scroll · 19 October 2026",
+   "marks": [
+    {
+     "k": "hl",
+     "r": [
+      1.5,
+      10,
+      95,
+      34
+     ],
+     "at": 0.4
+    },
+    {
+     "k": "circle",
+     "r": [
+      42.4,
+      34.6,
+      28.4,
+      10.9
+     ],
+     "at": 3.0,
+     "c": "red"
+    }
+   ],
+   "cam": [
+    [
+     0,
+     50,
+     30,
+     1.2
+    ]
+   ]
+  },
+  "p_v8": {
+   "kind": "kinetic",
+   "dur": 3.0,
+   "lines": [
+    {
+     "text": "JAIL KA DARR?",
+     "at": 0.1,
+     "size": 130
+    }
+   ],
+   "stamp": {
+    "text": "COURT NE NAHI MAANA",
+    "at": 0.9,
+    "c": "red"
+   }
+  },
+  "p_c10a": {
+   "kind": "claim",
+   "dur": 1.9,
+   "clip": "rule.mp4",
+   "from": 4.96,
+   "who": "S.Y. Quraishi · Dhruv Rathee podcast · 53:11",
+   "quote": "Jab Punjab High Court ne kaha…",
+   "quoteAt": 0.0
+  },
+  "p_c10b": {
+   "kind": "claim",
+   "dur": 2.8,
+   "clip": "rule.mp4",
+   "from": 12.82,
+   "who": "S.Y. Quraishi · Dhruv Rathee podcast · 53:19",
+   "quote": "…do ghante ke andar law minister se keh diya.",
+   "quoteAt": 0.0
+  },
+  "p_dates": {
+   "kind": "dates",
+   "dur": 13.8,
+   "title": "Rule 93(2)(a) · <span style='color:#e8b34b'>kitne din?</span>",
+   "items": [
+    {
+     "date": "9 Dec 2024",
+     "text": "High Court ka order",
+     "at": 2.5
+    },
+    {
+     "date": "17 Dec",
+     "text": "EC ka letter",
+     "at": 6.0
+    },
+    {
+     "date": "20 Dec",
+     "text": "Rule notified",
+     "at": 10.2
+    }
+   ],
+   "claim": {
+    "text": "2 GHANTE?",
+    "at": 11.2
+   },
+   "result": {
+    "text": "11 DIN",
+    "at": 11.6
+   },
+   "credit": "Scroll; MediaNama"
+  },
+  "p_d_rule": {
+   "kind": "doc",
+   "dur": 10.5,
+   "img": "shot_scroll_rule93.png",
+   "w": 1320,
+   "h": 680,
+   "chip": "Scroll · 11 June 2025",
+   "marks": [
+    {
+     "k": "hl",
+     "r": [
+      1.5,
+      25.7,
+      33,
+      12.5
+     ],
+     "at": 0.6
+    },
+    {
+     "k": "hl",
+     "r": [
+      1.5,
+      69,
+      95,
+      6.6
+     ],
+     "at": 3.9
+    },
+    {
+     "k": "box",
+     "r": [
+      1.5,
+      91,
+      14.4,
+      5
+     ],
+     "at": 0.2,
+     "c": "red"
+    }
+   ],
+   "cam": [
+    [
+     0,
+     50,
+     45,
+     1.0
+    ],
+    [
+     3.5,
+     50,
+     62,
+     1.2
+    ]
+   ],
+   "stamp": {
+    "text": "BADHA-CHADHA",
+    "at": 8.6,
+    "c": "amber"
+   }
+  },
+  "p_score": {
+   "kind": "score",
+   "dur": 8.3,
+   "title": "Scorecard · <span style='color:#e8b34b'>9 daave</span>",
+   "rows": [
+    {
+     "claim": "13 crore \"illegal\" delete",
+     "verdict": "ADHA SACH",
+     "c": "amber",
+     "at": 0.6
+    },
+    {
+     "claim": "SIR kaanoon mein nahi",
+     "verdict": "GALAT",
+     "c": "red",
+     "at": 1.15
+    },
+    {
+     "claim": "Migrant kahin jude nahi",
+     "verdict": "GALAT",
+     "c": "red",
+     "at": 1.7000000000000002
+    },
+    {
+     "claim": "12 crore gayab",
+     "verdict": "ADHOORA",
+     "c": "amber",
+     "at": 2.25
+    },
+    {
+     "claim": "Bihar: sirf 500 foreigner",
+     "verdict": "BINA SABOOT",
+     "c": "red",
+     "at": 2.8000000000000003
+    },
+    {
+     "claim": "Bengal election illegal",
+     "verdict": "SIRF RAAY",
+     "c": "amber",
+     "at": 3.35
+    },
+    {
+     "claim": "NRC: 12 lakh Hindu, 7 lakh Muslim",
+     "verdict": "BINA SABOOT",
+     "c": "red",
+     "at": 3.9000000000000004
+    },
+    {
+     "claim": "Form 6 bharo to jail",
+     "verdict": "KHAARIJ",
+     "c": "red",
+     "at": 4.45
+    },
+    {
+     "claim": "2 ghante mein rule badla",
+     "verdict": "BADHA-CHADHA",
+     "c": "amber",
+     "at": 5.0
+    }
+   ]
+  },
+  "p_dates_side": {
+   "kind": "side",
+   "dur": 13.8,
+   "cam": "cam_dates.mp4",
+   "camFrom": 0,
+   "camPos": "56% 40%",
+   "inner": {
+    "kind": "dates",
+    "dur": 13.8,
+    "title": "Rule 93(2)(a) · <span style='color:#e8b34b'>kitne din?</span>",
+    "items": [
+     {
+      "date": "9 Dec 2024",
+      "text": "High Court ka order",
+      "at": 2.5
+     },
+     {
+      "date": "17 Dec",
+      "text": "EC ka letter",
+      "at": 6.0
+     },
+     {
+      "date": "20 Dec",
+      "text": "Rule notified",
+      "at": 10.2
+     }
+    ],
+    "claim": {
+     "text": "2 GHANTE?",
+     "at": 11.2
+    },
+    "result": {
+     "text": "11 DIN",
+     "at": 11.6
+    },
+    "credit": "Scroll; MediaNama"
+   }
+  }
+ }
+}
