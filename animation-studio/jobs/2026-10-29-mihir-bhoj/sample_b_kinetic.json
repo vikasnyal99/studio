@@ -1,0 +1,17 @@
+{"end": 29.5, "grade": "warm", "audio": "jobs/2026-10-29-mihir-bhoj/sample.wav",
+ "music": {"src": "lib:music/Crypto.mp3", "vol": 0.16},
+ "sfx": [[0.1, "lib:sfx/hit.wav", 0.6], [3.9, "lib:sfx/whoosh.wav", 0.45], [6.4, "lib:sfx/whoosh.wav", 0.45], [8.2, "lib:sfx/hit.wav", 0.6], [11.6, "lib:sfx/whoosh.wav", 0.4], [14.4, "lib:sfx/hit.wav", 0.65], [18.0, "lib:sfx/whoosh.wav", 0.4], [21.7, "lib:sfx/riser.wav", 0.35], [23.9, "lib:sfx/hit.wav", 0.7], [25.8, "lib:sfx/whoosh.wav", 0.4], [26.6, "lib:sfx/stamp.wav", 0.55]],
+ "shots": [
+  {"t": 0, "img": "doc/2026-10-29-mihir-bhoj/sil_conquest_p1.png", "punch": true, "grade": "none", "fx": ["embers"], "slam": {"text": "7th Century", "at": 0.1}, "shake": [0.1]},
+  {"t": 1.9, "in": "flash", "img": "doc/2026-10-29-mihir-bhoj/sil_conquest_p3.png", "move": "right", "grade": "none"},
+  {"t": 3.9, "in": "flash", "img": "doc/2026-10-29-mihir-bhoj/sil_empire_p3.png", "punch": true, "grade": "none", "slam": {"text": "Duniya ka map", "sub": "rapidly change ho raha tha", "at": 0.4}},
+  {"t": 6.4, "in": "flash", "img": "doc/2026-10-29-mihir-bhoj/sil_nagabhata_p1.png", "punch": true, "grade": "none", "fx": ["dust"]},
+  {"t": 7.8, "img": "doc/2026-10-29-mihir-bhoj/sil_sindh_p3.png", "z": [1.3, 1.45], "grade": "none", "slam": {"text": "Nayi power", "at": 0.4, "color": "#ffd27a"}, "shake": [8.2]},
+  {"t": 9.6, "in": "flash", "img": "doc/2026-10-29-mihir-bhoj/sil_conquest_p2.png", "punch": true, "grade": "none", "fx": ["embers"]},
+  {"t": 11.6, "in": "flash", "img": "doc/2026-10-29-mihir-bhoj/sil_empire_p1.png", "punch": true, "grade": "none", "fx": ["smoke"]},
+  {"t": 14.0, "in": "flash", "img": "doc/2026-10-29-mihir-bhoj/sil_sindh_p3.png", "z": [1.1, 1.25], "grade": "none", "slam": {"text": "632 CE", "sub": "Prophet Muhammad ki death", "at": 0.4, "color": "#ffd27a"}, "shake": [14.4]},
+  {"t": 17.0, "in": "flash", "img": "doc/2026-10-29-mihir-bhoj/sil_conquest_p3.png", "z": [1.35, 1.5], "focus": [30, 55], "grade": "none", "slam": {"text": "Arab Caliphates", "sub": "extraordinary expansion", "at": 1.0}},
+  {"t": 21.1, "in": "flash", "img": "doc/2026-10-29-mihir-bhoj/sil_empire_p2.png", "punch": true, "grade": "none", "fx": ["dust"]},
+  {"t": 23.1, "in": "flash", "img": "doc/2026-10-29-mihir-bhoj/sil_conquest_p1.png", "z": [1.4, 1.6], "focus": [30, 55], "grade": "none", "fx": ["embers"], "slam": {"text": "Yarmouk · 636", "sub": "Byzantine Empire ki haar", "at": 0.8, "color": "#ff9a5a"}, "shake": [23.9]},
+  {"t": 25.8, "in": "flash", "img": "doc/2026-10-29-mihir-bhoj/sil_empire_p1.png", "punch": true, "grade": "none", "fx": ["smoke"], "slam": {"text": "Syria + Palestine", "sub": "Arab control", "at": 0.8}, "shake": [26.6]}
+ ]}

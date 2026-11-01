@@ -3,6 +3,8 @@ Written 2026-10-24.
 
 ✅ **Release: Nov 5, 2026 worldwide** (Sony Pictures international + Sacnilk India tracker). The earlier "Diwali Nov 8" reports are outdated. Part 2 comes at Diwali 2027.
 
+**Video: 2026-10-25-ramayana-trailer-decoded** (trailer decoded + mythology), published on Movies Fanatic 2026-10-27: https://youtu.be/a84GVEI_5Bw
+
 **Trailers out so far:**
 1. Hindi trailer: Jul 30, 2026, about 4:15
 2. Ravana Tandav song: Dussehra

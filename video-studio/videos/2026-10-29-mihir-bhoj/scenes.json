@@ -1,0 +1,1074 @@
+{
+ "voice": "videos/2026-10-29-mihir-bhoj/audio-edit/narration_v4.wav",
+ "duration": 586.5,
+ "map": "caliphate_india",
+ "music": [
+  {
+   "file": "library/music/Faceoff.mp3",
+   "from": 0,
+   "to": 586.5,
+   "below_voice_db": 4
+  }
+ ],
+ "scenes": [
+  {
+   "t": 0.0,
+   "type": "clip",
+   "clip": "war_sindh_co.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true,
+   "sfx": [
+    [
+     0.12,
+     "gallop_short",
+     -14
+    ],
+    [
+     4.32,
+     "gallop_short",
+     -14
+    ],
+    [
+     6.12,
+     "sword1",
+     -12
+    ],
+    [
+     6.57,
+     "sword2",
+     -12
+    ],
+    [
+     7.02,
+     "sword3",
+     -12
+    ]
+   ]
+  },
+  {
+   "t": 12.22,
+   "type": "clip",
+   "clip": "m_west.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 23.42,
+   "type": "clip",
+   "clip": "war_west.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true,
+   "sfx": [
+    [
+     23.42,
+     "gallop_short",
+     -14
+    ],
+    [
+     26.42,
+     "sword1",
+     -12
+    ],
+    [
+     26.87,
+     "sword2",
+     -12
+    ],
+    [
+     27.32,
+     "sword3",
+     -12
+    ]
+   ]
+  },
+  {
+   "t": 30.02,
+   "type": "clip",
+   "clip": "mb4_ch1.mp4",
+   "from": 30.02,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 34.52,
+   "type": "clip",
+   "clip": "m_kannauj.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 40.32,
+   "type": "clip",
+   "clip": "k_dushman.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true,
+   "sfx": [
+    [
+     41.72,
+     "hit",
+     -6
+    ],
+    [
+     42.42,
+     "hit",
+     -6
+    ]
+   ]
+  },
+  {
+   "t": 45.72,
+   "type": "clip",
+   "clip": "mb4_ch1.mp4",
+   "from": 45.72,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 49.5,
+   "type": "clip",
+   "clip": "hook_v4.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true,
+   "sfx": [
+    [
+     54.120000000000005,
+     "whoosh",
+     -14
+    ],
+    [
+     55.32,
+     "whoosh",
+     -14
+    ],
+    [
+     58.52,
+     "whoosh",
+     -14
+    ],
+    [
+     66.56,
+     "whoosh",
+     -14
+    ],
+    [
+     72.17,
+     "whoosh",
+     -14
+    ],
+    [
+     84.42,
+     "whoosh",
+     -14
+    ],
+    [
+     89.22,
+     "whoosh",
+     -14
+    ]
+   ]
+  },
+  {
+   "t": 93.9,
+   "type": "clip",
+   "clip": "m_scale.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 96.49,
+   "type": "clip",
+   "clip": "mb4_ch1.mp4",
+   "from": 96.49,
+   "zoom": 1.0,
+   "quiet": true,
+   "sfx": [
+    [
+     96.49,
+     "whoosh",
+     -10
+    ],
+    [
+     96.69,
+     "hit",
+     -6
+    ]
+   ]
+  },
+  {
+   "t": 99.0,
+   "type": "clip",
+   "clip": "m_northindia.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 102.6,
+   "type": "clip",
+   "clip": "mb4_ch1.mp4",
+   "from": 102.6,
+   "zoom": 1.0,
+   "quiet": true,
+   "sfx": [
+    [
+     102.6,
+     "whoosh",
+     -10
+    ],
+    [
+     103.0,
+     "hit",
+     -6
+    ]
+   ]
+  },
+  {
+   "t": 110.6,
+   "type": "clip",
+   "clip": "k_1000.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true,
+   "sfx": [
+    [
+     111.6,
+     "hit",
+     -6
+    ]
+   ]
+  },
+  {
+   "t": 114.6,
+   "type": "clip",
+   "clip": "mb4_ch1.mp4",
+   "from": 114.6,
+   "zoom": 1.0,
+   "quiet": true,
+   "sfx": [
+    [
+     120.1,
+     "whoosh",
+     -10
+    ],
+    [
+     121.7,
+     "hit",
+     -6
+    ]
+   ]
+  },
+  {
+   "t": 124.95,
+   "type": "clip",
+   "clip": "p_wiki_mihir.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 128.05,
+   "type": "clip",
+   "clip": "p_wiki_pratihara.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 133.03,
+   "type": "clip",
+   "clip": "mb4_ch1.mp4",
+   "from": 133.03,
+   "zoom": 1.0,
+   "quiet": true,
+   "sfx": [
+    [
+     135.94,
+     "whoosh",
+     -10
+    ]
+   ]
+  },
+  {
+   "t": 150.0,
+   "type": "clip",
+   "clip": "mb4_ch2.mp4",
+   "from": 0.0,
+   "zoom": 1.0,
+   "quiet": true,
+   "sfx": [
+    [
+     157.38,
+     "hit",
+     -6
+    ],
+    [
+     162.28,
+     "whoosh",
+     -10
+    ],
+    [
+     164.48,
+     "whoosh",
+     -10
+    ],
+    [
+     164.58,
+     "hit",
+     -6
+    ]
+   ]
+  },
+  {
+   "t": 165.98,
+   "type": "clip",
+   "clip": "m_scale2.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 167.58,
+   "type": "clip",
+   "clip": "mb4_ch2.mp4",
+   "from": 17.58,
+   "zoom": 1.0,
+   "quiet": true,
+   "sfx": [
+    [
+     167.58,
+     "whoosh",
+     -10
+    ],
+    [
+     167.68,
+     "hit",
+     -6
+    ],
+    [
+     169.18,
+     "whoosh",
+     -10
+    ],
+    [
+     169.28,
+     "hit",
+     -6
+    ],
+    [
+     171.05,
+     "whoosh",
+     -10
+    ],
+    [
+     171.35,
+     "hit",
+     -6
+    ]
+   ]
+  },
+  {
+   "t": 177.99,
+   "type": "clip",
+   "clip": "m_world7.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 184.29,
+   "type": "clip",
+   "clip": "mb4_ch2.mp4",
+   "from": 34.29,
+   "zoom": 1.0,
+   "quiet": true,
+   "sfx": [
+    [
+     184.59,
+     "hit",
+     -6
+    ]
+   ]
+  },
+  {
+   "t": 186.69,
+   "type": "clip",
+   "clip": "x_yarmouk_hayton.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 189.09,
+   "type": "clip",
+   "clip": "x_coin_heraclius.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 191.59,
+   "type": "clip",
+   "clip": "m_arab632.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 198.99,
+   "type": "clip",
+   "clip": "war_yarmouk.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true,
+   "sfx": [
+    [
+     198.99,
+     "gallop_short",
+     -14
+    ],
+    [
+     200.59,
+     "sword1",
+     -12
+    ],
+    [
+     201.04,
+     "sword2",
+     -12
+    ],
+    [
+     201.39,
+     "sword1",
+     -12
+    ],
+    [
+     201.49,
+     "sword3",
+     -12
+    ],
+    [
+     201.84,
+     "sword2",
+     -12
+    ],
+    [
+     202.29,
+     "sword3",
+     -12
+    ]
+   ]
+  },
+  {
+   "t": 203.49,
+   "type": "clip",
+   "clip": "m_levant.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 211.09,
+   "type": "clip",
+   "clip": "x_qadisiyyah_folio.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 214.69,
+   "type": "clip",
+   "clip": "war_qadisiyyah.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true,
+   "sfx": [
+    [
+     216.09,
+     "gallop_short",
+     -14
+    ],
+    [
+     216.29,
+     "sword1",
+     -12
+    ],
+    [
+     216.74,
+     "sword2",
+     -12
+    ],
+    [
+     217.19,
+     "sword3",
+     -12
+    ],
+    [
+     217.89,
+     "sword1",
+     -12
+    ],
+    [
+     218.34,
+     "sword2",
+     -12
+    ],
+    [
+     218.79,
+     "sword3",
+     -12
+    ]
+   ]
+  },
+  {
+   "t": 222.39,
+   "type": "clip",
+   "clip": "x_coin_yazdegerd.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 226.09,
+   "type": "clip",
+   "clip": "m_nafrica.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 237.39,
+   "type": "clip",
+   "clip": "x_gibraltar.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 241.09,
+   "type": "clip",
+   "clip": "m_iberia.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 248.79,
+   "type": "clip",
+   "clip": "x_guadalete.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 253.39,
+   "type": "clip",
+   "clip": "m_centralasia.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 262.17,
+   "type": "clip",
+   "clip": "mb4_ch2.mp4",
+   "from": 112.17,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 264.1,
+   "type": "clip",
+   "clip": "p_wiki_nagabhata.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 271.69,
+   "type": "clip",
+   "clip": "x_gwalior_1844.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 275.09,
+   "type": "clip",
+   "clip": "p_ei101.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 280.1,
+   "type": "clip",
+   "clip": "p_ei103a.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 286.7,
+   "type": "clip",
+   "clip": "war_nagabhata.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true,
+   "sfx": [
+    [
+     287.9,
+     "gallop_short",
+     -14
+    ],
+    [
+     290.3,
+     "sword1",
+     -12
+    ],
+    [
+     290.75,
+     "sword2",
+     -12
+    ],
+    [
+     291.2,
+     "sword3",
+     -12
+    ]
+   ]
+  },
+  {
+   "t": 293.68,
+   "type": "clip",
+   "clip": "mb4_ch2.mp4",
+   "from": 143.68,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 298.48,
+   "type": "clip",
+   "clip": "x_teli_mandir.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 303.26,
+   "type": "clip",
+   "clip": "mb4_ch3.mp4",
+   "from": 3.26,
+   "zoom": 1.0,
+   "quiet": true,
+   "sfx": [
+    [
+     319.15,
+     "whoosh",
+     -10
+    ],
+    [
+     319.45,
+     "hit",
+     -6
+    ]
+   ]
+  },
+  {
+   "t": 328.0,
+   "type": "clip",
+   "clip": "m_growth.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 338.9,
+   "type": "clip",
+   "clip": "x_bateshwar.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 341.6,
+   "type": "clip",
+   "clip": "k_50saal.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 344.3,
+   "type": "clip",
+   "clip": "x_kannauj_kartikeya.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 347.5,
+   "type": "clip",
+   "clip": "mb4_ch3.mp4",
+   "from": 47.5,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 367.5,
+   "type": "clip",
+   "clip": "m_revival.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 375.55,
+   "type": "clip",
+   "clip": "p_timeline.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 386.59,
+   "type": "clip",
+   "clip": "mb4_ch3.mp4",
+   "from": 86.59,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 391.29,
+   "type": "clip",
+   "clip": "x_pratihara_vishnu.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 395.39,
+   "type": "clip",
+   "clip": "x_gwalior_fort.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 399.3,
+   "type": "clip",
+   "clip": "mb4_ch3.mp4",
+   "from": 99.3,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 401.73,
+   "type": "clip",
+   "clip": "x_pratihara_relief.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 404.3,
+   "type": "clip",
+   "clip": "mb4_ch3.mp4",
+   "from": 104.3,
+   "zoom": 1.0,
+   "quiet": true,
+   "sfx": [
+    [
+     408.0,
+     "whoosh",
+     -10
+    ],
+    [
+     410.5,
+     "hit",
+     -6
+    ],
+    [
+     417.7,
+     "hit",
+     -6
+    ]
+   ]
+  },
+  {
+   "t": 420.0,
+   "type": "clip",
+   "clip": "x_kannauj_ghat.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 423.3,
+   "type": "clip",
+   "clip": "mb4_ch3.mp4",
+   "from": 123.3,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 435.9,
+   "type": "clip",
+   "clip": "m_extent.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 451.84,
+   "type": "clip",
+   "clip": "mb4_ch4.mp4",
+   "from": 1.84,
+   "zoom": 1.0,
+   "quiet": true,
+   "sfx": [
+    [
+     460.14,
+     "whoosh",
+     -10
+    ],
+    [
+     461.74,
+     "whoosh",
+     -10
+    ]
+   ]
+  },
+  {
+   "t": 465.33,
+   "type": "clip",
+   "clip": "p_wiki_tripartite.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 469.83,
+   "type": "clip",
+   "clip": "x_pala_vishnu.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 473.43,
+   "type": "clip",
+   "clip": "x_ellora_kailasa.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 476.33,
+   "type": "clip",
+   "clip": "m_tripartite.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 486.85,
+   "type": "clip",
+   "clip": "mb4_ch4.mp4",
+   "from": 36.85,
+   "zoom": 1.0,
+   "quiet": true,
+   "sfx": [
+    [
+     486.85,
+     "whoosh",
+     -10
+    ],
+    [
+     487.15,
+     "hit",
+     -6
+    ]
+   ]
+  },
+  {
+   "t": 495.35,
+   "type": "clip",
+   "clip": "p_sulaiman_full.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 510.75,
+   "type": "clip",
+   "clip": "m_sulaiman.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 519.95,
+   "type": "clip",
+   "clip": "war_cavalry.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true,
+   "sfx": [
+    [
+     522.95,
+     "gallop_short",
+     -14
+    ],
+    [
+     525.95,
+     "gallop_short",
+     -14
+    ],
+    [
+     529.55,
+     "sword1",
+     -12
+    ],
+    [
+     530.0,
+     "sword2",
+     -12
+    ],
+    [
+     530.45,
+     "sword3",
+     -12
+    ],
+    [
+     531.35,
+     "sword1",
+     -12
+    ],
+    [
+     531.8,
+     "sword2",
+     -12
+    ],
+    [
+     532.25,
+     "sword3",
+     -12
+    ]
+   ]
+  },
+  {
+   "t": 534.45,
+   "type": "clip",
+   "clip": "mb4_ch4.mp4",
+   "from": 84.45,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 537.65,
+   "type": "clip",
+   "clip": "p_ei184.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 547.15,
+   "type": "clip",
+   "clip": "mb4_ch4.mp4",
+   "from": 97.15,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 556.15,
+   "type": "clip",
+   "clip": "k_context.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true,
+   "sfx": [
+    [
+     556.25,
+     "hit",
+     -8
+    ],
+    [
+     557.15,
+     "hit",
+     -8
+    ],
+    [
+     558.25,
+     "hit",
+     -8
+    ]
+   ]
+  },
+  {
+   "t": 561.67,
+   "type": "clip",
+   "clip": "mb4_ch4.mp4",
+   "from": 111.67,
+   "zoom": 1.0,
+   "quiet": true,
+   "sfx": [
+    [
+     564.97,
+     "hit",
+     -6
+    ]
+   ]
+  },
+  {
+   "t": 565.77,
+   "type": "clip",
+   "clip": "x_varaha_udayagiri.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 569.87,
+   "type": "clip",
+   "clip": "x_varaha_pratihara.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 572.87,
+   "type": "clip",
+   "clip": "x_coin_pratihara.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 576.87,
+   "type": "clip",
+   "clip": "k_titles.mp4",
+   "from": 0,
+   "zoom": 1.0,
+   "quiet": true
+  },
+  {
+   "t": 579.97,
+   "type": "clip",
+   "clip": "mb4_ch4.mp4",
+   "from": 129.97,
+   "zoom": 1.0,
+   "quiet": true
+  }
+ ],
+ "duck": {
+  "db": 6
+ }
+}

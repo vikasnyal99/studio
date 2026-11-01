@@ -1,0 +1,345 @@
+{
+ "cam": "vshorts/2026-10-28-img-4879/cam.mp4",
+ "voice": "vshorts/2026-10-28-img-4879/voice.wav",
+ "music": "vshorts/music/Interloper.mp3",
+ "musicVol": 0.09,
+ "pieces": "auto",
+ "noise": -30,
+ "gap": 0.28,
+ "accent": "#4FC3F7",
+ "kicker": "India · Geopolitics",
+ "title": "<b>Jamnagar</b> ke liye<br/>USA vs China?",
+ "end": "Aap kya sochte ho? Comment karo",
+ "captions": [
+  [
+   0.0,
+   "Mukesh Ambani ki"
+  ],
+  [
+   0.9,
+   "<b>Jamnagar</b> refinery"
+  ],
+  [
+   2.1,
+   "India ke liye itna bada"
+  ],
+  [
+   3.2,
+   "<b>geopolitical advantage</b>"
+  ],
+  [
+   4.2,
+   "ban chuki hai"
+  ],
+  [
+   5.0,
+   "ki <b>China</b> aur <b>USA</b>"
+  ],
+  [
+   6.0,
+   "dono uske liye lad rahe hain"
+  ],
+  [
+   7.1,
+   "Ab aapko yaad hoga"
+  ],
+  [
+   8.1,
+   "ki is saal ki shuruaat mein"
+  ],
+  [
+   9.4,
+   "<b>Donald Trump</b> ne"
+  ],
+  [
+   10.1,
+   "Venezuela ke president ko"
+  ],
+  [
+   11.1,
+   "utha liya tha"
+  ],
+  [
+   11.7,
+   "aur uski saari refineries pe"
+  ],
+  [
+   13.1,
+   "<b>kabza</b> kar liya tha"
+  ],
+  [
+   14.2,
+   "Ab Donald Trump ka plan tha"
+  ],
+  [
+   15.7,
+   "ki USA ke upar jo"
+  ],
+  [
+   16.5,
+   "<b>40 trillion dollar</b> ka debt hai"
+  ],
+  [
+   18.3,
+   "usko kisi na kisi tarah"
+  ],
+  [
+   19.5,
+   "is oil ko bech kar"
+  ],
+  [
+   20.3,
+   "poora kiya jaa sake"
+  ],
+  [
+   21.2,
+   "Lekin Venezuela ka jo oil hai"
+  ],
+  [
+   22.8,
+   "woh itna <b>hard</b> hai"
+  ],
+  [
+   23.4,
+   "ki usko refine karne ke liye"
+  ],
+  [
+   24.5,
+   "unhe koi na koi"
+  ],
+  [
+   25.1,
+   "<b>refinery</b> chahiye"
+  ],
+  [
+   26.1,
+   "Aur isliye Donald Trump"
+  ],
+  [
+   27.2,
+   "India ke saath sambandh"
+  ],
+  [
+   28.1,
+   "achhe karna chahta hai"
+  ],
+  [
+   29.2,
+   "taaki Mukesh Ambani ki"
+  ],
+  [
+   30.2,
+   "<b>Jamnagar</b> wali refinery"
+  ],
+  [
+   31.2,
+   "uske kaam aa sake"
+  ],
+  [
+   32.3,
+   "Aur isi ke chalte"
+  ],
+  [
+   33.0,
+   "unke Secretary of State"
+  ],
+  [
+   34.4,
+   "<b>Marco Rubio</b> India aaye"
+  ],
+  [
+   35.9,
+   "Aur woh Delhi nahi aaye"
+  ],
+  [
+   36.9,
+   "woh seedha <b>Mumbai</b> gaye"
+  ],
+  [
+   37.8,
+   "aur wahan se <b>Jamnagar</b>"
+  ],
+  [
+   39.0,
+   "China ka isme yeh role hai"
+  ],
+  [
+   40.2,
+   "ki China ka zyaadatar crude"
+  ],
+  [
+   41.9,
+   "ya toh <b>Venezuela</b> se aata tha"
+  ],
+  [
+   43.1,
+   "ya phir <b>Iran</b> se"
+  ],
+  [
+   44.8,
+   "Toh USA ne dono ko hi"
+  ],
+  [
+   45.9,
+   "<b>barbaad</b> kar diya hai"
+  ],
+  [
+   46.8,
+   "aur China is samay"
+  ],
+  [
+   47.6,
+   "bahut bade <b>crisis</b> se guzar raha hai"
+  ],
+  [
+   49.2,
+   "Isiliye aap dekhenge"
+  ],
+  [
+   50.4,
+   "ki China ne <b>Arunachal</b> mein"
+  ],
+  [
+   51.7,
+   "itna disturbance create kiya hai"
+  ],
+  [
+   53.4,
+   "kyunki woh nahi chahta"
+  ],
+  [
+   54.4,
+   "ki India aur uske"
+  ],
+  [
+   55.3,
+   "<b>crude ki supply</b>"
+  ],
+  [
+   57.2,
+   "khatam ho jaaye"
+  ]
+ ],
+ "inserts": [
+  {
+   "t": 3.9,
+   "d": 2.1,
+   "kind": "full",
+   "img": "vshorts/2026-10-28-img-4879/a1.jpg",
+   "move": "right",
+   "label": "Jamnagar refinery"
+  },
+  {
+   "t": 5.9,
+   "d": 2.8,
+   "kind": "split",
+   "img": "vshorts/2026-10-28-img-4879/a3.jpg",
+   "move": "in",
+   "label": "China vs USA",
+   "sfx": false
+  },
+  {
+   "t": 14.2,
+   "d": 3.2,
+   "kind": "split",
+   "img": "vshorts/2026-10-28-img-4879/a3.jpg",
+   "move": "out",
+   "label": "Trump ka plan?"
+  },
+  {
+   "t": 21.1,
+   "d": 4.2,
+   "kind": "full",
+   "img": "vshorts/2026-10-28-img-4879/a2.jpg",
+   "move": "down",
+   "label": "Venezuela ka heavy crude",
+   "title": "Refine karna<br/><b>mushkil</b>"
+  },
+  {
+   "t": 29.1,
+   "d": 3.2,
+   "kind": "split",
+   "img": "vshorts/2026-10-28-img-4879/a1.jpg",
+   "move": "in",
+   "label": "Isliye chahiye Jamnagar"
+  },
+  {
+   "t": 32.3,
+   "d": 3.4,
+   "kind": "full",
+   "img": "vshorts/2026-10-28-img-4879/a4.jpg",
+   "move": "in",
+   "label": "Marco Rubio ka India daura"
+  },
+  {
+   "t": 35.8,
+   "d": 3.3,
+   "kind": "timeline",
+   "label": "Rubio ka route",
+   "items": [
+    {
+     "t": 35.9,
+     "head": "DELHI",
+     "text": "nahi gaye",
+     "tone": "bad"
+    },
+    {
+     "t": 36.9,
+     "head": "MUMBAI",
+     "text": "seedha yahan"
+    },
+    {
+     "t": 37.8,
+     "head": "JAMNAGAR",
+     "text": "refinery tak",
+     "tone": "good"
+    }
+   ]
+  },
+  {
+   "t": 40.1,
+   "d": 4.5,
+   "kind": "compare",
+   "img": "vshorts/2026-10-28-img-4879/a5.jpg",
+   "label": "China ka crude kahan se?",
+   "a": {
+    "big": "VENEZUELA",
+    "small": "ek bada source"
+   },
+   "b": {
+    "big": "IRAN",
+    "small": "doosra bada source"
+   }
+  },
+  {
+   "t": 44.7,
+   "d": 4.3,
+   "kind": "full",
+   "img": "vshorts/2026-10-28-img-4879/a5.jpg",
+   "move": "left",
+   "label": "China mein crude crisis?"
+  },
+  {
+   "t": 50.3,
+   "d": 3.6,
+   "kind": "split",
+   "img": "vshorts/2026-10-28-img-4879/a6.jpg",
+   "move": "up",
+   "label": "Arunachal mein tension"
+  }
+ ],
+ "sfx": [
+  [
+   9.3,
+   "riser",
+   0.2
+  ]
+ ],
+ "ai": "AI illustration",
+ "thumb": {
+  "img": "vshorts/2026-10-28-img-4879/a3.jpg",
+  "face": 20,
+  "text": "Jamnagar pe<br/><b>USA vs China</b>",
+  "stamp": "OIL WAR?"
+ }
+}

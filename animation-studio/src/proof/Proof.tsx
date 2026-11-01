@@ -17,7 +17,7 @@ const src = (p: string) => (/^https?:/.test(p) ? p : staticFile(p));
 type Mark = {k: 'hl' | 'ul' | 'circle' | 'box' | 'arrow' | 'strike'; r: [number, number, number, number]; at: number; c?: string; note?: string; side?: 'above' | 'below' | 'left' | 'right'};
 type Stamp = {text: string; sub?: string; at: number; c?: string};
 type Base = {dur: number};
-export type DocSpec = Base & {kind: 'doc'; img: string; w: number; h: number; chip?: string; cam?: [number, number, number, number][]; marks?: Mark[]; stamp?: Stamp};
+export type DocSpec = Base & {kind: 'doc'; img: string; w: number; h: number; chip?: string; cam?: [number, number, number, number][]; marks?: Mark[]; stamp?: Stamp; credit?: string; cap?: [string, string]};
 export type ClaimSpec = Base & {kind: 'claim'; clip: string; from?: number; who: string; quote: string; quoteAt?: number; verdict?: Stamp};
 export type DonutSpec = Base & {kind: 'donut'; title: string; total: string; sub?: string; slices: {label: string; v: number; c: string; at: number}[]; credit?: string};
 export type DatesSpec = Base & {kind: 'dates'; title: string; items: {date: string; text: string; at: number}[]; claim?: {text: string; at: number}; result?: {text: string; at: number}; credit?: string};
@@ -171,6 +171,13 @@ const Doc: React.FC<{s: DocSpec}> = ({s}) => {
       </div>
       {s.chip ? <Chip text={s.chip} at={0.2} /> : null}
       {s.stamp ? <StampView s={s.stamp} x="74%" y="72%" size={130} /> : null}
+      {s.cap ? (
+        <div style={{position: 'absolute', left: 70, bottom: 80, padding: '16px 24px', background: 'rgba(12,10,8,0.82)', borderLeft: `6px solid ${C.gold}`, opacity: prog(t, 0.5, 0.4), transform: `translateX(${(1 - prog(t, 0.5, 0.4)) * -40}px)`}}>
+          <div style={{fontFamily: 'Inter, sans-serif', fontWeight: 800, fontSize: 24, color: C.gold, letterSpacing: 3, textTransform: 'uppercase'}}>{s.cap[0]}</div>
+          <div style={{fontFamily: 'Inter, sans-serif', fontWeight: 500, fontSize: 40, color: C.ink}} dangerouslySetInnerHTML={{__html: s.cap[1]}} />
+        </div>
+      ) : null}
+      {s.credit ? <div style={{position: 'absolute', right: 30, bottom: 22, fontFamily: 'Inter, sans-serif', fontSize: 18, color: 'rgba(255,255,255,0.6)'}}>{s.credit}</div> : null}
     </Desk>
   );
 };

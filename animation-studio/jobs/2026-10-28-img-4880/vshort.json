@@ -1,0 +1,300 @@
+{
+ "cam": "vshorts/2026-10-28-img-4880/cam.mp4",
+ "voice": "vshorts/2026-10-28-img-4880/voice.wav",
+ "music": "vshorts/music/Decline.mp3",
+ "musicVol": 0.09,
+ "pieces": "auto",
+ "noise": -30,
+ "gap": 0.28,
+ "accent": "#FFC531",
+ "kicker": "Bilaspur, Chhattisgarh",
+ "title": "22 carat ka bracelet…<br/>machine boli <b>20 carat!</b>",
+ "end": "Aapka sona kitna safe? Comment karo",
+ "captions": [
+  [
+   0.0,
+   "<b>Chhattisgarh</b> ke Bilaspur se"
+  ],
+  [
+   1.8,
+   "ek aisa <b>fraud</b> saamne aaya hai"
+  ],
+  [
+   3.2,
+   "jahan ek aadmi apna"
+  ],
+  [
+   4.5,
+   "<b>22 carat</b> ka gold bracelet"
+  ],
+  [
+   6.1,
+   "<b>Malabar Gold</b> mein"
+  ],
+  [
+   7.0,
+   "bechne ke liye jaata hai"
+  ],
+  [
+   8.2,
+   "Lekin unki jo"
+  ],
+  [
+   8.9,
+   "<b>XRF machine</b> hai"
+  ],
+  [
+   10.0,
+   "woh baar baar uski rating"
+  ],
+  [
+   11.0,
+   "<b>20 carat</b> dikhaati hai"
+  ],
+  [
+   12.4,
+   "yaani <b>8% drop</b>"
+  ],
+  [
+   13.6,
+   "in value"
+  ],
+  [
+   14.6,
+   "Ab woh aadmi"
+  ],
+  [
+   15.5,
+   "usko challenge karne ke liye"
+  ],
+  [
+   16.8,
+   "us jeweller ko hi bula leta hai"
+  ],
+  [
+   18.2,
+   "jahan se usne"
+  ],
+  [
+   18.9,
+   "bracelet kharida tha"
+  ],
+  [
+   19.9,
+   "Aur woh jeweller"
+  ],
+  [
+   20.9,
+   "Malabar ko <b>khula challenge</b>"
+  ],
+  [
+   22.1,
+   "deta hai"
+  ],
+  [
+   22.4,
+   "ki aap mere saamne"
+  ],
+  [
+   23.3,
+   "isko <b>prove</b> karo"
+  ],
+  [
+   24.0,
+   "Tabhi Malabar ka"
+  ],
+  [
+   24.9,
+   "ek salesman aata hai"
+  ],
+  [
+   26.0,
+   "aur us XRF machine ko"
+  ],
+  [
+   27.2,
+   "<b>adjust</b> karta hai"
+  ],
+  [
+   28.0,
+   "Aur ab woh machine"
+  ],
+  [
+   29.3,
+   "usi <b>20 carat</b> ke bracelet ko"
+  ],
+  [
+   30.8,
+   "<b>22 carat</b> ka"
+  ],
+  [
+   31.4,
+   "dikhaane lag jaati hai!"
+  ],
+  [
+   32.6,
+   "Yeh saara incident"
+  ],
+  [
+   33.5,
+   "woh aadmi apne phone mein"
+  ],
+  [
+   34.3,
+   "<b>record</b> kar leta hai"
+  ],
+  [
+   35.3,
+   "Aur logon ke protest ke baad"
+  ],
+  [
+   36.8,
+   "Malabar ke manager"
+  ],
+  [
+   38.6,
+   "aur us salesman par"
+  ],
+  [
+   39.4,
+   "<b>FIR</b> darj ho jaati hai"
+  ],
+  [
+   40.8,
+   "Toh sochiye"
+  ],
+  [
+   41.2,
+   "agar Malabar jaisi"
+  ],
+  [
+   42.2,
+   "badi chain aisa"
+  ],
+  [
+   43.0,
+   "kar sakti hai"
+  ],
+  [
+   43.7,
+   "toh logon ka sona"
+  ],
+  [
+   44.7,
+   "<b>kahan safe</b> hai?"
+  ]
+ ],
+ "inserts": [
+  {
+   "t": 4.4,
+   "d": 3.4,
+   "kind": "split",
+   "img": "vshorts/2026-10-28-img-4880/a1.jpg",
+   "move": "in",
+   "label": "22 carat bracelet"
+  },
+  {
+   "t": 10.9,
+   "d": 3.5,
+   "kind": "compare",
+   "img": "vshorts/2026-10-28-img-4880/a1.jpg",
+   "label": "XRF machine ki reading",
+   "a": {
+    "big": "22K",
+    "small": "bracelet ka asli karat",
+    "tone": "good"
+   },
+   "b": {
+    "big": "20K",
+    "small": "machine ne dikhaya",
+    "tone": "bad"
+   },
+   "sub": "Yaani value mein ~8% ka nuksaan"
+  },
+  {
+   "t": 19.9,
+   "d": 3.2,
+   "kind": "split",
+   "img": "vshorts/2026-10-28-img-4880/a3.jpg",
+   "move": "left",
+   "label": "Jeweller ka khula challenge"
+  },
+  {
+   "t": 24.0,
+   "d": 4.0,
+   "kind": "full",
+   "img": "vshorts/2026-10-28-img-4880/a2.jpg",
+   "move": "in",
+   "label": "Aarop: machine 'adjust' ki",
+   "title": "Salesman ne<br/><b>setting</b> badli?"
+  },
+  {
+   "t": 28.5,
+   "d": 3.6,
+   "kind": "compare",
+   "img": "vshorts/2026-10-28-img-4880/a2.jpg",
+   "label": "Wahi bracelet, nayi reading",
+   "a": {
+    "big": "20K",
+    "small": "adjust se pehle",
+    "tone": "bad"
+   },
+   "b": {
+    "big": "22K",
+    "small": "adjust ke baad",
+    "tone": "good"
+   }
+  },
+  {
+   "t": 32.6,
+   "d": 2.6,
+   "kind": "split",
+   "img": "vshorts/2026-10-28-img-4880/a3.jpg",
+   "move": "out",
+   "label": "Sab phone mein record",
+   "sfx": "shutter"
+  },
+  {
+   "t": 35.2,
+   "d": 3.3,
+   "kind": "full",
+   "img": "vshorts/2026-10-28-img-4880/a4.jpg",
+   "move": "left",
+   "label": "Logon ka protest"
+  },
+  {
+   "t": 38.5,
+   "d": 2.3,
+   "kind": "split",
+   "img": "vshorts/2026-10-28-img-4880/a5.jpg",
+   "move": "in",
+   "label": "Manager + salesman par FIR",
+   "sfx": "stamp"
+  },
+  {
+   "t": 43.6,
+   "d": 2.0,
+   "kind": "stat",
+   "label": "Sawaal",
+   "a": {
+    "big": "SAFE?",
+    "small": "aapka sona kahan surakshit hai?"
+   },
+   "sub": "FIR ek aarop hai, court ka faisla nahi"
+  }
+ ],
+ "sfx": [
+  [
+   26.0,
+   "riser",
+   0.25
+  ]
+ ],
+ "ai": "AI illustration",
+ "thumb": {
+  "img": "vshorts/2026-10-28-img-4880/a2.jpg",
+  "face": 20,
+  "text": "Machine se<br/><b>22K → 20K?</b>",
+  "stamp": "FIR"
+ }
+}

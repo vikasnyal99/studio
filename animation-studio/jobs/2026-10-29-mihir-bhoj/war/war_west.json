@@ -1,0 +1,219 @@
+{
+ "end": 6.8,
+ "bg": "doc/2026-10-29-mihir-bhoj/war/plate_rajasthan.jpg",
+ "cam": [
+  [
+   0,
+   1.2,
+   36,
+   50
+  ],
+  [
+   6.5,
+   1.3,
+   50,
+   48
+  ]
+ ],
+ "title": {
+  "text": "Western India",
+  "sub": "8th century",
+  "at": 0.1
+ },
+ "units": [
+  {
+   "label": "Arab army",
+   "color": "#2f7d4a",
+   "sprite": "doc/2026-10-29-mihir-bhoj/war/arab_cav.png",
+   "n": [
+    3,
+    1
+   ],
+   "size": 96,
+   "gallop": true,
+   "path": [
+    [
+     0,
+     6,
+     44
+    ],
+    [
+     2.0,
+     30,
+     46
+    ],
+    [
+     3.0,
+     34,
+     46
+    ]
+   ],
+   "fight": [
+    3.0,
+    5.2
+   ]
+  },
+  {
+   "color": "#2f7d4a",
+   "sprite": "doc/2026-10-29-mihir-bhoj/war/arab_inf.png",
+   "n": [
+    5,
+    2
+   ],
+   "path": [
+    [
+     0,
+     4,
+     68
+    ],
+    [
+     2.4,
+     28,
+     66
+    ],
+    [
+     3.2,
+     32,
+     67
+    ]
+   ],
+   "fight": [
+    3.2,
+    5.2
+   ]
+  },
+  {
+   "label": "Indian rulers",
+   "color": "#d9822b",
+   "sprite": "doc/2026-10-29-mihir-bhoj/war/ind_inf.png",
+   "n": [
+    5,
+    2
+   ],
+   "facing": -1,
+   "from": 1.6,
+   "path": [
+    [
+     1.6,
+     64,
+     30
+    ],
+    [
+     3.0,
+     52,
+     44
+    ]
+   ],
+   "fight": [
+    3.0,
+    5.2
+   ]
+  },
+  {
+   "color": "#d9822b",
+   "sprite": "doc/2026-10-29-mihir-bhoj/war/ind_archer.png",
+   "n": [
+    4,
+    1
+   ],
+   "facing": -1,
+   "from": 2.0,
+   "path": [
+    [
+     2.0,
+     68,
+     70
+    ],
+    [
+     3.2,
+     50,
+     68
+    ]
+   ],
+   "fight": [
+    3.2,
+    5.2
+   ]
+  }
+ ],
+ "arrows": [
+  {
+   "at": 0.2,
+   "dur": 1.6,
+   "pts": [
+    [
+     8,
+     46
+    ],
+    [
+     24,
+     46
+    ],
+    [
+     36,
+     44
+    ]
+   ],
+   "color": "#2f7d4a"
+  },
+  {
+   "at": 1.8,
+   "dur": 1.2,
+   "pts": [
+    [
+     64,
+     28
+    ],
+    [
+     52,
+     40
+    ]
+   ],
+   "color": "#d9822b",
+   "width": 20
+  },
+  {
+   "at": 2.2,
+   "dur": 1.2,
+   "pts": [
+    [
+     68,
+     74
+    ],
+    [
+     52,
+     68
+    ]
+   ],
+   "color": "#d9822b",
+   "width": 20
+  }
+ ],
+ "clash": [
+  [
+   3.0,
+   42,
+   46,
+   5.2
+  ],
+  [
+   3.2,
+   40,
+   67,
+   5.2
+  ]
+ ],
+ "caps": [
+  [
+   "8th century",
+   "Gujarat \u00b7 Saurashtra \u00b7 Malwa ki taraf <b>Arab campaigns</b>",
+   0.3,
+   2.9
+  ],
+  [
+   "Western India",
+   "Indian rulers ka <b>resistance</b>",
+   3.0
+  ]
+ ]
+}

@@ -1,0 +1,289 @@
+{
+ "end": 7.9,
+ "bg": "doc/2026-10-29-mihir-bhoj/war/plate_sindh.jpg",
+ "cam": [
+  [
+   0,
+   1.12,
+   56,
+   48
+  ],
+  [
+   3.5,
+   1.25,
+   50,
+   50
+  ],
+  [
+   7.9,
+   1.18,
+   38,
+   55
+  ]
+ ],
+ "title": {
+  "text": "Sindh par Arab campaign",
+  "sub": "711\u2013712 CE",
+  "at": 0.1
+ },
+ "forts": [
+  {
+   "x": 17,
+   "y": 64,
+   "color": "#d9822b",
+   "flip": [
+    5.0,
+    "#2f7d4a"
+   ]
+  },
+  {
+   "x": 33,
+   "y": 22,
+   "color": "#d9822b",
+   "flip": [
+    5.6,
+    "#2f7d4a"
+   ]
+  },
+  {
+   "x": 8,
+   "y": 30,
+   "color": "#d9822b",
+   "flip": [
+    6.1,
+    "#2f7d4a"
+   ]
+  }
+ ],
+ "units": [
+  {
+   "label": "Raja Dahir ki sena",
+   "color": "#d9822b",
+   "sprite": "doc/2026-10-29-mihir-bhoj/war/ind_elephant.png",
+   "n": [
+    2,
+    1
+   ],
+   "size": 120,
+   "path": [
+    [
+     0,
+     38,
+     40
+    ]
+   ],
+   "fight": [
+    1.8,
+    2.8
+   ],
+   "rout": 2.8
+  },
+  {
+   "color": "#d9822b",
+   "sprite": "doc/2026-10-29-mihir-bhoj/war/ind_inf.png",
+   "n": [
+    5,
+    2
+   ],
+   "path": [
+    [
+     0,
+     38,
+     66
+    ]
+   ],
+   "fight": [
+    1.9,
+    2.9
+   ],
+   "rout": 2.9
+  },
+  {
+   "label": "Muhammad bin Qasim",
+   "color": "#2f7d4a",
+   "sprite": "doc/2026-10-29-mihir-bhoj/war/arab_cav.png",
+   "n": [
+    3,
+    1
+   ],
+   "size": 96,
+   "gallop": true,
+   "facing": -1,
+   "path": [
+    [
+     0,
+     84,
+     40
+    ],
+    [
+     1.8,
+     56,
+     40
+    ],
+    [
+     3.2,
+     50,
+     42
+    ],
+    [
+     5.0,
+     32,
+     54
+    ]
+   ],
+   "fight": [
+    1.8,
+    2.9
+   ]
+  },
+  {
+   "color": "#2f7d4a",
+   "sprite": "doc/2026-10-29-mihir-bhoj/war/arab_inf.png",
+   "n": [
+    5,
+    2
+   ],
+   "facing": -1,
+   "path": [
+    [
+     0,
+     86,
+     66
+    ],
+    [
+     1.9,
+     56,
+     66
+    ],
+    [
+     4.6,
+     46,
+     62
+    ]
+   ],
+   "fight": [
+    1.9,
+    2.9
+   ]
+  }
+ ],
+ "arrows": [
+  {
+   "at": 0.2,
+   "dur": 1.4,
+   "pts": [
+    [
+     78,
+     40
+    ],
+    [
+     60,
+     42
+    ]
+   ],
+   "color": "#2f7d4a"
+  },
+  {
+   "at": 0.3,
+   "dur": 1.4,
+   "pts": [
+    [
+     80,
+     66
+    ],
+    [
+     60,
+     66
+    ]
+   ],
+   "color": "#2f7d4a"
+  },
+  {
+   "at": 3.6,
+   "dur": 1.2,
+   "pts": [
+    [
+     44,
+     50
+    ],
+    [
+     30,
+     58
+    ],
+    [
+     20,
+     62
+    ]
+   ],
+   "color": "#2f7d4a",
+   "width": 20
+  },
+  {
+   "at": 4.2,
+   "dur": 1.2,
+   "pts": [
+    [
+     46,
+     40
+    ],
+    [
+     38,
+     30
+    ],
+    [
+     34,
+     25
+    ]
+   ],
+   "color": "#2f7d4a",
+   "width": 20
+  },
+  {
+   "at": 4.6,
+   "dur": 1.2,
+   "pts": [
+    [
+     40,
+     44
+    ],
+    [
+     20,
+     36
+    ],
+    [
+     10,
+     32
+    ]
+   ],
+   "color": "#2f7d4a",
+   "width": 20
+  }
+ ],
+ "clash": [
+  [
+   1.8,
+   47,
+   52,
+   2.9
+  ]
+ ],
+ "caps": [
+  [
+   "711\u2013712 CE \u00b7 Sindh",
+   "Muhammad bin Qasim ka <b>campaign</b>",
+   0.3,
+   2.3
+  ],
+  [
+   "Raja Dahir",
+   "Unki army ki <b>haar</b>",
+   2.4,
+   4.4
+  ],
+  [
+   "Sindh ke kai centres",
+   "<b>Arab control</b> mein",
+   4.5
+  ]
+ ]
+}

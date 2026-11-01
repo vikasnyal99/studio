@@ -1,0 +1,149 @@
+{
+ "end": 144.04,
+ "grade": "warm",
+ "shots": [
+  {
+   "t": 0,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a16_desert_camp.png",
+   "grade": "night",
+   "move": "push",
+   "fx": [
+    "embers"
+   ],
+   "slam": {
+    "text": "Nayi power",
+    "at": 0.3,
+    "color": "#ffd27a"
+   },
+   "t": 6.29
+  },
+  {
+   "t": 8.69,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 11.1,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 13.6,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 20.99,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 25.49,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 33.1,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 36.69,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 44.4,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 48.09,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 59.4,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 63.09,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 70.79,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 75.39,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 83.7,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 87.89,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 95.8,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 107.0,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a17_nagabhata.png",
+   "in": "black",
+   "move": "push",
+   "fx": [
+    "dust"
+   ],
+   "label": {
+    "text": "Nagabhata I",
+    "sub": "Gurjara-Pratihara · 8th century",
+    "at": 0.3
+   },
+   "t": 112.62
+  },
+  {
+   "t": 114.55,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 122.15,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 125.55,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 130.55,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 137.15,
+   "kind": "card",
+   "text": ""
+  }
+ ]
+}

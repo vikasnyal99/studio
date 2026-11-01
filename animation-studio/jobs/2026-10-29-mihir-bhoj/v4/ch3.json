@@ -1,0 +1,257 @@
+{
+ "end": 150.0,
+ "grade": "warm",
+ "shots": [
+  {
+   "t": 0,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a18_rising_king.png",
+   "in": "black",
+   "move": "push",
+   "fx": [
+    "rays"
+   ],
+   "t": 3.26
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_x07_scribes.png",
+   "in": "fade",
+   "move": "left",
+   "fx": [
+    "flicker"
+   ],
+   "label": {
+    "text": "Indian records + Arab accounts"
+   },
+   "t": 6.47
+  },
+  {
+   "kind": "title",
+   "text": "Mihir Bhoj",
+   "sub": "GURJAR SAMRAT",
+   "in": "black",
+   "t": 11.45
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_x02_balcony.png",
+   "move": "push",
+   "fx": [
+    "flicker"
+   ],
+   "t": 14.65
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a21_cav_sunset.png",
+   "in": "flash",
+   "punch": true,
+   "fx": [
+    "dust"
+   ],
+   "slam": {
+    "text": "Cavalry",
+    "sub": "reputation door tak",
+    "at": 0.3
+   },
+   "t": 19.15
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a06_kannauj_aerial.png",
+   "in": "black",
+   "move": "pull",
+   "fx": [
+    "dust"
+   ],
+   "t": 21.9
+  },
+  {
+   "t": 28.0,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 38.9,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 41.6,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 44.3,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a32_procession.png",
+   "in": "fade",
+   "move": "right",
+   "fx": [
+    "dust"
+   ],
+   "t": 47.5
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a25_ruined_hall.png",
+   "move": "push",
+   "fx": [
+    "dust",
+    "rays"
+   ],
+   "t": 51.02
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a26_ramabhadra.png",
+   "in": "black",
+   "grade": "night",
+   "move": "push",
+   "fx": [
+    "flicker"
+   ],
+   "label": {
+    "text": "Ramabhadra",
+    "sub": "Mihir Bhoj ke pita"
+   },
+   "t": 57.14
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a27_raid_smoke.png",
+   "move": "left",
+   "fx": [
+    "smoke"
+   ],
+   "t": 59.87
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a28_sword_oath.png",
+   "in": "fade",
+   "move": "push",
+   "fx": [
+    "embers"
+   ],
+   "t": 62.37
+  },
+  {
+   "t": 67.5,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 75.55,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a30_land_grant.png",
+   "in": "fade",
+   "move": "push",
+   "fx": [
+    "dust"
+   ],
+   "t": 86.59
+  },
+  {
+   "t": 91.29,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 95.39,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a31_feudatories.png",
+   "move": "right",
+   "fx": [
+    "dust"
+   ],
+   "t": 99.3
+  },
+  {
+   "t": 101.73,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a51_seal.png",
+   "move": "push",
+   "fx": [
+    "flicker"
+   ],
+   "t": 104.3
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a33_army_review.png",
+   "in": "flash",
+   "punch": true,
+   "slam": {
+    "text": "Major imperial force",
+    "at": 2.5
+   },
+   "fx": [
+    "dust"
+   ],
+   "t": 108.0
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a35_kannauj_market.png",
+   "in": "black",
+   "move": "left",
+   "label": {
+    "text": "Kannauj",
+    "sub": "Pratihara capital"
+   },
+   "fx": [
+    "dust"
+   ],
+   "t": 114.7
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a36_envoys.png",
+   "move": "push",
+   "fx": [
+    "dust"
+   ],
+   "slam": {
+    "text": "Political supremacy",
+    "sub": "ka centre",
+    "at": 0.6
+   },
+   "t": 117.1
+  },
+  {
+   "t": 120.0,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a37_rival_envoys.png",
+   "in": "fade",
+   "move": "push",
+   "fx": [
+    "flicker"
+   ],
+   "t": 123.3
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a38_kannauj_night.png",
+   "in": "fade",
+   "move": "push",
+   "grade": "night",
+   "fx": [
+    "dust"
+   ],
+   "t": 129.7
+  },
+  {
+   "t": 135.9,
+   "kind": "card",
+   "text": ""
+  }
+ ]
+}

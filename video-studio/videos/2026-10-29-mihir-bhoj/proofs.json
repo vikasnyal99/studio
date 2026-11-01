@@ -1,0 +1,1296 @@
+{
+ "shots": {
+  "p_sulaiman_a": {
+   "kind": "doc",
+   "dur": 2.5,
+   "img": "doc_sulaiman_p4.jpg",
+   "w": 950,
+   "h": 1750,
+   "chip": "Sulaiman (c. 851 CE) · tr. Elliot & Dowson, History of India Vol. 1 (1867), p. 4",
+   "cam": [
+    [
+     0,
+     50,
+     52,
+     1.5
+    ],
+    [
+     0.2,
+     50,
+     54,
+     2.3
+    ]
+   ],
+   "marks": [
+    {
+     "k": "hl",
+     "r": [
+      7.5,
+      52.1,
+      88.5,
+      2.8
+     ],
+     "at": 0.6
+    },
+    {
+     "k": "hl",
+     "r": [
+      7.5,
+      54.5,
+      23,
+      2.4
+     ],
+     "at": 1.0
+    }
+   ]
+  },
+  "p_wiki_mihir": {
+   "kind": "doc",
+   "dur": 3.1,
+   "img": "wiki_mihirbhoj.png",
+   "w": 1560,
+   "h": 1640,
+   "chip": "Wikipedia · Mihira Bhoja",
+   "cam": [
+    [
+     0,
+     50,
+     30,
+     1.0
+    ],
+    [
+     0.5,
+     30,
+     21,
+     2.5
+    ]
+   ],
+   "marks": [
+    {
+     "k": "hl",
+     "r": [
+      1.8,
+      19.2,
+      22.5,
+      3.0
+     ],
+     "at": 1.0
+    }
+   ]
+  },
+  "p_wiki_pratihara": {
+   "kind": "doc",
+   "dur": 8.4,
+   "img": "wiki_pratihara.png",
+   "w": 1560,
+   "h": 1060,
+   "chip": "Wikipedia · Pratihara dynasty",
+   "cam": [
+    [
+     0,
+     50,
+     45,
+     1.0
+    ],
+    [
+     1.0,
+     32,
+     82,
+     1.8
+    ]
+   ],
+   "marks": [
+    {
+     "k": "hl",
+     "r": [
+      1.8,
+      77.4,
+      55,
+      15.1
+     ],
+     "at": 2.0
+    }
+   ]
+  },
+  "p_wiki_nagabhata": {
+   "kind": "doc",
+   "dur": 7.6,
+   "img": "wiki_nagabhata.png",
+   "w": 1560,
+   "h": 1000,
+   "chip": "Wikipedia · Nagabhata I",
+   "cam": [
+    [
+     0,
+     50,
+     40,
+     1.0
+    ],
+    [
+     0.6,
+     32,
+     30,
+     1.8
+    ],
+    [
+     3.4,
+     32,
+     58,
+     1.8
+    ]
+   ],
+   "marks": [
+    {
+     "k": "hl",
+     "r": [
+      1.8,
+      25,
+      55,
+      10
+     ],
+     "at": 1.0
+    },
+    {
+     "k": "hl",
+     "r": [
+      1.8,
+      52,
+      55,
+      14
+     ],
+     "at": 4.3
+    }
+   ]
+  },
+  "p_ei101": {
+   "kind": "doc",
+   "dur": 5.0,
+   "img": "doc_ei18_p101.jpg",
+   "w": 2396,
+   "h": 3054,
+   "chip": "Epigraphia Indica Vol. 18 · Gwalior Prasasti of Bhoja, p. 101",
+   "cam": [
+    [
+     0,
+     50,
+     30,
+     1.0
+    ],
+    [
+     0.5,
+     42,
+     13,
+     3.4
+    ]
+   ],
+   "marks": [
+    {
+     "k": "hl",
+     "r": [
+      20.3,
+      12.2,
+      43.8,
+      1.8
+     ],
+     "at": 1.3
+    }
+   ]
+  },
+  "p_ei103a": {
+   "kind": "doc",
+   "dur": 6.6,
+   "img": "doc_ei18_p103.jpg",
+   "w": 2351,
+   "h": 3036,
+   "chip": "Epigraphia Indica Vol. 18 · Gwalior Prasasti of Bhoja, p. 103",
+   "cam": [
+    [
+     0,
+     50,
+     45,
+     1.0
+    ],
+    [
+     0.5,
+     50,
+     51,
+     3.0
+    ],
+    [
+     3.2,
+     50,
+     54,
+     3.0
+    ]
+   ],
+   "marks": [
+    {
+     "k": "hl",
+     "r": [
+      15.2,
+      49.6,
+      70,
+      1.8
+     ],
+     "at": 1.0
+    },
+    {
+     "k": "hl",
+     "r": [
+      15.0,
+      52.7,
+      70,
+      1.7
+     ],
+     "at": 3.6
+    }
+   ]
+  },
+  "p_ei103b": {
+   "kind": "doc",
+   "dur": 4.9,
+   "img": "doc_ei18_p103.jpg",
+   "w": 2351,
+   "h": 3036,
+   "chip": "Epigraphia Indica Vol. 18 · Gwalior Prasasti of Bhoja, p. 103",
+   "cam": [
+    [
+     0,
+     50,
+     30,
+     1.0
+    ],
+    [
+     0.5,
+     48,
+     27,
+     3.0
+    ]
+   ],
+   "marks": [
+    {
+     "k": "hl",
+     "r": [
+      18.8,
+      25.8,
+      66.6,
+      1.6
+     ],
+     "at": 1.0
+    },
+    {
+     "k": "hl",
+     "r": [
+      15.3,
+      27.3,
+      40.8,
+      1.7
+     ],
+     "at": 1.6
+    }
+   ]
+  },
+  "p_sulaiman_c": {
+   "kind": "doc",
+   "dur": 3.1,
+   "img": "doc_sulaiman_p4.jpg",
+   "w": 950,
+   "h": 1750,
+   "chip": "Sulaiman (c. 851 CE) · tr. Elliot & Dowson, History of India Vol. 1 (1867), p. 4",
+   "cam": [
+    [
+     0,
+     50,
+     45,
+     1.0
+    ],
+    [
+     0.4,
+     50,
+     48,
+     1.25
+    ]
+   ]
+  },
+  "p_sulaiman_b": {
+   "kind": "doc",
+   "dur": 6.5,
+   "img": "doc_sulaiman_p4.jpg",
+   "w": 950,
+   "h": 1750,
+   "chip": "Sulaiman (c. 851 CE) · tr. Elliot & Dowson, History of India Vol. 1 (1867), p. 4",
+   "cam": [
+    [
+     0,
+     50,
+     45,
+     1.0
+    ],
+    [
+     0.6,
+     50,
+     53,
+     2.0
+    ]
+   ],
+   "marks": [
+    {
+     "k": "hl",
+     "r": [
+      7.5,
+      52.1,
+      88.5,
+      2.8
+     ],
+     "at": 2.6
+    },
+    {
+     "k": "hl",
+     "r": [
+      7.5,
+      54.5,
+      23,
+      2.4
+     ],
+     "at": 3.0
+    }
+   ]
+  },
+  "p_wiki_tripartite": {
+   "kind": "doc",
+   "dur": 8.9,
+   "img": "wiki_tripartite.png",
+   "w": 1560,
+   "h": 1000,
+   "chip": "Wikipedia · Tripartite Struggle",
+   "cam": [
+    [
+     0,
+     50,
+     40,
+     1.0
+    ],
+    [
+     0.6,
+     32,
+     36,
+     1.8
+    ]
+   ],
+   "marks": [
+    {
+     "k": "hl",
+     "r": [
+      1.8,
+      25,
+      55,
+      10
+     ],
+     "at": 1.0
+    },
+    {
+     "k": "hl",
+     "r": [
+      1.8,
+      43,
+      55,
+      11
+     ],
+     "at": 4.0
+    }
+   ]
+  },
+  "p_sulaiman_full": {
+   "kind": "doc",
+   "dur": 15.4,
+   "img": "doc_sulaiman_p4.jpg",
+   "w": 950,
+   "h": 1750,
+   "chip": "Sulaiman (c. 851 CE) · tr. Elliot & Dowson, History of India Vol. 1 (1867), p. 4",
+   "cam": [
+    [
+     0,
+     50,
+     30,
+     1.0
+    ],
+    [
+     0.6,
+     50,
+     10,
+     1.7
+    ],
+    [
+     3.2,
+     50,
+     47,
+     1.9
+    ],
+    [
+     10.8,
+     50,
+     53,
+     2.0
+    ]
+   ],
+   "marks": [
+    {
+     "k": "ul",
+     "r": [
+      31,
+      3.6,
+      38,
+      2.2
+     ],
+     "at": 0.9
+    },
+    {
+     "k": "hl",
+     "r": [
+      7.5,
+      44.9,
+      88.5,
+      2.9
+     ],
+     "at": 7.8
+    },
+    {
+     "k": "hl",
+     "r": [
+      7.5,
+      47.4,
+      36,
+      2.9
+     ],
+     "at": 8.3
+    },
+    {
+     "k": "hl",
+     "r": [
+      7.5,
+      52.1,
+      88.5,
+      2.8
+     ],
+     "at": 11.8
+    },
+    {
+     "k": "hl",
+     "r": [
+      7.5,
+      54.5,
+      23,
+      2.4
+     ],
+     "at": 12.3
+    }
+   ]
+  },
+  "p_ei184": {
+   "kind": "doc",
+   "dur": 9.5,
+   "img": "doc_ei1_p184.jpg",
+   "w": 2198,
+   "h": 2934,
+   "chip": "Epigraphia Indica Vol. 1 · Pehowa inscription (G. Bühler), p. 184",
+   "cam": [
+    [
+     0,
+     50,
+     45,
+     1.0
+    ],
+    [
+     0.8,
+     48,
+     73,
+     2.8
+    ]
+   ],
+   "marks": [
+    {
+     "k": "hl",
+     "r": [
+      79,
+      71.0,
+      11.8,
+      2.0
+     ],
+     "at": 3.4
+    },
+    {
+     "k": "hl",
+     "r": [
+      15.3,
+      72.9,
+      51,
+      2.0
+     ],
+     "at": 3.9
+    }
+   ]
+  },
+  "k_1000": {
+   "kind": "kinetic",
+   "lines": [
+    {
+     "text": "AAJ KE STEREOTYPES",
+     "at": 0.1,
+     "size": 80
+    },
+    {
+     "text": "1000+ SAAL",
+     "at": 1.0,
+     "size": 170,
+     "c": "gold",
+     "hit": true
+    },
+    {
+     "text": "purani historical politics",
+     "at": 1.8,
+     "size": 60
+    }
+   ],
+   "dur": 4.1
+  },
+  "k_dushman": {
+   "kind": "kinetic",
+   "lines": [
+    {
+     "text": "9th century ke Arab accounts",
+     "at": 0.1,
+     "size": 64
+    },
+    {
+     "text": "ISLAM KA",
+     "at": 1.4,
+     "size": 130,
+     "hit": true
+    },
+    {
+     "text": "SABSE BADA DUSHMAN",
+     "at": 2.1,
+     "size": 130,
+     "c": "red",
+     "hit": true
+    }
+   ],
+   "stamp": {
+    "text": "SULAIMAN · c. 851",
+    "at": 3.4,
+    "c": "gold"
+   },
+   "dur": 5.5
+  },
+  "x_yarmouk_hayton": {
+   "kind": "doc",
+   "img": "yarmouk_hayton.jpg",
+   "w": 1587,
+   "h": 843,
+   "cam": [
+    [
+     0,
+     50,
+     50,
+     0.95
+    ],
+    [
+     0.5,
+     55,
+     55,
+     1.25
+    ]
+   ],
+   "marks": [],
+   "cap": [
+    "Arab armies",
+    "Ek ke baad ek <b>kingdoms</b> se jung"
+   ],
+   "credit": "Photo: anonymous Catalonian illustrator / Wikimedia Commons · Public domain",
+   "dur": 2.5
+  },
+  "x_coin_heraclius": {
+   "kind": "doc",
+   "img": "coin_heraclius.jpg",
+   "w": 1661,
+   "h": 1606,
+   "cam": [
+    [
+     0,
+     50,
+     50,
+     0.92
+    ],
+    [
+     0.6,
+     50,
+     48,
+     1.05
+    ]
+   ],
+   "marks": [
+    {
+     "k": "circle",
+     "r": [
+      12,
+      8,
+      76,
+      84
+     ],
+     "at": 0.8,
+     "c": "gold"
+    }
+   ],
+   "cap": [
+    "Byzantine Empire",
+    "Heraclius ka sone ka <b>solidus</b>"
+   ],
+   "credit": "Photo: The Metropolitan Museum of Art (Heraclius solidus) / Wikimedia Commons · CC0",
+   "dur": 2.6
+  },
+  "x_qadisiyyah_folio": {
+   "kind": "doc",
+   "img": "qadisiyyah_folio.jpg",
+   "w": 1158,
+   "h": 1600,
+   "cam": [
+    [
+     0,
+     50,
+     50,
+     0.9
+    ],
+    [
+     0.6,
+     50,
+     62,
+     1.5
+    ]
+   ],
+   "marks": [],
+   "cap": [
+    "Sasanian Persian Empire",
+    "Shahnameh (1494) mein <b>Qadisiyyah</b> ka chitran"
+   ],
+   "credit": "Photo: Aga Khan Museum / Wikimedia Commons · Public domain",
+   "dur": 3.7
+  },
+  "x_coin_yazdegerd": {
+   "kind": "doc",
+   "img": "coin_yazdegerd.jpg",
+   "w": 800,
+   "h": 384,
+   "cam": [
+    [
+     0,
+     50,
+     50,
+     0.92
+    ],
+    [
+     0.6,
+     50,
+     48,
+     1.05
+    ]
+   ],
+   "marks": [
+    {
+     "k": "circle",
+     "r": [
+      3,
+      4,
+      46,
+      92
+     ],
+     "at": 0.8,
+     "c": "gold",
+     "note": "Yazdegerd III",
+     "side": "below"
+    }
+   ],
+   "cap": [
+    "651 CE",
+    "Aakhri Sasanian shah <b>Yazdegerd III</b> ka sikka"
+   ],
+   "credit": "Photo: Classical Numismatic Group; [1] / Wikimedia Commons · CC BY-SA 3.0",
+   "dur": 3.8
+  },
+  "x_gibraltar": {
+   "kind": "doc",
+   "img": "gibraltar.jpg",
+   "w": 3648,
+   "h": 2736,
+   "cam": [
+    [
+     0,
+     50,
+     50,
+     0.92
+    ],
+    [
+     0.6,
+     50,
+     48,
+     1.05
+    ]
+   ],
+   "marks": [],
+   "cap": [
+    "711 CE · Tariq ibn Ziyad",
+    "Gibraltar ka naam <b>Jabal Tariq</b> se"
+   ],
+   "credit": "Photo: Acediscovery / Wikimedia Commons · CC BY 4.0",
+   "dur": 3.8
+  },
+  "x_guadalete": {
+   "kind": "doc",
+   "img": "guadalete.jpg",
+   "w": 3200,
+   "h": 1381,
+   "cam": [
+    [
+     0,
+     50,
+     50,
+     0.95
+    ],
+    [
+     0.6,
+     45,
+     55,
+     1.2
+    ]
+   ],
+   "marks": [],
+   "cap": [
+    "Visigothic kingdom ki haar · 711",
+    "Painting: <b>Guadalete</b> ki ladai (19th century)"
+   ],
+   "credit": "Photo: Mariano Barbasán Lagueruela / Wikimedia Commons · Public domain",
+   "dur": 4.7
+  },
+  "x_banbhore": {
+   "kind": "doc",
+   "img": "banbhore.jpg",
+   "w": 3840,
+   "h": 2880,
+   "cam": [
+    [
+     0,
+     50,
+     50,
+     0.92
+    ],
+    [
+     0.6,
+     50,
+     48,
+     1.05
+    ]
+   ],
+   "marks": [],
+   "cap": [
+    "Banbhore · Sindh",
+    "Kai historians ise <b>Debal</b> maante hain"
+   ],
+   "credit": "Photo: Anwar Ahmed / Wikimedia Commons · CC BY-SA 3.0",
+   "dur": 4.29
+  },
+  "x_gwalior_1844": {
+   "kind": "doc",
+   "img": "gwalior_1844.jpg",
+   "w": 2269,
+   "h": 1597,
+   "cam": [
+    [
+     0,
+     50,
+     50,
+     0.95
+    ],
+    [
+     0.6,
+     50,
+     45,
+     1.15
+    ]
+   ],
+   "marks": [],
+   "cap": [
+    "Gwalior",
+    "Mihir Bhoj ke reign ka <b>Gwalior inscription</b>"
+   ],
+   "credit": "Photo: AnonymousUnknown author / Wikimedia Commons · Public domain",
+   "dur": 3.5
+  },
+  "x_teli_mandir": {
+   "kind": "doc",
+   "img": "teli_mandir.jpg",
+   "w": 3840,
+   "h": 2559,
+   "cam": [
+    [
+     0,
+     50,
+     50,
+     0.95
+    ],
+    [
+     0.6,
+     50,
+     45,
+     1.2
+    ]
+   ],
+   "marks": [],
+   "cap": [
+    "Teli ka Mandir · Gwalior Fort",
+    "Pratihara daur ki <b>virasat</b>"
+   ],
+   "credit": "Photo: Suyash Dwivedi / Wikimedia Commons · CC BY-SA 4.0",
+   "dur": 4.88
+  },
+  "k_scholar": {
+   "kind": "kinetic",
+   "lines": [
+    {
+     "text": "“Among the princes of India",
+     "at": 0.2,
+     "size": 66
+    },
+    {
+     "text": "there is no greater foe",
+     "at": 1.4,
+     "size": 82,
+     "c": "gold",
+     "hit": true
+    },
+    {
+     "text": "of the Muhammadan faith than he.”",
+     "at": 2.4,
+     "size": 66
+    },
+    {
+     "text": "— Sulaiman, c. 851 CE (tr. Elliot & Dowson, 1867)",
+     "at": 3.4,
+     "size": 34
+    }
+   ],
+   "dur": 6.61
+  },
+  "x_bateshwar": {
+   "kind": "doc",
+   "img": "bateshwar.jpg",
+   "w": 3840,
+   "h": 2560,
+   "cam": [
+    [
+     0,
+     50,
+     50,
+     0.92
+    ],
+    [
+     0.6,
+     50,
+     48,
+     1.05
+    ]
+   ],
+   "marks": [],
+   "cap": [
+    "Bateshwar mandir · Morena",
+    "Pratihara daur <b>(8th–10th century)</b>"
+   ],
+   "credit": "Photo: Suyash Dwivedi / Wikimedia Commons · CC BY-SA 4.0",
+   "dur": 2.8
+  },
+  "k_50saal": {
+   "kind": "kinetic",
+   "lines": [
+    {
+     "text": "c. 836",
+     "at": 0.1,
+     "size": 120,
+     "c": "gold",
+     "hit": true
+    },
+    {
+     "text": "→",
+     "at": 0.6,
+     "size": 100
+    },
+    {
+     "text": "c. 885 CE",
+     "at": 1.0,
+     "size": 120,
+     "c": "gold",
+     "hit": true
+    },
+    {
+     "text": "lagbhag aadhi sadi ka reign",
+     "at": 1.6,
+     "size": 56
+    }
+   ],
+   "dur": 2.8
+  },
+  "x_kannauj_kartikeya": {
+   "kind": "doc",
+   "img": "kannauj_kartikeya.jpg",
+   "w": 2348,
+   "h": 3501,
+   "cam": [
+    [
+     0,
+     50,
+     45,
+     0.95
+    ],
+    [
+     0.6,
+     50,
+     35,
+     1.3
+    ]
+   ],
+   "marks": [],
+   "cap": [
+    "Kannauj Museum",
+    "Kartikeya · <b>10th century</b>"
+   ],
+   "credit": "Photo: Utkarsh Nandan Oreya / Wikimedia Commons · CC BY-SA 4.0",
+   "dur": 3.3
+  },
+  "x_pratihara_vishnu": {
+   "kind": "doc",
+   "img": "pratihara_vishnu.jpg",
+   "w": 1920,
+   "h": 2557,
+   "cam": [
+    [
+     0,
+     50,
+     55,
+     0.95
+    ],
+    [
+     0.6,
+     50,
+     65,
+     1.4
+    ]
+   ],
+   "marks": [],
+   "cap": [
+    "Chanderi museum",
+    "Prachin <b>Vishnu murti</b>"
+   ],
+   "credit": "Photo: Manishontop02 / Wikimedia Commons · CC BY-SA 4.0",
+   "dur": 4.2
+  },
+  "x_gwalior_fort": {
+   "kind": "doc",
+   "img": "gwalior_fort.jpg",
+   "w": 3840,
+   "h": 2560,
+   "cam": [
+    [
+     0,
+     50,
+     50,
+     0.92
+    ],
+    [
+     0.6,
+     50,
+     48,
+     1.05
+    ]
+   ],
+   "marks": [],
+   "cap": [
+    "Gwalior Fort",
+    "Pratihara daur ka <b>Gwalior</b>"
+   ],
+   "credit": "Photo: Suyash Dwivedi / Wikimedia Commons · CC BY-SA 4.0",
+   "dur": 4.01
+  },
+  "x_pratihara_relief": {
+   "kind": "doc",
+   "img": "pratihara_relief.jpg",
+   "w": 1920,
+   "h": 2557,
+   "cam": [
+    [
+     0,
+     50,
+     55,
+     0.95
+    ],
+    [
+     0.6,
+     50,
+     60,
+     1.4
+    ]
+   ],
+   "marks": [],
+   "cap": [
+    "Chanderi museum",
+    "Surasundari <b>relief panel</b>"
+   ],
+   "credit": "Photo: Manishontop02 / Wikimedia Commons · CC BY-SA 4.0",
+   "dur": 2.67
+  },
+  "x_kannauj_ghat": {
+   "kind": "doc",
+   "img": "kannauj_ghat.jpg",
+   "w": 3840,
+   "h": 2159,
+   "cam": [
+    [
+     0,
+     50,
+     50,
+     0.92
+    ],
+    [
+     0.6,
+     50,
+     48,
+     1.05
+    ]
+   ],
+   "marks": [],
+   "cap": [
+    "Kannauj · aaj",
+    "Ganga plains mein <b>influence</b>"
+   ],
+   "credit": "Photo: Utkarsh Nandan Oreya / Wikimedia Commons · CC BY-SA 4.0",
+   "dur": 3.4
+  },
+  "x_pala_vishnu": {
+   "kind": "doc",
+   "img": "pala_vishnu.jpg",
+   "w": 1056,
+   "h": 1880,
+   "cam": [
+    [
+     0,
+     50,
+     50,
+     0.95
+    ],
+    [
+     0.6,
+     50,
+     35,
+     1.3
+    ]
+   ],
+   "marks": [],
+   "cap": [
+    "Pala dynasty · Bengal–Bihar",
+    "Pala school ki <b>Vishnu murti</b>"
+   ],
+   "credit": "Photo: SpeakingArch / Wikimedia Commons · CC BY-SA 4.0",
+   "dur": 3.7
+  },
+  "x_ellora_kailasa": {
+   "kind": "doc",
+   "img": "ellora_kailasa.jpg",
+   "w": 3264,
+   "h": 2448,
+   "cam": [
+    [
+     0,
+     50,
+     50,
+     0.92
+    ],
+    [
+     0.6,
+     50,
+     48,
+     1.05
+    ]
+   ],
+   "marks": [],
+   "cap": [
+    "Rashtrakutas · Deccan",
+    "Kailasa mandir, <b>Ellora</b>"
+   ],
+   "credit": "Photo: Ms Sarah Welch / Wikimedia Commons · CC BY-SA 4.0",
+   "dur": 3.0
+  },
+  "k_context": {
+   "kind": "kinetic",
+   "lines": [
+    {
+     "text": "TRADE",
+     "at": 0.1,
+     "size": 120,
+     "hit": true
+    },
+    {
+     "text": "INSCRIPTIONS",
+     "at": 1.0,
+     "size": 120,
+     "c": "gold",
+     "hit": true
+    },
+    {
+     "text": "EXTERNAL ACCOUNTS",
+     "at": 2.1,
+     "size": 110,
+     "hit": true
+    }
+   ],
+   "dur": 5.62
+  },
+  "x_varaha_udayagiri": {
+   "kind": "doc",
+   "img": "varaha_udayagiri.jpg",
+   "w": 1920,
+   "h": 2880,
+   "cam": [
+    [
+     0,
+     50,
+     40,
+     0.95
+    ],
+    [
+     0.6,
+     50,
+     25,
+     1.25
+    ]
+   ],
+   "marks": [],
+   "cap": [
+    "Varaha · Udayagiri caves",
+    "Vishnu ka <b>boar avatar</b>"
+   ],
+   "credit": "Photo: Arian Zwegers from Brussels, Belgium / Wikimedia Commons · CC BY 2.0",
+   "dur": 4.2
+  },
+  "x_varaha_pratihara": {
+   "kind": "doc",
+   "img": "varaha_pratihara.jpg",
+   "w": 1592,
+   "h": 1639,
+   "cam": [
+    [
+     0,
+     50,
+     50,
+     0.92
+    ],
+    [
+     0.6,
+     50,
+     48,
+     1.05
+    ]
+   ],
+   "marks": [
+    {
+     "k": "circle",
+     "r": [
+      20,
+      10,
+      62,
+      80
+     ],
+     "at": 0.9,
+     "c": "gold",
+     "note": "Varaha",
+     "side": "right"
+    }
+   ],
+   "cap": [
+    "Pratihara coin · 850–900 CE",
+    "Sikke par <b>Varaha</b>"
+   ],
+   "credit": "Photo: Unknown author (Pratihara Varaha coin) / Wikimedia Commons · CC BY-SA 3.0",
+   "dur": 3.1
+  },
+  "x_coin_pratihara": {
+   "kind": "doc",
+   "img": "coin_pratihara.jpg",
+   "w": 1194,
+   "h": 1129,
+   "cam": [
+    [
+     0,
+     50,
+     50,
+     0.92
+    ],
+    [
+     0.6,
+     50,
+     48,
+     1.05
+    ]
+   ],
+   "marks": [],
+   "cap": [
+    "National Museum, Delhi",
+    "Pratihara-kaal ka <b>chandi ka sikka</b>"
+   ],
+   "credit": "Photo: SpeakingArch / Wikimedia Commons · CC BY-SA 4.0",
+   "dur": 4.1
+  },
+  "k_titles": {
+   "kind": "kinetic",
+   "lines": [
+    {
+     "text": "TITLES",
+     "at": 0.1,
+     "size": 130,
+     "hit": true
+    },
+    {
+     "text": "SYMBOLS",
+     "at": 0.8,
+     "size": 130,
+     "c": "gold",
+     "hit": true
+    },
+    {
+     "text": "AUTHORITY",
+     "at": 1.5,
+     "size": 130,
+     "hit": true
+    }
+   ],
+   "dur": 3.2
+  },
+  "p_timeline": {
+   "kind": "dates",
+   "title": "Mihir Bhoj ke documents · copper plates",
+   "items": [
+    {
+     "date": "836 CE",
+     "text": "Barah copper plate",
+     "at": 0.3
+    },
+    {
+     "date": "843 CE",
+     "text": "Daulatpura copper plate",
+     "at": 3.54
+    },
+    {
+     "date": "c. 885 CE",
+     "text": "Reign ka ant",
+     "at": 7.04
+    }
+   ],
+   "dur": 11.14
+  }
+ }
+}

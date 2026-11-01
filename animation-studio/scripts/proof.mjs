@@ -36,7 +36,7 @@ const localise = (spec) => {
   const s = JSON.parse(JSON.stringify(spec));
   if (s.inner) s.inner = localise(s.inner);
   for (const key of ['img', 'clip', 'bg', 'cam']) {
-    if (!s[key] || /^https?:/.test(s[key])) continue;
+    if (typeof s[key] !== 'string' || /^https?:/.test(s[key])) continue; // doc `cam` is a list of camera moves, not a file
     const from = path.join(vdir, 'assets', s[key]);
     if (!fs.existsSync(from)) throw new Error(`${s[key]} not in ${vdir}/assets`);
     const to = path.join(pub, path.basename(s[key]));
@@ -52,6 +52,8 @@ const local = Object.fromEntries(names.map((n) => {
   return [n, localise(specs[n])];
 }));
 const serveUrl = await bundle({entryPoint: path.resolve('src/index.ts')});
+// each bundle is a full copy of public/ (~2.5 GB); 70 left in /tmp filled the disk on 31 Oct 2026
+process.on('exit', () => { try { fs.rmSync(serveUrl, {recursive: true, force: true}); } catch {} });
 const outDir = path.join('out', 'jobs', video);
 fs.mkdirSync(path.join(outDir, 'stills'), {recursive: true});
 const stills = [];

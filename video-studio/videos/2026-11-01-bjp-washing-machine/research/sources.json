@@ -1,0 +1,85 @@
+{
+  "facts": [
+    {
+      "claim": "Indian Express reported 25 opposition politicians facing probes switched to BJP or its NDA allies since 2014; it found relief in 23 cases (3 closed, 20 stalled). This is a journalistic analysis, not a court finding of causation.",
+      "url": "https://indianexpress.com/article/express-exclusive/since-2014-25-opposition-leaders-facing-corruption-probe-crossed-over-to-bjp-23-of-them-got-reprieve-9247737/",
+      "outlet": "The Indian Express",
+      "date": "2024-04-04",
+      "status": "verify case-by-case against transcript before final edit"
+    },
+    {
+      "claim": "PM Modi denied that cases against corrupt politicians were dropped after joining BJP.",
+      "url": "https://www.moneycontrol.com/elections/lok-sabha-election/network18-exclusive-not-one-case-what-pm-modi-said-on-corrupt-netas-getting-reprieve-after-joining-bjp-article-12710089.html",
+      "outlet": "Moneycontrol / Network18",
+      "date": "2024-04-29",
+      "status": "right-of-reply context"
+    },
+    {
+      "claim": "Washing machine is an opposition political metaphor, not a formal legal finding.",
+      "url": "https://indianexpress.com/elections/cong-taunts-bjp-clean-chit-washing-machine-9241886/",
+      "outlet": "The Indian Express",
+      "date": "2024-03-30",
+      "status": "framing"
+    },
+    {
+      "claim": "Himanta Biswa Sarma joined BJP in August 2015 (not 2025 as spoken at about 2:05 and 2:16).",
+      "url": "https://indianexpress.com/article/india/cbi-pressure-eased-off-on-two-in-saradha-after-they-joined-bjp-5569251/lite/",
+      "outlet": "The Indian Express",
+      "date": "2019-02-01",
+      "status": "audio rerecord needed before full video"
+    },
+    {
+      "claim": "Mumbai special court accepted the EOW closure report in MSCB case on 27 Feb 2026. Court held irregularity alone did not establish criminal offence.",
+      "url": "https://indianexpress.com/article/legal-news/coop-bank-case-closure-court-irregularities-criminal-offences-10585371/lite/",
+      "outlet": "The Indian Express",
+      "date": "2026-03",
+      "status": "source confirms date; seek order for strongest on-screen evidence"
+    },
+    {
+      "claim": "CBI sought prosecution sanction for Suvendu Adhikari in Narada case in April 2019; sanction pending in 2024 IE reporting.",
+      "url": "https://indianexpress.com/article/india/cbi-probe-tmc-leaders-in-bjp-suvendu-adhikari-mukul-roy-7319284/",
+      "outlet": "The Indian Express",
+      "date": "2021-05-19",
+      "status": "check current case status before final render"
+    }
+  ],
+  "screenshots": [
+    {
+      "file": "assets/shot_ie_lite.png",
+      "outlet": "The Indian Express",
+      "date": "2024-04-04",
+      "url": "https://indianexpress.com/article/express-exclusive/since-2014-25-opposition-leaders-facing-corruption-probe-crossed-over-to-bjp-23-of-them-got-reprieve-9247737/lite/",
+      "chip": "The Indian Express · 2024-04-04"
+    }
+  ],
+  "photos": [
+    {
+      "file": "assets/cbi-headquarters-cc.jpg",
+      "subject": "CBI headquarters, Delhi",
+      "author": "Pulakit Singh",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:CBI_Headquaters_Delhi.jpg",
+      "use": "illustrative real location; no implication photo documents specific raid"
+    }
+  ],
+  "music": [
+    {
+      "file": "animation-studio/public/lib/music/Interloper.mp3",
+      "author": "Kevin MacLeod (incompetech.com)",
+      "license": "CC BY 4.0",
+      "url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Interloper.mp3",
+      "use": "sample edits; attribution required in published description"
+    }
+  ],
+  "map": "Natural Earth (public domain)",
+  "video": [
+    {
+      "file": "assets/source-clips/washing-machine-commons.webm",
+      "subject": "White washing machine",
+      "credit": "Sounds of Changes; recording Helena Törnqvist / Erik Pålsson",
+      "license": "CC BY 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:A_white_washing_machine_manufactured_by_Husqvarna_in_the_1990s.webm",
+      "use": "metaphor footage only"
+    }
+  ]
+}

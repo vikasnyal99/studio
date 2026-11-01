@@ -1,0 +1,22 @@
+---
+name: chatgpt-image-sheets
+description: Generate Studio character sheets, storyboard panels and documentary keyframes in the user's logged-in ChatGPT through Chrome, then save and prepare the art for animation.
+---
+
+Instruction location: resolve this installed skill's symlink; its parent `docs/codex-skills/` belongs to the primary Studio instruction root (currently `/home/vikas/Desktop/studio`). Read that root's `docs/CODEX.md` and AGENTS.md. If the selected working checkout lacks the migrated docs or AGENTS.md, use those from the instruction root and its own project CLAUDE.md for command contracts. All media commands and `<studio-root>` placeholders refer to the selected working checkout.
+
+Resolve the current Studio checkout (fallback `/home/vikas/Desktop/studio`), read its AGENTS.md and animation-studio/AGENTS.md, and work from animation-studio. Check `docs/CODEX.md` before continuing an existing Ramayana job.
+
+Use this browser workflow when the user explicitly requests ChatGPT through Chrome. For the Studio's default native art route, use the built-in imagegen skill/tool; do not silently change a requested provider.
+
+1. Establish the story beats, style, cast and required images. Reuse `assets/refs/` and `prompts/characters/`. Documentary prompts use `prompts/style-lock-doc.md` and `prompts/doc-frames.md`; action panels use `prompts/storyboard-sheets.md`. Save prompts under `prompts/characters/` or `prompts/scenes/` and expand with `npm run -s prompt -- <name> <ID>`.
+2. State the image count, then proceed within the requested work. The user upgraded ChatGPT on 27 October 2026; old four/five-image account caps are obsolete. Actual service limits still apply. Do not switch accounts to evade a limit.
+3. Discover the current browser through `mcp__cua_repl`. On its first invocation use exactly one documented entry call, e.g. `await cua.getState();`. Use the returned Chrome inventory or open `https://chatgpt.com` with `cua.createBrowserTab("chrome", "https://chatgpt.com", {sessionName: "🎨 Studio art"})`. Read returned browser documentation before interaction. Do not reuse stored tab IDs or Claude tool names.
+4. Reuse the relevant art conversation when identified; otherwise create a new art conversation rather than posting into an unrelated chat. Attach only reference pictures authorized for this task through the documented upload mechanism. Do not upload narration. If required upload support is unavailable, prepare prompts and report that concrete limitation. Let the user handle login or challenges.
+5. Enter the full prompt with documented form controls, then submit once. Observe fresh state after actions. Wait for completion in bounded intervals, checking state and keeping the user informed. Do not resend while generation is pending. Use the same conversation to preserve cast consistency.
+6. Inspect the generated image. For grids request thin white gutters and no text; for pose sheets use plain #BDB8AE, full uncropped bodies and consistent baseline/facing. Single keyframes are preferable for detailed face crops. Revise specific defects rather than regenerating an entire approved set. Stop a repeated failing operation after two recovery attempts and report what is saved.
+7. Download through the visible image download control or a download API explicitly documented by the browser tool. Do not copy Claude's old injected blob-fetch JavaScript. Save each result immediately: long chats unload earlier images, so image count alone is unreliable. Verify file dimensions and hashes; associate each file with its prompt ID before continuing.
+8. Put outputs in `assets/incoming/<video>/`; approved cast sheets go in `assets/refs/`. Record prompt ID, local filename and generation outcome in `jobs/<video>/images.md`. `quota.mjs use` can log an existing account, but its cap estimates do not establish remaining paid-plan access. Respect any live limit or slowdown and report its displayed reset time.
+9. Documentary: `npm run -s prep-doc -- <video>` creates `public/doc/<video>/` and a contact sheet. Action: `prep-shots.mjs <prefix>` expects `assets/incoming/<prefix>_1.png` etc.; stage copies there if the source set is in a job subfolder. Inspect the resulting sheet, then continue `doc-animation` or `closeup-shots`.
+
+Report the art saved, any incomplete images and what was checked. Never claim a generation or download succeeded solely because a button was clicked.

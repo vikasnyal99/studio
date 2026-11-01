@@ -22,7 +22,10 @@ export type DocShot = {
   fg?: string; // optional cut-out layer (transparent PNG at the same size) that moves faster -> parallax
   fx?: Fx[];
   grade?: 'warm' | 'night' | 'cold' | 'none'; // default spec.grade
-  in?: 'cut' | 'fade' | 'black'; // how this shot enters (black = dip to black between)
+  in?: 'cut' | 'fade' | 'black' | 'flash'; // how this shot enters (black = dip to black between, flash = white flash cut)
+  punch?: boolean; // fast zoom-in hit on entry, then the slow move
+  shake?: number[]; // seconds (from spec start) where the camera jolts
+  slam?: {text: string; sub?: string; at?: number; color?: string}; // big kinetic word slammed in (at = seconds into the shot)
   label?: {text: string; sub?: string; at?: number; dur?: number}; // white italic name lower-left
   tv?: {head?: string; line: string; sub?: string}; // fake news-channel frame
   cctv?: boolean;
@@ -218,7 +221,14 @@ const Still: React.FC<{s: DocShot; len: number; grade: keyof typeof GRADES}> = (
   const [z0, z1] = s.z ?? mv.z;
   const t = interpolate(frame, [0, len], [0, 1], {...clamp, easing: ease});
   const focus = s.focus ?? [50, 45];
-  const z = z0 + (z1 - z0) * t;
+  const hit = s.punch ? interpolate(frame, [0, 9], [0.22, 0], {...clamp, easing: Easing.out(Easing.cubic)}) : 0;
+  const z = z0 + (z1 - z0) * t + hit;
+  const {fps} = useVideoConfig();
+  const jolt = (s.shake ?? []).reduce((acc, at) => {
+    const d = frame - Math.round((at - s.t) * fps);
+    return d >= 0 && d < 12 ? acc + (12 - d) / 12 : acc;
+  }, 0);
+  const sx = jolt * 14 * noise2D('shx', 0, frame / 1.5), sy = jolt * 10 * noise2D('shy', 0, frame / 1.5);
   const dx = mv.dx * (t - 0.5) * 2, dy = mv.dy * (t - 0.5) * 2;
   const flick = s.fx?.includes('flicker') ? 1 + noise2D('fl', 0, frame / 6) * 0.05 + noise2D('fl2', 0, frame / 40) * 0.04 : 1;
   const media = (src: string, k: number) => {
@@ -249,10 +259,36 @@ const Still: React.FC<{s: DocShot; len: number; grade: keyof typeof GRADES}> = (
   );
   return (
     <AbsoluteFill>
-      {s.tv ? <Tv tv={s.tv}>{scene}</Tv> : scene}
+      <AbsoluteFill style={{transform: jolt ? `translate(${sx}px, ${sy}px) scale(1.03)` : undefined}}>{s.tv ? <Tv tv={s.tv}>{scene}</Tv> : scene}</AbsoluteFill>
+      {s.slam && <Slam sl={s.slam} />}
       {s.label && <Label l={s.label} len={len} />}
     </AbsoluteFill>
   );
+};
+
+// big kinetic word: drops in from 1.6x with a jolt, gold underline wipes in
+const Slam: React.FC<{sl: NonNullable<DocShot['slam']>}> = ({sl}) => {
+  const frame = useCurrentFrame() - f(sl.at ?? 0);
+  const {height: H} = useVideoConfig();
+  if (frame < 0) return null;
+  const sc = interpolate(frame, [0, 6, 10], [1.7, 0.96, 1], {...clamp, easing: Easing.out(Easing.cubic)});
+  const o = interpolate(frame, [0, 4], [0, 1], clamp);
+  const line = interpolate(frame, [6, 16], [0, 100], clamp);
+  return (
+    <AbsoluteFill style={{alignItems: 'center', justifyContent: 'center', background: `radial-gradient(ellipse at center, rgba(0,0,0,${0.45 * o}) 0%, transparent 65%)`}}>
+      <div style={{opacity: o, transform: `scale(${sc})`, textAlign: 'center'}}>
+        <div style={{fontFamily: 'Inter', fontWeight: 900, fontSize: H * 0.13, lineHeight: 1, letterSpacing: H * 0.002, textTransform: 'uppercase', color: sl.color ?? '#fff',
+          textShadow: '0 6px 0 rgba(0,0,0,0.55), 0 0 40px rgba(0,0,0,0.6)'}}>{sl.text}</div>
+        <div style={{height: H * 0.008, width: `${line}%`, margin: `${H * 0.012}px auto 0`, background: '#e7b54a'}} />
+        {sl.sub && <div style={{fontFamily: 'Inter', fontWeight: 800, fontSize: H * 0.036, color: '#f3e6c8', marginTop: H * 0.012, textShadow: '0 2px 8px #000', opacity: interpolate(frame, [10, 16], [0, 1], clamp)}}>{sl.sub}</div>}
+      </div>
+    </AbsoluteFill>
+  );
+};
+
+const Flash: React.FC = () => {
+  const frame = useCurrentFrame();
+  return <AbsoluteFill style={{background: '#fff8e8', opacity: interpolate(frame, [0, 2, 7], [0.95, 0.7, 0], clamp)}} />;
 };
 
 const Card: React.FC<{s: DocShot; len: number}> = ({s, len}) => {
@@ -306,6 +342,7 @@ export const Doc: React.FC<{spec: DocSpec}> = ({spec}) => {
             <Fade pre={pre} dipIn={s.in === 'black' && i > 0} dipOut={next?.in === 'black'} len={len + pre}>
               {k === 'card' ? <Card s={s} len={len + pre} /> : k === 'title' ? <Title s={s} len={len + pre} /> : <Still s={s} len={len + pre} grade={grade} />}
             </Fade>
+            {s.in === 'flash' && i > 0 && <Sequence durationInFrames={8} layout="none"><Flash /></Sequence>}
           </Sequence>
         );
       })}

@@ -1,0 +1,14 @@
+{
+ "voice": "videos/2026-10-25-ramayana-trailer-decoded/voice/narration.wav",
+ "duration": 429.41,
+ "map": "south_asia",
+ "music": [
+  {
+   "file": "library/music/Interloper.mp3",
+   "from": 0,
+   "to": 429.41,
+   "below_voice_db": 13
+  }
+ ],
+ "scenes": []
+}

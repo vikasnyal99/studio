@@ -1,0 +1,514 @@
+{
+ "end": 157.7,
+ "grade": "warm",
+ "shots": [
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/modern_p1.png",
+   "punch": true,
+   "fx": [
+    "flicker"
+   ],
+   "grade": "cold",
+   "slam": {
+    "text": "Social media",
+    "sub": "image banane mein time nahi lagta",
+    "at": 0.5
+   },
+   "t": 0
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/modern_p2.png",
+   "in": "flash",
+   "punch": true,
+   "slam": {
+    "text": "Viral video",
+    "at": 0.1
+   },
+   "shake": [
+    4.8
+   ],
+   "t": 4.7
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/modern_p2.png",
+   "z": [
+    1.35,
+    1.5
+   ],
+   "focus": [
+    30,
+    40
+   ],
+   "slam": {
+    "text": "Controversy",
+    "at": 0.1,
+    "color": "#ff9a5a"
+   },
+   "shake": [
+    6.7
+   ],
+   "t": 6.6
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/modern_p1.png",
+   "in": "flash",
+   "z": [
+    1.4,
+    1.55
+   ],
+   "focus": [
+    70,
+    35
+   ],
+   "grade": "cold",
+   "slam": {
+    "text": "Ek label",
+    "sub": "poori community par",
+    "at": 1.3
+   },
+   "shake": [
+    9.9
+   ],
+   "t": 8.6
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/modern_p2.png",
+   "move": "left",
+   "t": 12.8
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/modern_p2.png",
+   "in": "flash",
+   "z": [
+    1.3,
+    1.45
+   ],
+   "focus": [
+    65,
+    50
+   ],
+   "slam": {
+    "text": "Property politics",
+    "at": 0.4
+   },
+   "shake": [
+    15.4
+   ],
+   "t": 15.0
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/modern_p1.png",
+   "in": "flash",
+   "z": [
+    1.2,
+    1.3
+   ],
+   "grade": "cold",
+   "slam": {
+    "text": "Rent · Dominance",
+    "at": 0.3
+   },
+   "t": 17.6
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/modern_p1.png",
+   "in": "flash",
+   "z": [
+    1.5,
+    1.7
+   ],
+   "focus": [
+    62,
+    40
+   ],
+   "grade": "cold",
+   "slam": {
+    "text": "Memes",
+    "sub": "limited narratives",
+    "at": 0.3
+   },
+   "shake": [
+    21.8
+   ],
+   "t": 21.5
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/modern_p3.png",
+   "in": "black",
+   "move": "push",
+   "fx": [
+    "dust",
+    "rays"
+   ],
+   "t": 27.4
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/modern_p3.png",
+   "z": [
+    1.3,
+    1.45
+   ],
+   "focus": [
+    40,
+    55
+   ],
+   "fx": [
+    "dust"
+   ],
+   "t": 32.3
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/modern_p4.png",
+   "in": "fade",
+   "move": "up",
+   "fx": [
+    "dust"
+   ],
+   "t": 37.7
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/photo_teli.jpg",
+   "in": "fade",
+   "grade": "none",
+   "move": "push",
+   "fx": [
+    "dust"
+   ],
+   "label": {
+    "text": "Teli ka Mandir, Gwalior",
+    "sub": "Pratihara daur"
+   },
+   "t": 43.1
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/kannauj_p1.png",
+   "in": "flash",
+   "punch": true,
+   "slam": {
+    "text": "Scale badal jata hai",
+    "at": 0.3
+   },
+   "shake": [
+    48.2
+   ],
+   "t": 47.9
+  },
+  {
+   "kind": "title",
+   "text": "Gurjar-Pratihara",
+   "sub": "DYNASTY · 8th–11th CENTURY",
+   "t": 50.1
+  },
+  {
+   "t": 52.6,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/sil_nagabhata_p3.png",
+   "grade": "none",
+   "punch": true,
+   "fx": [
+    "embers"
+   ],
+   "slam": {
+    "text": "Arab campaigns",
+    "sub": "ke khilaf resistance",
+    "at": 0.4
+   },
+   "shake": [
+    56.6
+   ],
+   "t": 56.2
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/court_p1.png",
+   "in": "flash",
+   "move": "push",
+   "fx": [
+    "dust"
+   ],
+   "t": 59.8
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/modern_p1.png",
+   "in": "fade",
+   "grade": "cold",
+   "move": "pull",
+   "t": 64.2
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/sil_empire_p4.png",
+   "in": "flash",
+   "grade": "none",
+   "punch": true,
+   "slam": {
+    "text": "1000+ saal purani",
+    "sub": "historical politics",
+    "at": 0.2
+   },
+   "t": 66.2
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/travellers_p3.png",
+   "in": "fade",
+   "move": "left",
+   "fx": [
+    "dust"
+   ],
+   "t": 68.2
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/page_ei101.jpg",
+   "in": "fade",
+   "grade": "none",
+   "z": [
+    1.9,
+    2.1
+   ],
+   "focus": [
+    45,
+    15
+   ],
+   "label": {
+    "text": "Epigraphia Indica",
+    "sub": "Gwalior Prasasti of Bhoja"
+   },
+   "t": 71.8
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/portraits_p1.png",
+   "in": "flash",
+   "punch": true,
+   "fx": [
+    "dust"
+   ],
+   "slam": {
+    "text": "Samrat Mihir Bhoj",
+    "at": 1.6,
+    "color": "#ffd27a"
+   },
+   "shake": [
+    75.3
+   ],
+   "t": 73.7
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/mb_style1_graphicnovel.png",
+   "in": "black",
+   "move": "push",
+   "fx": [
+    "dust"
+   ],
+   "t": 78.2
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/travellers_p2.png",
+   "in": "fade",
+   "move": "left",
+   "fx": [
+    "dust"
+   ],
+   "label": {
+    "text": "Arab travellers",
+    "sub": "9th century"
+   },
+   "t": 80.5
+  },
+  {
+   "t": 82.7,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 88.5,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/sil_empire_p4.png",
+   "in": "flash",
+   "grade": "none",
+   "punch": true,
+   "slam": {
+    "text": "Islam ka sabse bada dushman",
+    "sub": "9th century ka Arab account",
+    "at": 0.1,
+    "color": "#ff9a5a"
+   },
+   "shake": [
+    91.2
+   ],
+   "t": 91.0
+  },
+  {
+   "kind": "title",
+   "text": "Mihir Bhoj",
+   "sub": "GURJAR SAMRAT",
+   "in": "black",
+   "t": 93.9
+  },
+  {
+   "t": 96.7,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 99.8,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/kannauj_p1.png",
+   "in": "fade",
+   "move": "right",
+   "t": 108.2
+  },
+  {
+   "t": 111.1,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 112.9,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/court_p2.png",
+   "in": "black",
+   "move": "push",
+   "fx": [
+    "smoke"
+   ],
+   "label": {
+    "text": "Mihir Bhoj",
+    "sub": "c. 836 CE · Pratihara samrat"
+   },
+   "t": 114.7
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/legacy_p2.png",
+   "move": "left",
+   "fx": [
+    "dust"
+   ],
+   "t": 118.2
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/court_p3.png",
+   "in": "fade",
+   "move": "push",
+   "fx": [
+    "dust"
+   ],
+   "t": 121.9
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/kannauj_p4.png",
+   "move": "push",
+   "t": 125.4
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/court_p4.png",
+   "in": "fade",
+   "move": "push",
+   "fx": [
+    "flicker"
+   ],
+   "t": 128.2
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/legacy_p4.png",
+   "in": "fade",
+   "move": "pull",
+   "slam": {
+    "text": "~50 saal ka reign",
+    "sub": "c. 836 – 885 CE",
+    "at": 0.8
+   },
+   "t": 133.6
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/portraits_p1.png",
+   "in": "flash",
+   "z": [
+    1.3,
+    1.4
+   ],
+   "focus": [
+    40,
+    35
+   ],
+   "t": 139.3
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/sil_empire_p4.png",
+   "in": "flash",
+   "grade": "none",
+   "punch": true,
+   "slam": {
+    "text": "Military power",
+    "at": 0.1
+   },
+   "t": 141.5
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/kannauj_p1.png",
+   "in": "flash",
+   "punch": true,
+   "slam": {
+    "text": "Empire ka scale",
+    "at": 0.1
+   },
+   "t": 143.0
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/coin_varaha.jpg",
+   "in": "flash",
+   "punch": true,
+   "grade": "none",
+   "slam": {
+    "text": "Adivaraha",
+    "at": 0.1,
+    "color": "#ffd27a"
+   },
+   "t": 144.6
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/page_sulaiman.jpg",
+   "in": "flash",
+   "punch": true,
+   "grade": "none",
+   "z": [
+    1.6,
+    1.7
+   ],
+   "focus": [
+    50,
+    52
+   ],
+   "slam": {
+    "text": "Arab accounts",
+    "at": 0.1
+   },
+   "t": 146.2
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/legacy_p1.png",
+   "in": "flash",
+   "punch": true,
+   "slam": {
+    "text": "Achievements",
+    "at": 0.3
+   },
+   "t": 148.4
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/legacy_p4.png",
+   "in": "fade",
+   "move": "push",
+   "t": 151.5
+  }
+ ]
+}

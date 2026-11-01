@@ -1103,6 +1103,8 @@ def build(video_dir: Path) -> dict:
     cues = sorted(c for sc in built for c in sc.cues)
     sound = {"voice": {"file": plan["voice"], "start": 0.0, "end": total}, "music": plan.get("music", []),
              "sfx_dir": "library/sfx", "cues": cues}
+    if plan.get("duck"):  # scenes.json "duck": {"db": 6} -> music dips under the voice (finish.py)
+        sound["duck"] = plan["duck"]
     (video_dir / "sound.json").write_text(json.dumps(sound, ensure_ascii=False, indent=1), encoding="utf-8")
     return {"scenes": len(built), "seconds": total, "sound_cues": len(cues), "project": str(hf)}
 

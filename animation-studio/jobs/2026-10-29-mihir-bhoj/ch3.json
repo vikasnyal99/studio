@@ -1,0 +1,284 @@
+{
+ "end": 165.2,
+ "grade": "warm",
+ "shots": [
+  {
+   "t": 0.1,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 4.9,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/portraits_p1.png",
+   "in": "black",
+   "z": [
+    1.05,
+    1.2
+   ],
+   "focus": [
+    45,
+    35
+   ],
+   "fx": [
+    "dust"
+   ],
+   "t": 9.8
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/travellers_p2.png",
+   "in": "fade",
+   "move": "right",
+   "t": 14.9
+  },
+  {
+   "t": 18.9,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "kind": "title",
+   "text": "Mihir Bhoj",
+   "sub": "GURJAR SAMRAT",
+   "in": "black",
+   "t": 22.1
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/mb_style1_graphicnovel.png",
+   "move": "push",
+   "fx": [
+    "dust"
+   ],
+   "t": 25.3
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/sil_empire_p4.png",
+   "grade": "none",
+   "in": "flash",
+   "punch": true,
+   "fx": [
+    "dust"
+   ],
+   "slam": {
+    "text": "Cavalry",
+    "sub": "reputation door tak",
+    "at": 0.3
+   },
+   "t": 29.8
+  },
+  {
+   "t": 32.2,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/mb_style1_graphicnovel.png",
+   "in": "black",
+   "z": [
+    1.2,
+    1.05
+   ],
+   "move": "pull",
+   "t": 38.7
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/portraits_p2.png",
+   "in": "fade",
+   "move": "push",
+   "label": {
+    "text": "Nagabhata I",
+    "sub": "Foundation"
+   },
+   "t": 44.8
+  },
+  {
+   "t": 48.4,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/portraits_p1.png",
+   "in": "flash",
+   "punch": true,
+   "fx": [
+    "dust"
+   ],
+   "t": 52.2
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/court_p1.png",
+   "in": "fade",
+   "move": "push",
+   "slam": {
+    "text": "~50 saal",
+    "sub": "c. 836 – 885 CE",
+    "at": 0.4,
+    "color": "#ffd27a"
+   },
+   "t": 55.7
+  },
+  {
+   "t": 61.1,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/kannauj_p1.png",
+   "in": "fade",
+   "move": "right",
+   "t": 64.3
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/legacy_p2.png",
+   "move": "push",
+   "fx": [
+    "dust"
+   ],
+   "t": 67.7
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/court_p1.png",
+   "in": "black",
+   "grade": "night",
+   "z": [
+    1.2,
+    1.35
+   ],
+   "focus": [
+    50,
+    40
+   ],
+   "fx": [
+    "flicker"
+   ],
+   "label": {
+    "text": "Ramabhadra",
+    "sub": "Mihir Bhoj ke pita"
+   },
+   "t": 74.6
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/sil_empire_p1.png",
+   "grade": "none",
+   "move": "push",
+   "fx": [
+    "smoke"
+   ],
+   "t": 77.7
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/court_p2.png",
+   "in": "fade",
+   "move": "push",
+   "fx": [
+    "smoke"
+   ],
+   "t": 80.2
+  },
+  {
+   "t": 85.3,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 97.0,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/legacy_p3.png",
+   "in": "fade",
+   "move": "push",
+   "fx": [
+    "dust"
+   ],
+   "t": 119.0
+  },
+  {
+   "t": 123.7,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 127.8,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/legacy_p2.png",
+   "move": "right",
+   "fx": [
+    "dust"
+   ],
+   "t": 131.9
+  },
+  {
+   "t": 137.1,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/court_p1.png",
+   "move": "pull",
+   "fx": [
+    "dust"
+   ],
+   "t": 139.8
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/legacy_p1.png",
+   "in": "flash",
+   "punch": true,
+   "slam": {
+    "text": "Major imperial force",
+    "at": 2.5
+   },
+   "t": 143.5
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/kannauj_p1.png",
+   "in": "black",
+   "move": "push",
+   "label": {
+    "text": "Kannauj",
+    "sub": "Pratihara capital"
+   },
+   "t": 150.2
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/kannauj_p2.png",
+   "move": "left",
+   "fx": [
+    "dust"
+   ],
+   "slam": {
+    "text": "Political supremacy",
+    "sub": "ka centre",
+    "at": 0.6
+   },
+   "t": 152.6
+  },
+  {
+   "t": 155.5,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/kannauj_p3.png",
+   "in": "fade",
+   "move": "right",
+   "t": 158.8
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/rivals_p3.png",
+   "move": "push",
+   "fx": [
+    "flicker"
+   ],
+   "t": 162.0
+  }
+ ]
+}

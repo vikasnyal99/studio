@@ -1,0 +1,207 @@
+{
+ "end": 136.5,
+ "grade": "warm",
+ "shots": [
+  {
+   "t": 0,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a39_war_elephant.png",
+   "in": "black",
+   "move": "push",
+   "fx": [
+    "dust"
+   ],
+   "t": 1.84
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a40_tribute.png",
+   "move": "left",
+   "fx": [
+    "dust"
+   ],
+   "t": 6.64
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a41_pala_king.png",
+   "in": "flash",
+   "punch": true,
+   "label": {
+    "text": "Palas",
+    "sub": "Bengal–Bihar"
+   },
+   "fx": [
+    "dust"
+   ],
+   "t": 10.14
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a42_rashtrakuta_king.png",
+   "in": "flash",
+   "punch": true,
+   "label": {
+    "text": "Rashtrakutas",
+    "sub": "Deccan"
+   },
+   "fx": [
+    "dust"
+   ],
+   "t": 11.74
+  },
+  {
+   "t": 15.33,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 19.83,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 23.43,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 26.33,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a43_three_armies.png",
+   "in": "flash",
+   "punch": true,
+   "fx": [
+    "embers"
+   ],
+   "slam": {
+    "text": "Tripartite Struggle",
+    "at": 0.3,
+    "color": "#ffd27a"
+   },
+   "shake": [
+    37.15
+   ],
+   "t": 36.85
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a44_dhow_port.png",
+   "in": "black",
+   "move": "push",
+   "fx": [
+    "dust"
+   ],
+   "t": 39.35
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a45_port_market.png",
+   "in": "fade",
+   "move": "left",
+   "fx": [
+    "dust"
+   ],
+   "t": 42.25
+  },
+  {
+   "t": 45.35,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 60.75,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 69.95,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a46_horse_fair.png",
+   "in": "black",
+   "move": "push",
+   "fx": [
+    "dust",
+    "rays"
+   ],
+   "t": 84.45
+  },
+  {
+   "t": 87.65,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a47_temple_gift.png",
+   "in": "fade",
+   "move": "push",
+   "fx": [
+    "flicker"
+   ],
+   "t": 97.15
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a48_bard.png",
+   "in": "fade",
+   "move": "right",
+   "fx": [
+    "embers"
+   ],
+   "t": 102.85
+  },
+  {
+   "t": 106.15,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a49_varaha_idol.png",
+   "in": "black",
+   "move": "push",
+   "fx": [
+    "smoke",
+    "flicker"
+   ],
+   "slam": {
+    "text": "Adivaraha",
+    "at": 3.2999999999999545,
+    "color": "#ffd27a"
+   },
+   "t": 111.67
+  },
+  {
+   "t": 115.77,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 119.87,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 122.87,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 126.87,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a52_final_rampart.png",
+   "in": "fade",
+   "move": "pull",
+   "fx": [
+    "dust",
+    "rays"
+   ],
+   "t": 129.97
+  }
+ ]
+}

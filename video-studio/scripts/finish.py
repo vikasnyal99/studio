@@ -78,8 +78,13 @@ def loop_to(signal: np.ndarray, length: int) -> np.ndarray:
     """Repeat a track until it is `length` samples long, then cut it there."""
     if len(signal) >= length:
         return signal[:length]
-    repeats = -(-length // len(signal))
-    return np.concatenate([signal] * repeats)[:length]
+    # crossfade each repeat into the next (2 s) so the loop point is not heard as a jump
+    xf = min(int(2.0 * RATE), len(signal) // 4)
+    ramp = np.linspace(0.0, 1.0, xf)[:, None] if signal.ndim > 1 else np.linspace(0.0, 1.0, xf)
+    out = signal.copy()
+    while len(out) < length:
+        out = np.concatenate([out[:-xf], out[-xf:] * (1 - ramp) + signal[:xf] * ramp, signal[xf:]])
+    return out[:length]
 
 
 def load_sound_plan(path: Path, root: Path) -> dict:
@@ -136,6 +141,28 @@ def build_mix(plan: dict, root: Path) -> np.ndarray:
     voice *= db_to_gain(-18 - rms_db(voice))  # bring speech to a standard working level
     mix[: len(voice)] += fade(voice, 0.01, 0.05)
 
+    # ducking (sound.json "duck": {"db": 6, "attack": 0.08, "release": 0.6}): music dips by `db` while the voice
+    # speaks and swells back in pauses, so it can sit louder overall without covering words (user, 31 Oct 2026)
+    duck = plan.get("duck")
+    duck_gain = None
+    if duck:
+        hop = RATE // 100
+        frames = len(voice) // hop
+        env = np.sqrt((voice[: frames * hop].mean(axis=1).reshape(frames, hop) ** 2).mean(axis=1))
+        speaking = (20 * np.log10(env + 1e-9) > -18 - 20).astype(float)  # within 20 dB of speech level
+        a = 1 - np.exp(-1 / (duck.get("attack", 0.08) * 100))
+        r = 1 - np.exp(-1 / (duck.get("release", 0.6) * 100))
+        smooth = np.zeros(frames)
+        level = 0.0
+        for k in range(frames):
+            target = speaking[k]
+            level += (a if target > level else r) * (target - level)
+            smooth[k] = level
+        g = db_to_gain(-duck.get("db", 6) * smooth)
+        duck_gain = np.ones(total)
+        duck_gain[: frames * hop] = np.repeat(g, hop)[: total]
+        duck_gain[frames * hop:] = g[-1] if frames else 1.0
+
     for info in plan.get("music", []):
         # each bed plays from "from" to "to" (seconds of the video), looping if the track is shorter
         begin, finish = info.get("from", 0.0), min(info.get("to", seconds), seconds)
@@ -147,7 +174,12 @@ def build_mix(plan: dict, root: Path) -> np.ndarray:
             raise SoundError(f"could not read any sound from {info['file']}")
         music = loop_to(music, length)
         music *= db_to_gain(-18 - info.get("below_voice_db", 18) - rms_db(music))
-        add_at(mix, fade(music, info.get("fade_in", 1.0), info.get("fade_out", 2.0)), begin, 1.0)
+        music = fade(music, info.get("fade_in", 1.0), info.get("fade_out", 2.0))
+        if duck_gain is not None:
+            b0 = int(round(begin * RATE))
+            seg = duck_gain[b0: b0 + len(music)]
+            music[: len(seg)] *= seg[:, None]
+        add_at(mix, music, begin, 1.0)
 
     sfx_dir = root / plan.get("sfx_dir", "library/sfx")
     cache: dict[str, np.ndarray] = {}

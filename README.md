@@ -1,7 +1,7 @@
 # Studio
 
 All my content projects in one place: ideas → videos → animation → Shorts → music.
-Each folder is its own project with its own `CLAUDE.md` and skills; this root ties them together.
+Each folder is its own project with `AGENTS.md` for Codex and `CLAUDE.md` for Claude; this root ties them together. Both use [shared production rules](docs/PRODUCTION.md) and [assistant routing](docs/ASSISTANTS.md).
 
 | Project | What it makes |
 |---|---|
@@ -11,6 +11,12 @@ Each folder is its own project with its own `CLAUDE.md` and skills; this root ti
 | [`audio-studio/`](audio-studio/README.md) | Regional folk × modern / rap songs |
 
 How they hand work to each other: [`docs/LINKS.md`](docs/LINKS.md).
+
+## Working with Codex
+
+Open this folder in Codex. `AGENTS.md` routes requests across all four studios; 14 skills cover the Studio workflows.
+
+Run `scripts/studio.sh link-skills` to install both assistants' skill links, then `scripts/studio.sh doctor` to check them and flag unreviewed skill drift. See [Codex setup](docs/CODEX.md) for the newer Ramayana worktree.
 
 ## Working with Claude
 

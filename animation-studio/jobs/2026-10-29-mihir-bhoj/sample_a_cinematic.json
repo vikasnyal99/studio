@@ -1,0 +1,16 @@
+{"end": 29.5, "grade": "warm", "audio": "jobs/2026-10-29-mihir-bhoj/sample.wav",
+ "music": {"src": "lib:music/Long_Note_Two.mp3", "vol": 0.13},
+ "sfx": [[0, "lib:sfx/swell.wav", 0.5], [14.0, "lib:sfx/whoosh.wav", 0.35], [21.1, "lib:sfx/whoosh.wav", 0.35], [22.4, "lib:sfx/drone.wav", 0.3]],
+ "shots": [
+  {"t": 0, "kind": "card", "text": "7th Century"},
+  {"t": 1.6, "in": "black", "img": "doc/2026-10-29-mihir-bhoj/sil_conquest_p1.png", "move": "left", "fx": ["embers"], "grade": "none"},
+  {"t": 3.9, "img": "doc/2026-10-29-mihir-bhoj/sil_conquest_p3.png", "move": "right", "fx": ["fog"], "grade": "none"},
+  {"t": 6.4, "in": "fade", "img": "doc/2026-10-29-mihir-bhoj/sil_nagabhata_p1.png", "move": "left", "fx": ["dust"], "grade": "none"},
+  {"t": 9.0, "img": "doc/2026-10-29-mihir-bhoj/sil_conquest_p2.png", "move": "push", "fx": ["embers"], "grade": "none"},
+  {"t": 14.0, "in": "black", "kind": "card", "text": "632 CE"},
+  {"t": 15.4, "in": "black", "img": "doc/2026-10-29-mihir-bhoj/sil_sindh_p3.png", "move": "push", "fx": ["smoke"], "grade": "none", "label": {"text": "Arab Caliphates", "sub": "632 CE ke baad"}},
+  {"t": 18.9, "in": "fade", "img": "doc/2026-10-29-mihir-bhoj/sil_empire_p2.png", "move": "left", "fx": ["dust"], "grade": "none"},
+  {"t": 21.1, "kind": "card", "text": "636 CE"},
+  {"t": 22.6, "img": "doc/2026-10-29-mihir-bhoj/sil_conquest_p1.png", "z": [1.35, 1.5], "focus": [35, 55], "fx": ["embers"], "grade": "none", "label": {"text": "Battle of Yarmouk", "sub": "Byzantine Empire ki haar"}},
+  {"t": 25.8, "in": "fade", "img": "doc/2026-10-29-mihir-bhoj/sil_empire_p1.png", "move": "pull", "fx": ["smoke"], "grade": "none", "label": {"text": "Syria · Palestine", "sub": "Arab control"}}
+ ]}

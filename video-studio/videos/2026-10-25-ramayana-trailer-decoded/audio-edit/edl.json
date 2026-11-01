@@ -1,0 +1,151 @@
+{
+ "note": "Cut list for the narration, built from inbox/ramayana/*. Times in seconds of each original file. drop = remove every speech burst inside; cut = remove exactly that span (a stumble inside a line); split = remove a spoken title that runs into the first line.",
+ "parts": [
+  {
+   "file": "Khichripur.m4a.mp4",
+   "section": "1 Hook"
+  },
+  {
+   "file": "Khichripur 2.m4a.mp4",
+   "section": "2 Chandrahas",
+   "cut": [
+    [
+     17.15,
+     18.96
+    ]
+   ]
+  },
+  {
+   "file": "Khichripur 3.m4a.mp4",
+   "section": "3 Kumbhakarna + Brahmastra visual",
+   "drop": [
+    [
+     0,
+     2.95
+    ],
+    [
+     20.3,
+     22.9
+    ],
+    [
+     39.6,
+     49.6
+    ]
+   ]
+  },
+  {
+   "file": "Khichripur 4.m4a.mp4",
+   "section": "3 Brahmastra (Yuddha Kanda)"
+  },
+  {
+   "file": "Khichripur 5.m4a.mp4",
+   "section": "4 Airavat aur Vajra",
+   "split": [
+    [
+     0,
+     2.18
+    ]
+   ],
+   "drop": [
+    [
+     10.2,
+     15.5
+    ],
+    [
+     61.3,
+     65.6
+    ]
+   ]
+  },
+  {
+   "file": "Khichripur 6.m4a.mp4",
+   "section": "5 Yagna",
+   "drop": [
+    [
+     1.0,
+     6.4
+    ],
+    [
+     13.0,
+     21.6
+    ],
+    [
+     49.0,
+     55.0
+    ],
+    [
+     61.8,
+     67.2
+    ]
+   ]
+  },
+  {
+   "file": "Khichripur 7.m4a.mp4",
+   "section": "6 Shiv ka dhanush aur Parashuram",
+   "drop": [
+    [
+     0.8,
+     2.8
+    ],
+    [
+     22.1,
+     24.5
+    ],
+    [
+     36.3,
+     41.4
+    ],
+    [
+     62.5,
+     73.1
+    ]
+   ]
+  },
+  {
+   "file": "Khichripur 8.m4a.mp4",
+   "section": "7 Jatayu",
+   "drop": [
+    [
+     1.1,
+     2.05
+    ],
+    [
+     23.0,
+     25.0
+    ]
+   ]
+  },
+  {
+   "file": "Khichripur 9.m4a.mp4",
+   "section": "8 Pushpak Vimaan",
+   "drop": [
+    [
+     1.4,
+     2.6
+    ]
+   ]
+  },
+  {
+   "file": "Khichripur 10.m4a.mp4",
+   "section": "9 Lakshman Rekha + Close",
+   "drop": [
+    [
+     0.7,
+     1.9
+    ],
+    [
+     9.3,
+     10.0
+    ],
+    [
+     22.0,
+     25.8
+    ],
+    [
+     60.7,
+     71.7
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,260 @@
+{
+ "end": 142.97,
+ "grade": "warm",
+ "shots": [
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a22_nagabhata_flag.png",
+   "in": "fade",
+   "move": "push",
+   "fx": [
+    "dust"
+   ],
+   "label": {
+    "text": "Pratihara dynasty ka uday",
+    "sub": "Nagabhata ka resistance"
+   },
+   "t": 0.1
+  },
+  {
+   "t": 4.9,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a18_rising_king.png",
+   "in": "black",
+   "move": "push",
+   "fx": [
+    "rays"
+   ],
+   "t": 9.67
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_x07_scribes.png",
+   "in": "fade",
+   "move": "left",
+   "fx": [
+    "flicker"
+   ],
+   "label": {
+    "text": "Indian records + Arab accounts"
+   },
+   "t": 12.89
+  },
+  {
+   "kind": "title",
+   "text": "Mihir Bhoj",
+   "sub": "GURJAR SAMRAT",
+   "in": "black",
+   "t": 17.87
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_x02_balcony.png",
+   "move": "push",
+   "fx": [
+    "flicker"
+   ],
+   "t": 21.07
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a21_cav_sunset.png",
+   "in": "flash",
+   "punch": true,
+   "fx": [
+    "dust"
+   ],
+   "slam": {
+    "text": "Cavalry",
+    "sub": "reputation door tak",
+    "at": 0.3
+   },
+   "t": 25.56
+  },
+  {
+   "t": 27.96,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a06_kannauj_aerial.png",
+   "in": "black",
+   "move": "pull",
+   "fx": [
+    "dust"
+   ],
+   "t": 34.47
+  },
+  {
+   "t": 40.56,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 51.46,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 54.16,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 56.86,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a32_procession.png",
+   "in": "fade",
+   "move": "right",
+   "fx": [
+    "dust"
+   ],
+   "t": 60.07
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a25_ruined_hall.png",
+   "move": "push",
+   "fx": [
+    "dust",
+    "rays"
+   ],
+   "t": 63.59
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a26_ramabhadra.png",
+   "in": "black",
+   "grade": "night",
+   "move": "push",
+   "fx": [
+    "flicker"
+   ],
+   "label": {
+    "text": "Ramabhadra",
+    "sub": "Mihir Bhoj ke pita"
+   },
+   "t": 69.71
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a27_raid_smoke.png",
+   "move": "left",
+   "fx": [
+    "smoke"
+   ],
+   "t": 72.44
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a28_sword_oath.png",
+   "in": "fade",
+   "move": "push",
+   "fx": [
+    "embers"
+   ],
+   "t": 74.94
+  },
+  {
+   "t": 80.15,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 88.82,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a30_land_grant.png",
+   "in": "fade",
+   "move": "push",
+   "fx": [
+    "dust"
+   ],
+   "t": 99.86
+  },
+  {
+   "t": 104.56,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 108.66,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a31_feudatories.png",
+   "move": "right",
+   "fx": [
+    "dust"
+   ],
+   "t": 112.57
+  },
+  {
+   "t": 115.0,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a51_seal.png",
+   "move": "push",
+   "fx": [
+    "flicker"
+   ],
+   "t": 117.57
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a33_army_review.png",
+   "in": "flash",
+   "punch": true,
+   "slam": {
+    "text": "Major imperial force",
+    "at": 2.5
+   },
+   "fx": [
+    "dust"
+   ],
+   "t": 121.27
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a35_kannauj_market.png",
+   "in": "black",
+   "move": "left",
+   "label": {
+    "text": "Kannauj",
+    "sub": "Pratihara capital"
+   },
+   "fx": [
+    "dust"
+   ],
+   "t": 127.97
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a36_envoys.png",
+   "move": "push",
+   "fx": [
+    "dust"
+   ],
+   "slam": {
+    "text": "Political supremacy",
+    "sub": "ka centre",
+    "at": 0.6
+   },
+   "t": 130.37
+  },
+  {
+   "t": 133.27,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a37_rival_envoys.png",
+   "in": "fade",
+   "move": "push",
+   "fx": [
+    "flicker"
+   ],
+   "t": 136.57
+  }
+ ]
+}

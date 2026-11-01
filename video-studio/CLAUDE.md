@@ -1,5 +1,7 @@
 # Video Studio
 
+Read `../docs/PRODUCTION.md` and `../docs/ASSISTANTS.md`. This file gives Claude's local command contract; the current shared production rules and `make-video` skill apply to the edit.
+
 Turns one voice recording (plus an optional script) into a finished 1920x1080
 YouTube explainer: maps, photos, article screenshots, animated text, music and
 sound effects. Hindi/Hinglish narration; on-screen text in Roman Hinglish.
@@ -10,11 +12,11 @@ Character/cartoon animation is made in `/home/vikas/Desktop/studio/animation-stu
 use the `animate` skill.
 Fact-check / debunk proof graphics (marked-up screenshots, claim-vs-verdict, scorecards) also come from there: `proof-shots` skill.
 A talking-head recording with retakes, or where only the to-camera parts should show: `scripts/pick_takes.py` (see `make-video`).
+A voice narration recorded in several audio parts (retakes inside): `scripts/join_parts.py` (cut list in `V/audio-edit/edl.json`), then clean the sound with audio-studio's `_shared/scripts/clean_voice.py`.
 
 ## Rules that always apply
 
-- Every tool is free and runs on this laptop (Linux, no NVIDIA GPU). Never
-  add a paid service or upload the user's recording anywhere.
+- Prefer free local tools on this Linux laptop (no NVIDIA GPU). The user's current paid ChatGPT image workflow is authorized as described in `../docs/ASSISTANTS.md`; do not add another paid service or upload recordings without instruction.
 - Never change files in `voice/` or `inbox/`.
 - Never invent facts, names, dates, quotes or sources. Anything shown on
   screen as fact needs a link in `research/sources.json`. If the narration

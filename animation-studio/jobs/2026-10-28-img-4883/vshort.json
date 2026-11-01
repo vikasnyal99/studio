@@ -1,0 +1,322 @@
+{
+ "cam": "vshorts/2026-10-28-img-4883/cam.mp4",
+ "voice": "vshorts/2026-10-28-img-4883/voice.wav",
+ "music": "vshorts/music/Long_Note_Two.mp3",
+ "musicVol": 0.11,
+ "pieces": "auto",
+ "noise": -30,
+ "gap": 0.28,
+ "accent": "#FF5A4E",
+ "kicker": "Deepfake alert",
+ "title": "Arunachal pe<br/><b>FAKE AI video</b>",
+ "end": "Share karne se pehle check karo",
+ "captions": [
+  [
+   0.0,
+   "Abhi recently <b>China</b> ne kya kiya?"
+  ],
+  [
+   1.8,
+   "Hamare Indian officer"
+  ],
+  [
+   3.0,
+   "<b>Girish Kalia</b> ka"
+  ],
+  [
+   3.8,
+   "ek <b>fake AI video</b> banaya"
+  ],
+  [
+   5.4,
+   "jismein woh claim karte hain"
+  ],
+  [
+   6.6,
+   "ki <b>Arunachal</b> ke andar tak"
+  ],
+  [
+   7.5,
+   "China ki army aa chuki hai"
+  ],
+  [
+   9.7,
+   "aur usko social media par"
+  ],
+  [
+   10.6,
+   "<b>circulate</b> kar diya"
+  ],
+  [
+   11.3,
+   "Ab jin accounts se"
+  ],
+  [
+   12.6,
+   "yeh circulate karte hain"
+  ],
+  [
+   13.6,
+   "woh accounts <b>India mein ban</b> hain"
+  ],
+  [
+   15.0,
+   "Lekin kuch aise accounts hain"
+  ],
+  [
+   16.6,
+   "jo <b>naye accounts</b> bante hain"
+  ],
+  [
+   17.9,
+   "aur un accounts ka data"
+  ],
+  [
+   18.6,
+   "<b>re-share</b> karte hain"
+  ],
+  [
+   19.5,
+   "jo masses mein"
+  ],
+  [
+   20.5,
+   "<b>spread</b> kar diya jaata hai"
+  ],
+  [
+   21.9,
+   "Isko bola jaata hai"
+  ],
+  [
+   22.7,
+   "<b>INFORMATION WARFARE</b>"
+  ],
+  [
+   24.1,
+   "Matlab aap kisi desh mein"
+  ],
+  [
+   25.3,
+   "<b>fake information</b> phailao"
+  ],
+  [
+   26.5,
+   "aur is hadd tak phailao"
+  ],
+  [
+   28.2,
+   "ki log usko"
+  ],
+  [
+   28.7,
+   "<b>sach</b> maanne lag jaayein"
+  ],
+  [
+   29.9,
+   "Ab jo yeh fake AI video"
+  ],
+  [
+   31.1,
+   "chalaayi gayi"
+  ],
+  [
+   31.8,
+   "isko hamari <b>Indian Army</b> ne"
+  ],
+  [
+   33.0,
+   "officially bataya"
+  ],
+  [
+   34.2,
+   "ki yeh <b>galat information</b> hai"
+  ],
+  [
+   35.8,
+   "Lekin usse pehle hi"
+  ],
+  [
+   36.7,
+   "hamare desh ka jo opposition hai"
+  ],
+  [
+   38.1,
+   "jaise ki <b>Congress</b>"
+  ],
+  [
+   39.4,
+   "uske jo official spokesperson hain"
+  ],
+  [
+   41.3,
+   "unhone is video ko"
+  ],
+  [
+   41.8,
+   "utha ke <b>circulate</b> kar diya"
+  ],
+  [
+   43.3,
+   "yeh kehte hue ki"
+  ],
+  [
+   44.2,
+   "India ke andar Arunachal mein"
+  ],
+  [
+   45.9,
+   "China ki army aa chuki hai"
+  ],
+  [
+   47.4,
+   "Aajkal ki jo ladaaiyan hain"
+  ],
+  [
+   48.6,
+   "woh <b>information warfare</b> ban chuki hain"
+  ],
+  [
+   50.4,
+   "Ab na <b>nuclear bomb</b> pe focus hai"
+  ],
+  [
+   52.0,
+   "na <b>tanks</b> aur bandookon pe"
+  ],
+  [
+   54.1,
+   "Ab focus yeh hai ki"
+  ],
+  [
+   54.9,
+   "kisi desh mein agar aapko"
+  ],
+  [
+   55.8,
+   "<b>araajakta</b> phailaani hai"
+  ],
+  [
+   57.1,
+   "toh jaaiye aur us desh mein"
+  ],
+  [
+   58.3,
+   "<b>false information</b> phaila dijiye"
+  ]
+ ],
+ "inserts": [
+  {
+   "t": 3.6,
+   "d": 3.0,
+   "kind": "split",
+   "img": "vshorts/2026-10-28-img-4883/a1.jpg",
+   "move": "in",
+   "label": "AI se bana fake video",
+   "sfx": "static"
+  },
+  {
+   "t": 6.5,
+   "d": 3.1,
+   "kind": "quote",
+   "label": "Viral video ka daava",
+   "a": {
+    "big": "“Arunachal ke andar tak China ki army aa chuki hai”",
+    "small": "— AI se edit kiya gaya video"
+   },
+   "b": {
+    "big": "FAKE"
+   },
+   "sfx": "stamp"
+  },
+  {
+   "t": 11.3,
+   "d": 4.4,
+   "kind": "full",
+   "img": "vshorts/2026-10-28-img-4883/a2.jpg",
+   "move": "right",
+   "label": "Banned accounts → naye accounts"
+  },
+  {
+   "t": 19.4,
+   "d": 2.9,
+   "kind": "full",
+   "img": "vshorts/2026-10-28-img-4883/a5.jpg",
+   "move": "in",
+   "label": "Masses mein spread"
+  },
+  {
+   "t": 22.5,
+   "d": 1.9,
+   "kind": "stat",
+   "label": "Isko kehte hain",
+   "a": {
+    "big": "INFO WAR",
+    "small": "information warfare",
+    "tone": "bad"
+   },
+   "sfx": "hit"
+  },
+  {
+   "t": 24.4,
+   "d": 3.0,
+   "kind": "split",
+   "img": "vshorts/2026-10-28-img-4883/a2.jpg",
+   "move": "out",
+   "label": "Jhooth ko sach banao",
+   "sfx": false
+  },
+  {
+   "t": 31.7,
+   "d": 3.8,
+   "kind": "stat",
+   "img": "vshorts/2026-10-28-img-4883/a1.jpg",
+   "label": "Indian Army ka fact check",
+   "a": {
+    "big": "FAKE",
+    "small": "Army ne video ko galat bataya",
+    "tone": "bad"
+   },
+   "sfx": "stamp"
+  },
+  {
+   "t": 41.2,
+   "d": 3.4,
+   "kind": "split",
+   "img": "vshorts/2026-10-28-img-4883/a1.jpg",
+   "move": "left",
+   "label": "Fact check se pehle hi share"
+  },
+  {
+   "t": 47.3,
+   "d": 5.0,
+   "kind": "full",
+   "img": "vshorts/2026-10-28-img-4883/a3.jpg",
+   "move": "in",
+   "label": "Nayi jung",
+   "title": "Bomb nahi,<br/><b>information</b>"
+  },
+  {
+   "t": 54.0,
+   "d": 3.0,
+   "kind": "split",
+   "img": "vshorts/2026-10-28-img-4883/a2.jpg",
+   "move": "in",
+   "label": "Maqsad: araajakta",
+   "sfx": false
+  }
+ ],
+ "sfx": [
+  [
+   50.4,
+   "hit",
+   0.25
+  ]
+ ],
+ "ai": "AI illustration",
+ "thumb": {
+  "img": "vshorts/2026-10-28-img-4883/a1.jpg",
+  "face": 16,
+  "text": "Army ka<br/><b>FAKE</b> video!",
+  "stamp": "DEEPFAKE"
+ }
+}

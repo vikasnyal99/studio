@@ -33,6 +33,8 @@ const src = path.join(vdir, 'output', 'final.mp4');
 const dst = path.join(pub, 'final.mp4');
 if (!fs.existsSync(dst) || fs.statSync(dst).mtimeMs < fs.statSync(src).mtimeMs) fs.copyFileSync(src, dst);
 const serveUrl = await bundle({entryPoint: path.resolve('src/index.ts')});
+// each bundle is a full copy of public/ (~2.5 GB); 70 left in /tmp filled the disk on 31 Oct 2026
+process.on('exit', () => { try { fs.rmSync(serveUrl, {recursive: true, force: true}); } catch {} });
 const out = path.join(vdir, 'output', 'shorts');
 fs.mkdirSync(out, {recursive: true});
 for (const name of only.length ? only : Object.keys(shorts)) {

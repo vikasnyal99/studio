@@ -1,5 +1,7 @@
 # Idea Generator
 
+Read `../docs/PRODUCTION.md` and `../docs/ASSISTANTS.md` for shared rules and the Claude browser route.
+
 Ideas, channel analysis, strategy and scripts for the user's 3 YouTube channels. Output is Markdown
 the user reads, plus final scripts that video-studio turns into videos (`../docs/LINKS.md` §1).
 

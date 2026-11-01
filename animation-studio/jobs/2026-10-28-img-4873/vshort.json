@@ -1,0 +1,327 @@
+{
+ "cam": "vshorts/2026-10-28-img-4873/cam.mp4",
+ "voice": "vshorts/2026-10-28-img-4873/voice.wav",
+ "music": "vshorts/music/Crypto.mp3",
+ "musicVol": 0.09,
+ "pieces": "auto",
+ "noise": -30,
+ "gap": 0.28,
+ "accent": "#FFC531",
+ "kicker": "Kolhapur, Maharashtra",
+ "title": "Chacha ka sona churaaya…<br/><b>THAR</b> khareed li!",
+ "end": "Aapki raay? Comment karo",
+ "captions": [
+  [
+   0.0,
+   "Dosto, Maharashtra ke <b>Kolhapur</b> se"
+  ],
+  [
+   1.5,
+   "ek ajeeb-o-gareeb maamla"
+  ],
+  [
+   2.6,
+   "saamne aaya hai"
+  ],
+  [
+   3.1,
+   "jahan ek <b>19 saal</b> ke ladke ne"
+  ],
+  [
+   4.7,
+   "apne hi <b>chacha ke ghar</b>"
+  ],
+  [
+   5.6,
+   "mein chori karke"
+  ],
+  [
+   6.6,
+   "<b>15 tole sona</b> nikaala"
+  ],
+  [
+   8.2,
+   "aur use <b>₹10 lakh</b> mein"
+  ],
+  [
+   9.1,
+   "ek jeweller ko bech diya"
+  ],
+  [
+   10.6,
+   "Ab mazey ki baat yeh hai"
+  ],
+  [
+   11.7,
+   "ki un 10 lakh rupayon ka"
+  ],
+  [
+   12.6,
+   "istemaal usne"
+  ],
+  [
+   13.3,
+   "Mahindra ki <b>THAR</b>"
+  ],
+  [
+   14.2,
+   "khareedne mein kiya"
+  ],
+  [
+   15.0,
+   "aur baqayda social media pe"
+  ],
+  [
+   16.4,
+   "<b>reel</b> daal di"
+  ],
+  [
+   17.2,
+   "Lekin mazedaar baat yeh hai"
+  ],
+  [
+   18.4,
+   "ki ghar mein kisi ko"
+  ],
+  [
+   19.2,
+   "is baat ki <b>khabar nahi</b> thi"
+  ],
+  [
+   20.3,
+   "Lekin jab usne is gaadi ki"
+  ],
+  [
+   21.5,
+   "<b>puja</b> ke liye"
+  ],
+  [
+   22.1,
+   "ek special program karwaya"
+  ],
+  [
+   24.1,
+   "toh uske chacha ne"
+  ],
+  [
+   24.7,
+   "apni <b>almaari</b> kholi"
+  ],
+  [
+   25.7,
+   "taaki koi na koi"
+  ],
+  [
+   26.5,
+   "sone ka ornament"
+  ],
+  [
+   27.3,
+   "pehen ke wahan jaayein"
+  ],
+  [
+   28.5,
+   "Aur jab unhone dekha"
+  ],
+  [
+   29.7,
+   "ki wahan se saara saamaan"
+  ],
+  [
+   30.8,
+   "<b>chori</b> ho chuka tha"
+  ],
+  [
+   31.9,
+   "tab unhone <b>police</b> ko"
+  ],
+  [
+   32.9,
+   "phone milaaya"
+  ],
+  [
+   33.5,
+   "Aur police ne aate hi"
+  ],
+  [
+   34.3,
+   "poochhtaachh shuru ki"
+  ],
+  [
+   35.7,
+   "toh police ka <b>shaq</b>"
+  ],
+  [
+   36.8,
+   "pehle hi us ladke par gaya"
+  ],
+  [
+   38.5,
+   "ki ek <b>19 saal</b> ka ladka"
+  ],
+  [
+   39.5,
+   "itni mehngi gaadi"
+  ],
+  [
+   40.1,
+   "kaise khareed sakta hai?"
+  ],
+  [
+   41.1,
+   "Aur poochhtaachh karne par"
+  ],
+  [
+   42.6,
+   "us ladke ne <b>maan liya</b>"
+  ],
+  [
+   43.7,
+   "ki haan, maine hi chori ki hai"
+  ],
+  [
+   45.3,
+   "Toh aap dekhiye"
+  ],
+  [
+   45.9,
+   "social media ka craze"
+  ],
+  [
+   46.8,
+   "is hadd tak ja chuka hai"
+  ],
+  [
+   47.9,
+   "ki log apne hi ghar mein"
+  ],
+  [
+   48.9,
+   "<b>chori</b> karne ko raazi hain"
+  ],
+  [
+   49.8,
+   "sirf <b>Instagram</b> pe"
+  ],
+  [
+   50.6,
+   "<b>FLEX</b> karne ke liye"
+  ]
+ ],
+ "inserts": [
+  {
+   "t": 3.1,
+   "d": 3.3,
+   "kind": "split",
+   "img": "vshorts/2026-10-28-img-4873/a1.jpg",
+   "move": "in",
+   "label": "Chacha ke ghar chori"
+  },
+  {
+   "t": 6.5,
+   "d": 1.9,
+   "kind": "full",
+   "img": "vshorts/2026-10-28-img-4873/a2.jpg",
+   "move": "left",
+   "label": "15 tole sona"
+  },
+  {
+   "t": 8.3,
+   "d": 2.3,
+   "kind": "compare",
+   "img": "vshorts/2026-10-28-img-4873/a2.jpg",
+   "label": "Seedha jeweller ke paas",
+   "a": {
+    "big": "15 TOLE",
+    "small": "chori ka sona"
+   },
+   "b": {
+    "big": "₹10 LAKH",
+    "small": "mein bech diya",
+    "tone": "bad"
+   }
+  },
+  {
+   "t": 13.0,
+   "d": 4.2,
+   "kind": "full",
+   "img": "vshorts/2026-10-28-img-4873/a3.jpg",
+   "move": "out",
+   "label": "Chori ke paise → Thar",
+   "title": "Phir daali <b>REEL</b>"
+  },
+  {
+   "t": 21.2,
+   "d": 2.8,
+   "kind": "split",
+   "img": "vshorts/2026-10-28-img-4873/a3.jpg",
+   "move": "up",
+   "label": "Gaadi ki puja",
+   "sfx": false
+  },
+  {
+   "t": 24.5,
+   "d": 3.5,
+   "kind": "full",
+   "img": "vshorts/2026-10-28-img-4873/a4.jpg",
+   "move": "in",
+   "label": "Almaari kholi…"
+  },
+  {
+   "t": 29.6,
+   "d": 2.2,
+   "kind": "stat",
+   "label": "Almaari khaali",
+   "a": {
+    "big": "CHORI!",
+    "small": "saara sona gayab",
+    "tone": "bad"
+   },
+   "sfx": "hit"
+  },
+  {
+   "t": 33.4,
+   "d": 3.8,
+   "kind": "full",
+   "img": "vshorts/2026-10-28-img-4873/a5.jpg",
+   "move": "in",
+   "label": "Police poochhtaachh"
+  },
+  {
+   "t": 43.5,
+   "d": 2.2,
+   "kind": "quote",
+   "label": "Ladke ne maan liya",
+   "a": {
+    "big": "“Haan, maine hi chori ki hai”",
+    "small": "— 19 saal ka ladka"
+   },
+   "b": {
+    "big": "KABOOL"
+   },
+   "sfx": "stamp"
+  },
+  {
+   "t": 47.8,
+   "d": 3.6,
+   "kind": "split",
+   "img": "vshorts/2026-10-28-img-4873/a6.jpg",
+   "move": "in",
+   "label": "Sab kuch ek reel ke liye?"
+  }
+ ],
+ "sfx": [
+  [
+   28.2,
+   "riser",
+   0.3
+  ]
+ ],
+ "ai": "AI illustration",
+ "thumb": {
+  "img": "vshorts/2026-10-28-img-4873/a3.jpg",
+  "face": 16,
+  "text": "Sone ki chori<br/>se <b>THAR!</b>",
+  "stamp": "₹10 LAKH"
+ }
+}

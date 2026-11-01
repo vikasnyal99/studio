@@ -1,0 +1,59 @@
+{
+  "pairs": {
+    "animate": {
+      "claude_path": "video-studio/.claude/skills/animate/SKILL.md",
+      "claude_sha256": "96a09eb0e46197df02b7ca11bea1482ea635106c237060c47de1263d99d042d6",
+      "codex_sha256": "96e27dda582b54a590dcf5b3058ee33b17116506d3c3cc27ff3eb24eef1209f5"
+    },
+    "animate-shot": {
+      "claude_path": "animation-studio/.claude/skills/animate-shot/SKILL.md",
+      "claude_sha256": "ce16b21bb459b97a19758810f7092975cb26791e31065f911f565b43acb03095",
+      "codex_sha256": "c1715bf2a9ad6c951879c405910f564afead2d9394af999dc6daddda2b075f23"
+    },
+    "chatgpt-image-sheets": {
+      "claude_path": "animation-studio/.claude/skills/chatgpt-image-sheets/SKILL.md",
+      "claude_sha256": "a5e1bf3db032fcaa660caa4aaf3591fa3c6cab193aa69d96f0238b8271b44b5d",
+      "codex_sha256": "2b4e3e56f1d131ceabc8cbaefea910f31128ef7a55715b0efbb533b6d566608f"
+    },
+    "closeup-shots": {
+      "claude_path": "animation-studio/.claude/skills/closeup-shots/SKILL.md",
+      "claude_sha256": "d8b2f6a430174e9fbe7d4ac4efe881fd63e5ebec3ce9dfeae12bc94042a60b3d",
+      "codex_sha256": "729eabe4948d79182aec47b2e3afb393683cc0227d2bcabe5a442824b8d30e44"
+    },
+    "doc-animation": {
+      "claude_path": "animation-studio/.claude/skills/doc-animation/SKILL.md",
+      "claude_sha256": "639dc0b480cd7f84495d96b81302903e929b822b03745c18cf4fc285bb46986e",
+      "codex_sha256": "b435b2381c2996841b7c74c46e705d3fcb05ede7d476dc910ae2b0d8a9490bde"
+    },
+    "make-video": {
+      "claude_path": "video-studio/.claude/skills/make-video/SKILL.md",
+      "claude_sha256": "9f8cf912cd9800eb5ac26404eb8a81bfc1b9913f7bc42fdb8285c55fee9d6204",
+      "codex_sha256": "8e68c95e02f04ae722d849933d49c07378b5116f943fe0013efa1c298d3532e5"
+    },
+    "new-studio-project": {
+      "claude_path": ".claude/skills/new-studio-project/SKILL.md",
+      "claude_sha256": "537dcc016e5ec9686661e9fd3142a1cab79b8ce496b202f419025794451183b8",
+      "codex_sha256": "28c200881713ffd9d1760f738c08fa310e15dec7aab8cb63d3b8d6080f9f43a5"
+    },
+    "proof-shots": {
+      "claude_path": "animation-studio/.claude/skills/proof-shots/SKILL.md",
+      "claude_sha256": "7eb91a393425f81257a53ee443c34dc4a02a9ed105b06013d552e13f32cefa98",
+      "codex_sha256": "0574f440bed7af59479f62255a2cc53908d30e71206b1b246cd075e6f405026b"
+    },
+    "revise-video": {
+      "claude_path": "video-studio/.claude/skills/revise-video/SKILL.md",
+      "claude_sha256": "235318f0548b4a509012666547778f1993f21adf526967ec1c6003fc3bc95f1c",
+      "codex_sha256": "6094ad9e4bdc9aea8d11c20fea4fb06f01148c745917cccd84f7007a216bda04"
+    },
+    "shorts-from-video": {
+      "claude_path": "animation-studio/.claude/skills/shorts-from-video/SKILL.md",
+      "claude_sha256": "80933ed0c7a22a2b5f9c967b609c1b1776c35b623b46f94f7be0ee07c788fd73",
+      "codex_sha256": "a9704c7e3ce097c9a66f9a041e542f3d4e466481b846e68f9dc4495f249b86e9"
+    },
+    "studio-pipeline": {
+      "claude_path": ".claude/skills/studio-pipeline/SKILL.md",
+      "claude_sha256": "c75a4db346ba53c05ab541379053ee995391d1c30a6a684d1d7ec5a2b82a7ac8",
+      "codex_sha256": "f645b5249b68e0e089947fb2e91f3e3aa8a4366831dfa3ae3b317fa70a1f4d03"
+    }
+  }
+}

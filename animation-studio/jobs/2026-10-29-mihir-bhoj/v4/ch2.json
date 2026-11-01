@@ -1,0 +1,257 @@
+{
+ "end": 150.0,
+ "grade": "warm",
+ "shots": [
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a34_kannauj_gate.png",
+   "move": "up",
+   "fx": [
+    "dust"
+   ],
+   "t": 0.0
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_x04_council.png",
+   "in": "fade",
+   "move": "push",
+   "fx": [
+    "flicker"
+   ],
+   "t": 2.27
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a11_older_king.png",
+   "in": "fade",
+   "move": "pull",
+   "slam": {
+    "text": "~50 saal ka reign",
+    "sub": "c. 836 – 885 CE",
+    "at": 0.8
+   },
+   "fx": [
+    "dust"
+   ],
+   "t": 6.58
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_x03_gate_ride.png",
+   "in": "flash",
+   "move": "push",
+   "fx": [
+    "dust"
+   ],
+   "t": 12.28
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a12_cav_squadron.png",
+   "in": "flash",
+   "punch": true,
+   "move": "left",
+   "slam": {
+    "text": "Military power",
+    "at": 0.1
+   },
+   "fx": [
+    "dust"
+   ],
+   "t": 14.48
+  },
+  {
+   "t": 15.98,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a50_mint.png",
+   "in": "flash",
+   "punch": true,
+   "slam": {
+    "text": "Adivaraha",
+    "at": 0.1,
+    "color": "#ffd27a"
+   },
+   "fx": [
+    "dust"
+   ],
+   "t": 17.58
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a13_merchant_lamp.png",
+   "in": "flash",
+   "punch": true,
+   "grade": "night",
+   "slam": {
+    "text": "Arab accounts",
+    "at": 0.1
+   },
+   "fx": [
+    "dust"
+   ],
+   "t": 19.18
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a14_victory_gate.png",
+   "in": "flash",
+   "punch": true,
+   "slam": {
+    "text": "Achievements",
+    "at": 0.3
+   },
+   "fx": [
+    "dust"
+   ],
+   "t": 21.05
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_x06_regal.png",
+   "in": "fade",
+   "move": "push",
+   "fx": [
+    "dust",
+    "rays"
+   ],
+   "t": 21.79
+  },
+  {
+   "t": 27.99,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a16_desert_camp.png",
+   "grade": "night",
+   "move": "push",
+   "fx": [
+    "embers"
+   ],
+   "slam": {
+    "text": "Nayi power",
+    "at": 0.3,
+    "color": "#ffd27a"
+   },
+   "t": 34.29
+  },
+  {
+   "t": 36.69,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 39.09,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 41.59,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 48.99,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 53.49,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 61.09,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 64.69,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 72.39,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 76.09,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 87.39,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 91.09,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 98.79,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 103.39,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a17_nagabhata.png",
+   "in": "black",
+   "move": "push",
+   "fx": [
+    "dust"
+   ],
+   "label": {
+    "text": "Nagabhata I",
+    "sub": "Gurjara-Pratihara · 8th century",
+    "at": 0.3
+   },
+   "t": 112.17
+  },
+  {
+   "t": 114.1,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 121.69,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 125.09,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 130.1,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 136.7,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a22_nagabhata_flag.png",
+   "in": "fade",
+   "move": "push",
+   "fx": [
+    "dust"
+   ],
+   "label": {
+    "text": "Pratihara dynasty ka uday",
+    "sub": "Nagabhata ka resistance"
+   },
+   "t": 143.68
+  },
+  {
+   "t": 148.48,
+   "kind": "card",
+   "text": ""
+  }
+ ]
+}

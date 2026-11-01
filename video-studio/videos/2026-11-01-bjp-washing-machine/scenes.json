@@ -1,0 +1,14 @@
+{
+  "voice": "videos/2026-11-01-bjp-washing-machine/audio-edit/narration_edit.wav",
+  "duration": 435.1,
+  "map": "south_asia",
+  "music": [
+    {
+      "file": "library/music/Interloper.mp3",
+      "from": 0,
+      "to": 435.1,
+      "below_voice_db": 4
+    }
+  ],
+  "scenes": []
+}

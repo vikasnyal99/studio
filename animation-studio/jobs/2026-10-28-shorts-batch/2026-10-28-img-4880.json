@@ -1,0 +1,204 @@
+{
+  "job": "2026-10-28-img-4880",
+  "duration": 45.855,
+  "title": "22K Bracelet… 20K Reading?",
+  "kicker": "Bilaspur Gold Dispute",
+  "accent": "#F3C969",
+  "portrait": "recorded-shorts/2026-10-28-img-4880/portrait.mp4",
+  "wide": "recorded-shorts/2026-10-28-img-4880/portrait.mp4",
+  "voice": "recorded-shorts/2026-10-28-img-4880/voice.wav",
+  "music": "recorded-shorts/music/Crypto.mp3",
+  "source": "The Hitavada reported an FIR following the alleged test-reading dispute. The illustration depicts the topic, not the actual bracelet or shop.",
+  "captions": [
+    {
+      "a": 0,
+      "b": 2.3400000000000003,
+      "text": "Chhattisgarh ke Bilaspur se ek aisa"
+    },
+    {
+      "a": 2.3800000000000003,
+      "b": 3.92,
+      "text": "fraud saamne aaya hai jahan par"
+    },
+    {
+      "a": 3.96,
+      "b": 5.34,
+      "text": "ek aadmi apna 22 carat ka"
+    },
+    {
+      "a": 5.38,
+      "b": 7.44,
+      "text": "gold bracelet Malabar gold mein bechne"
+    },
+    {
+      "a": 7.48,
+      "b": 8.899999999999999,
+      "text": "ke liye jaata hai lekin unki"
+    },
+    {
+      "a": 8.939999999999998,
+      "b": 10.479999999999999,
+      "text": "jo XRF machine hai woh baar"
+    },
+    {
+      "a": 10.519999999999998,
+      "b": 12.02,
+      "text": "baar uski rating 20 carat dikhati"
+    },
+    {
+      "a": 12.059999999999999,
+      "b": 14.18,
+      "text": "hai yaani 8 % drop in"
+    },
+    {
+      "a": 14.219999999999999,
+      "b": 16.16,
+      "text": "value ab woh aadmi usko challenge"
+    },
+    {
+      "a": 16.2,
+      "b": 17.62,
+      "text": "karne ke liye uske jeweller ko"
+    },
+    {
+      "a": 17.66,
+      "b": 18.580000000000002,
+      "text": "hi bula leta hai jahan se"
+    },
+    {
+      "a": 18.62,
+      "b": 20.3,
+      "text": "usne usko purchase kiya tha aur"
+    },
+    {
+      "a": 20.34,
+      "b": 22.220000000000002,
+      "text": "woh jeweller Malabar ko khula challenge"
+    },
+    {
+      "a": 22.26,
+      "b": 23.26,
+      "text": "deta hai ki aap mere saamne"
+    },
+    {
+      "a": 23.3,
+      "b": 25.0,
+      "text": "usko prove karo tabhi Malabar ka"
+    },
+    {
+      "a": 25.04,
+      "b": 26.46,
+      "text": "ek salesman aata hai aur uske"
+    },
+    {
+      "a": 26.5,
+      "b": 28.16,
+      "text": "XRF machine ko adjust karta hai"
+    },
+    {
+      "a": 28.2,
+      "b": 29.98,
+      "text": "aura aba vo masheena usee 20"
+    },
+    {
+      "a": 30.02,
+      "b": 31.380000000000003,
+      "text": "karata ke bresaleta ko 22 karata"
+    },
+    {
+      "a": 31.42,
+      "b": 32.879999999999995,
+      "text": "kaa dikhaane lie jaatee hai। ye"
+    },
+    {
+      "a": 32.919999999999995,
+      "b": 34.339999999999996,
+      "text": "saaraa insidenta vo aadamee apane phona"
+    },
+    {
+      "a": 34.379999999999995,
+      "b": 35.599999999999994,
+      "text": "men kaapchhara kala letaa hai। aura"
+    },
+    {
+      "a": 35.63999999999999,
+      "b": 37.18,
+      "text": "logo ke protesta ke vaada usa"
+    },
+    {
+      "a": 37.22,
+      "b": 38.779999999999994,
+      "text": "maalaabaara chena ke mainjara para aura"
+    },
+    {
+      "a": 38.81999999999999,
+      "b": 40.199999999999996,
+      "text": "usa selsamena para ephaayara darja ho"
+    },
+    {
+      "a": 40.239999999999995,
+      "b": 42.08,
+      "text": "jaatee hain to soche agara maalaabaara"
+    },
+    {
+      "a": 42.12,
+      "b": 43.279999999999994,
+      "text": "jaisee badaी chena aisee cheesa kara"
+    },
+    {
+      "a": 43.31999999999999,
+      "b": 44.8,
+      "text": "sakatee hai to logo kaa sonaa"
+    },
+    {
+      "a": 44.839999999999996,
+      "b": 45.519999999999996,
+      "text": "kahaan pe sepha hai"
+    }
+  ],
+  "beats": [
+    {
+      "a": 7.8,
+      "b": 14.1,
+      "label": "20K ya 22K?",
+      "sub": "The customer disputed the purity reading",
+      "image": "recorded-shorts/2026-10-28-img-4880/visual.jpg",
+      "mode": "split",
+      "tag": "ILLUSTRATIVE RE-CREATION"
+    },
+    {
+      "a": 23.8,
+      "b": 32.5,
+      "label": "Same Bracelet. New Reading?",
+      "sub": "Allegation described in the FIR coverage",
+      "mode": "split",
+      "tag": "ILLUSTRATIVE RE-CREATION",
+      "image": null
+    },
+    {
+      "a": 35,
+      "b": 44,
+      "label": "FIR Filed",
+      "sub": "An allegation is not a court finding",
+      "mode": "split",
+      "image": null
+    }
+  ],
+  "sfx": [
+    {
+      "at": 8,
+      "file": "recorded-shorts/sfx/tick.wav",
+      "volume": 0.16
+    },
+    {
+      "at": 27,
+      "file": "recorded-shorts/sfx/click.wav",
+      "volume": 0.18
+    },
+    {
+      "at": 35.4,
+      "file": "recorded-shorts/sfx/stamp.wav",
+      "volume": 0.13
+    }
+  ]
+}

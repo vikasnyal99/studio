@@ -1,0 +1,149 @@
+{
+ "end": 146.3,
+ "grade": "warm",
+ "shots": [
+  {
+   "t": 0.0,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/sil_sindh_p3.png",
+   "grade": "none",
+   "move": "push",
+   "fx": [
+    "smoke"
+   ],
+   "slam": {
+    "text": "Nayi power",
+    "at": 0.3,
+    "color": "#ffd27a"
+   },
+   "t": 6.3
+  },
+  {
+   "t": 8.7,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 11.1,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 13.6,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 21.0,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 25.5,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 33.1,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 36.7,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 44.4,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 48.1,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 59.4,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 63.1,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 70.8,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 75.4,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 83.7,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 87.9,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 95.8,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 107.0,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/portraits_p2.png",
+   "in": "black",
+   "move": "push",
+   "fx": [
+    "dust"
+   ],
+   "label": {
+    "text": "Nagabhata I",
+    "sub": "Gurjara-Pratihara · 8th century",
+    "at": 0.3
+   },
+   "t": 113.5
+  },
+  {
+   "t": 115.7,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 123.3,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 126.7,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 131.7,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 138.3,
+   "kind": "card",
+   "text": ""
+  }
+ ]
+}

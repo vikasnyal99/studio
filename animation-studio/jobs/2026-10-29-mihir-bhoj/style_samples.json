@@ -1,0 +1,13 @@
+{"end": 26, "grade": "none",
+ "shots": [
+  {"t": 0, "kind": "card", "text": "Style 1 · Graphic novel"},
+  {"t": 1.2, "img": "doc/2026-10-29-mihir-bhoj/mb_style1_graphicnovel.png", "move": "push", "fx": ["dust"], "grade": "warm"},
+  {"t": 5.2, "kind": "card", "text": "Style 2 · Miniature painting", "in": "fade"},
+  {"t": 6.4, "img": "doc/2026-10-29-mihir-bhoj/mb_style2_miniature.png", "move": "left", "fx": ["dust"]},
+  {"t": 10.4, "kind": "card", "text": "Style 3 · Epic painting", "in": "fade"},
+  {"t": 11.6, "img": "doc/2026-10-29-mihir-bhoj/mb_style3_epicpaint.png", "move": "push", "fx": ["dust", "rays"]},
+  {"t": 15.6, "kind": "card", "text": "Style 4 · Silhouette", "in": "fade"},
+  {"t": 16.8, "img": "doc/2026-10-29-mihir-bhoj/mb_style4_silhouette.png", "move": "right", "fx": ["embers"]},
+  {"t": 20.8, "kind": "card", "text": "Style 5 · Indian comic", "in": "fade"},
+  {"t": 22, "img": "doc/2026-10-29-mihir-bhoj/mb_style5_comic.png", "move": "push", "fx": ["dust"]}
+ ]}

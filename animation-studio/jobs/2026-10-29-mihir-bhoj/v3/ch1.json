@@ -1,0 +1,301 @@
+{
+ "end": 148.59,
+ "grade": "warm",
+ "shots": [
+  {
+   "t": 0,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 46.35,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a01_fort_dawn.png",
+   "in": "flash",
+   "slam": {
+    "text": "Gurjar-Pratihara",
+    "sub": "dynasty · 8th–11th century",
+    "at": 0.2,
+    "color": "#ffd27a"
+   },
+   "fx": [
+    "dust"
+   ],
+   "t": 48.94
+  },
+  {
+   "t": 51.44,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a02_cav_charge.png",
+   "in": "flash",
+   "punch": true,
+   "fx": [
+    "dust"
+   ],
+   "slam": {
+    "text": "Arab campaigns",
+    "sub": "ke khilaf resistance",
+    "at": 0.4
+   },
+   "shake": [
+    55.44
+   ],
+   "t": 55.04
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a03_throne.png",
+   "in": "fade",
+   "move": "push",
+   "fx": [
+    "flicker"
+   ],
+   "t": 58.64
+  },
+  {
+   "t": 63.05,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a29_copper_plate.png",
+   "in": "fade",
+   "move": "push",
+   "fx": [
+    "dust",
+    "flicker"
+   ],
+   "label": {
+    "text": "Historical records",
+    "sub": "copper plates · inscriptions"
+   },
+   "t": 67.04
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a04_portrait.png",
+   "in": "flash",
+   "punch": true,
+   "fx": [
+    "dust"
+   ],
+   "slam": {
+    "text": "Samrat Mihir Bhoj",
+    "at": 1.6,
+    "color": "#ffd27a"
+   },
+   "shake": [
+    74.14
+   ],
+   "t": 72.55
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a05_traveller_ship.png",
+   "in": "black",
+   "move": "left",
+   "fx": [
+    "dust"
+   ],
+   "label": {
+    "text": "Arab travellers",
+    "sub": "9th century"
+   },
+   "t": 77.04
+  },
+  {
+   "t": 81.54,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 87.35,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "kind": "title",
+   "text": "Mihir Bhoj",
+   "sub": "GURJAR SAMRAT",
+   "in": "black",
+   "t": 92.74
+  },
+  {
+   "t": 95.55,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "t": 98.64,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a20_army_parade.png",
+   "in": "fade",
+   "move": "right",
+   "fx": [
+    "dust"
+   ],
+   "t": 103.63
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a10_rival_banners.png",
+   "in": "flash",
+   "punch": true,
+   "label": {
+    "text": "Palas · Rashtrakutas",
+    "sub": "bade empires ko chunauti"
+   },
+   "fx": [
+    "dust"
+   ],
+   "t": 106.53
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a07_coronation.png",
+   "in": "black",
+   "move": "push",
+   "fx": [
+    "dust",
+    "flicker"
+   ],
+   "label": {
+    "text": "Mihir Bhoj",
+    "sub": "c. 836 CE · Pratihara samrat"
+   },
+   "t": 110.13
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a08_frontier_night.png",
+   "move": "left",
+   "fx": [
+    "flicker"
+   ],
+   "grade": "night",
+   "t": 113.63
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a09_war_tent.png",
+   "in": "fade",
+   "move": "push",
+   "fx": [
+    "flicker"
+   ],
+   "t": 117.04
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a34_kannauj_gate.png",
+   "move": "up",
+   "fx": [
+    "dust"
+   ],
+   "t": 120.07
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_x04_council.png",
+   "in": "fade",
+   "move": "push",
+   "fx": [
+    "flicker"
+   ],
+   "t": 122.87
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a11_older_king.png",
+   "in": "fade",
+   "move": "pull",
+   "slam": {
+    "text": "~50 saal ka reign",
+    "sub": "c. 836 – 885 CE",
+    "at": 0.8
+   },
+   "fx": [
+    "dust"
+   ],
+   "t": 127.18
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_x03_gate_ride.png",
+   "in": "flash",
+   "move": "push",
+   "fx": [
+    "dust"
+   ],
+   "t": 132.87
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a12_cav_squadron.png",
+   "in": "flash",
+   "punch": true,
+   "move": "left",
+   "slam": {
+    "text": "Military power",
+    "at": 0.1
+   },
+   "fx": [
+    "dust"
+   ],
+   "t": 135.08
+  },
+  {
+   "t": 136.57,
+   "kind": "card",
+   "text": ""
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a50_mint.png",
+   "in": "flash",
+   "punch": true,
+   "slam": {
+    "text": "Adivaraha",
+    "at": 0.1,
+    "color": "#ffd27a"
+   },
+   "fx": [
+    "dust"
+   ],
+   "t": 138.18
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a13_merchant_lamp.png",
+   "in": "flash",
+   "punch": true,
+   "grade": "night",
+   "slam": {
+    "text": "Arab accounts",
+    "at": 0.1
+   },
+   "fx": [
+    "dust"
+   ],
+   "t": 139.77
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_a14_victory_gate.png",
+   "in": "flash",
+   "punch": true,
+   "slam": {
+    "text": "Achievements",
+    "at": 0.3
+   },
+   "fx": [
+    "dust"
+   ],
+   "t": 141.65
+  },
+  {
+   "img": "doc/2026-10-29-mihir-bhoj/v2/v2_x06_regal.png",
+   "in": "fade",
+   "move": "push",
+   "fx": [
+    "dust",
+    "rays"
+   ],
+   "t": 142.38
+  }
+ ]
+}

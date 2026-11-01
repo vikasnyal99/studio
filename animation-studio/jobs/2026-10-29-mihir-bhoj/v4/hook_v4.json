@@ -1,0 +1,122 @@
+{
+ "end": 44.5,
+ "beats": [
+  {
+   "kind": "art",
+   "img": "jobs/2026-10-29-mihir-bhoj/hook/modern_1.jpg",
+   "lines": [
+    "Social media ke daur mein",
+    "image banane mein time nahi lagta"
+   ],
+   "t": 0.0
+  },
+  {
+   "kind": "thumbs",
+   "lines": [
+    "Ek viral video"
+   ],
+   "views": [
+    40000,
+    3800000
+   ],
+   "flash": true,
+   "t": 4.6
+  },
+  {
+   "kind": "art",
+   "img": "jobs/2026-10-29-mihir-bhoj/hook/modern_2.jpg",
+   "lines": [
+    "Ek controversy",
+    "ya kisi ek individual ka incident"
+   ],
+   "flash": true,
+   "t": 5.8
+  },
+  {
+   "kind": "words",
+   "lines": [
+    "Poori community par <span style=\"color:#d9574a\">ek label</span>"
+   ],
+   "flash": true,
+   "t": 9.0
+  },
+  {
+   "kind": "headlines",
+   "items": [
+    "NCR property politics",
+    "Rent",
+    "Local dominance"
+   ],
+   "t": 11.0
+  },
+  {
+   "kind": "thumbs",
+   "lines": [
+    "Memes",
+    "limited narratives"
+   ],
+   "flash": true,
+   "t": 17.04
+  },
+  {
+   "kind": "split",
+   "imgs": [
+    "jobs/2026-10-29-mihir-bhoj/hook/modern_4.jpg",
+    "jobs/2026-10-29-mihir-bhoj/hook/osian_1897.jpg"
+   ],
+   "labels": [
+    "Present day image",
+    "Historical journey"
+   ],
+   "text": "EK CHEEZ NAHI",
+   "flash": true,
+   "t": 22.65
+  },
+  {
+   "kind": "docs",
+   "imgs": [
+    "jobs/2026-10-29-mihir-bhoj/hook/doc_ei18_title.jpg",
+    "jobs/2026-10-29-mihir-bhoj/hook/doc_elliot1_title.jpg"
+   ],
+   "labels": [
+    "Epigraphia Indica · 1925",
+    "Elliot & Dowson · 1867"
+   ],
+   "t": 27.55
+  },
+  {
+   "kind": "pics",
+   "imgs": [
+    "jobs/2026-10-29-mihir-bhoj/hook/chaturbhuj_gwalior.jpg",
+    "jobs/2026-10-29-mihir-bhoj/hook/osian_varaha.jpg",
+    "jobs/2026-10-29-mihir-bhoj/hook/osian_monuments.jpg"
+   ],
+   "labels": [
+    "Chaturbhuj mandir, Gwalior",
+    "Varaha, Osian",
+    "Osian mandir"
+   ],
+   "t": 32.21
+  },
+  {
+   "kind": "words",
+   "lines": [
+    "Ek naam",
+    "jise aaj local politics mein suna jata hai"
+   ],
+   "flash": true,
+   "t": 34.9
+  },
+  {
+   "kind": "rewind",
+   "from": 2026,
+   "to": 750,
+   "imgs": [
+    "jobs/2026-10-29-mihir-bhoj/hook/modern_3.jpg"
+   ],
+   "text": "Early medieval India",
+   "flash": true,
+   "t": 39.7
+  }
+ ]
+}

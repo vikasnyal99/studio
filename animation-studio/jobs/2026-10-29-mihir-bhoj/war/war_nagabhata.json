@@ -1,0 +1,20 @@
+{"end": 8.1, "bg": "doc/2026-10-29-mihir-bhoj/war/plate_rajasthan.jpg",
+ "cam": [[0, 1.15, 40, 52], [3.6, 1.2, 55, 50], [8.1, 1.32, 45, 52]],
+ "title": {"text": "Nagabhata I vs Arab armies", "sub": "8th century", "at": 0.1},
+ "forts": [{"x": 92, "y": 37, "color": "#d9822b"}],
+ "units": [
+  {"label": "Arab army", "color": "#2f7d4a", "sprite": "doc/2026-10-29-mihir-bhoj/war/arab_inf.png", "n": [5, 2], "path": [[0, 10, 50], [3.4, 40, 52]], "fight": [3.6, 5.2], "rout": 5.2},
+  {"color": "#2f7d4a", "sprite": "doc/2026-10-29-mihir-bhoj/war/arab_cav.png", "n": [3, 1], "size": 96, "gallop": true, "path": [[0, 8, 28], [3.2, 38, 30]], "fight": [3.6, 5.3], "rout": 5.3},
+  {"label": "Nagabhata I", "color": "#d9822b", "sprite": "doc/2026-10-29-mihir-bhoj/war/ind_cav.png", "n": [3, 1], "size": 100, "gallop": true, "facing": -1, "from": 1.2, "path": [[1.2, 84, 44], [3.6, 52, 40], [6.4, 40, 42]], "fight": [3.6, 5.2]},
+  {"color": "#d9822b", "sprite": "doc/2026-10-29-mihir-bhoj/war/ind_cav.png", "n": [3, 1], "size": 100, "gallop": true, "facing": -1, "from": 1.6, "path": [[1.6, 82, 74], [3.8, 54, 66], [6.6, 42, 60]], "fight": [3.8, 5.2]},
+  {"color": "#d9822b", "sprite": "doc/2026-10-29-mihir-bhoj/war/ind_inf.png", "n": [5, 2], "facing": -1, "from": 2.2, "path": [[2.2, 80, 58], [4.4, 62, 54]]}
+ ],
+ "arrows": [
+  {"at": 0.2, "dur": 1.8, "pts": [[12, 50], [36, 52]], "color": "#2f7d4a"},
+  {"at": 1.4, "dur": 1.6, "pts": [[86, 40], [70, 36], [56, 40]], "color": "#d9822b"},
+  {"at": 1.8, "dur": 1.6, "pts": [[84, 78], [70, 72], [58, 66]], "color": "#d9822b"},
+  {"at": 5.3, "dur": 1.4, "pts": [[44, 46], [24, 46], [8, 48]], "color": "#d9822b", "width": 22}
+ ],
+ "clash": [[3.6, 46, 42, 5.2], [3.8, 48, 62, 5.2]],
+ "caps": [["Western India", "Arab armies ki <b>aage badhne</b> ki koshish", 0.3, 3.5], ["Nagabhata I", "<b>Mlechchha sena</b> ki haar · Gwalior prashasti", 3.6]]
+}

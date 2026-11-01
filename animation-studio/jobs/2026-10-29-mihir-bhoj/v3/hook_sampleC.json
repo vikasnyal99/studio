@@ -1,0 +1,105 @@
+{
+ "end": 46.45,
+ "beats": [
+  {
+   "kind": "art",
+   "img": "jobs/2026-10-29-mihir-bhoj/hook/modern_1.jpg",
+   "lines": [
+    "Social media ke daur mein",
+    "image banane mein time nahi lagta"
+   ],
+   "t": 0.0
+  },
+  {
+   "kind": "art",
+   "lines": [
+    "Ek viral video",
+    "ek controversy · ek incident"
+   ],
+   "flash": true,
+   "t": 4.6,
+   "img": "jobs/2026-10-29-mihir-bhoj/hook/modern_2.jpg"
+  },
+  {
+   "kind": "words",
+   "lines": [
+    "Poori community par <span style=\"color:#d9574a\">ek label</span>"
+   ],
+   "flash": true,
+   "t": 9.28
+  },
+  {
+   "kind": "headlines",
+   "items": [
+    "NCR property politics",
+    "Rent",
+    "Local dominance"
+   ],
+   "t": 11.28
+  },
+  {
+   "kind": "words",
+   "lines": [
+    "Memes",
+    "limited narratives"
+   ],
+   "flash": true,
+   "t": 17.84
+  },
+  {
+   "kind": "words",
+   "lines": [
+    "Present day image",
+    "aur poori historical journey · ek cheez nahi"
+   ],
+   "flash": true,
+   "t": 23.45
+  },
+  {
+   "kind": "art",
+   "img": "jobs/2026-10-29-mihir-bhoj/hook/modern_3.jpg",
+   "lines": [
+    "Memes nahi",
+    "history se pehchaan"
+   ],
+   "t": 28.35
+  },
+  {
+   "kind": "docs",
+   "imgs": [
+    "jobs/2026-10-29-mihir-bhoj/hook/doc_ei18_title.jpg",
+    "jobs/2026-10-29-mihir-bhoj/hook/doc_elliot1_title.jpg"
+   ],
+   "labels": [
+    "Epigraphia Indica · 1925",
+    "Elliot & Dowson · 1867"
+   ],
+   "t": 33.05
+  },
+  {
+   "kind": "art",
+   "img": "jobs/2026-10-29-mihir-bhoj/hook/modern_4.jpg",
+   "lines": [
+    "Ek naam",
+    "jise aaj local politics mein suna jata hai"
+   ],
+   "flash": true,
+   "t": 36.85
+  },
+  {
+   "kind": "rewind",
+   "from": 2026,
+   "to": 750,
+   "imgs": [
+    "jobs/2026-10-29-mihir-bhoj/hook/osian_1897.jpg",
+    "jobs/2026-10-29-mihir-bhoj/hook/chaturbhuj_gwalior.jpg",
+    "jobs/2026-10-29-mihir-bhoj/hook/osian_monuments.jpg",
+    "jobs/2026-10-29-mihir-bhoj/hook/osian_varaha.jpg"
+   ],
+   "text": "Early medieval India",
+   "flash": true,
+   "t": 41.64
+  }
+ ],
+ "cinema": true
+}

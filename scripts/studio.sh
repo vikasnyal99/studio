@@ -3,7 +3,7 @@
 #
 #   scripts/studio.sh status        what is in progress in every project (videos, animation jobs, songs, ideas)
 #   scripts/studio.sh doctor        check venvs, Node, ffmpeg, sibling links, skill links, stale absolute paths
-#   scripts/studio.sh link-skills   (re)create skill symlinks: root .claude/skills + ~/.claude/skills
+#   scripts/studio.sh link-skills   (re)create Claude and Codex skill discovery links
 #   scripts/studio.sh where <name>  every file/folder for one video name across all projects
 set -uo pipefail
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
@@ -46,14 +46,18 @@ status() {
   done
   echo "== idea-generator (latest 8 notes)"
   find idea-generator -name '*.md' -printf '%TY-%Tm-%Td  %p\n' | sort -r | head -8 | sed 's/^/  /'
-  echo "== animation ChatGPT quota"
-  (cd animation-studio && npm run -s quota 2>/dev/null | tail -1 | sed 's/^/  /')
+  echo "== image generation"
+  echo "  Use the active assistant route in docs/ASSISTANTS.md; local quota data is a generation log."
 }
 
 doctor() {
   echo "== layout"
+  for p in AGENTS.md CLAUDE.md docs/PRODUCTION.md docs/ASSISTANTS.md; do
+    [ -f "$p" ] && ok "$p" || bad "$p missing"
+  done
   for p in idea-generator video-studio animation-studio audio-studio; do
     [ -f "$p/CLAUDE.md" ] && ok "$p/CLAUDE.md" || bad "$p/CLAUDE.md missing"
+    [ -f "$p/AGENTS.md" ] && ok "$p/AGENTS.md" || bad "$p/AGENTS.md missing"
   done
   [ -d animation-studio/../video-studio/videos ] && ok "animation-studio sees ../video-studio" || bad "../video-studio not a sibling"
   echo "== tools"
@@ -69,6 +73,13 @@ doctor() {
     [ -L "$l" ] || continue
     [ -f "$l/SKILL.md" ] && ok "skill $(basename "$l")" || bad "broken skill link $l -> $(readlink "$l") (run link-skills)"
   done
+  if python3 scripts/install_codex_skills.py --check >/tmp/studio-codex-skill-check.$$ 2>&1; then
+    ok "Codex skill links and Claude/Codex reviewed pairs"
+  else
+    bad "Codex skill links or reviewed pairs (see below)"
+    cat /tmp/studio-codex-skill-check.$$
+  fi
+  rm -f /tmp/studio-codex-skill-check.$$
   echo "== stale absolute paths (outside build/output folders)"
   stale=$(grep -rIl --exclude-dir=node_modules --exclude-dir='.venv*' --exclude-dir=out --exclude-dir=hf \
           --exclude-dir=check --exclude-dir=output --exclude-dir=.git --exclude='*.log' --exclude=studio.sh \
@@ -92,6 +103,7 @@ link_skills() {
   for s in animation-studio/.claude/skills/*/; do
     n=$(basename "$s"); ln -sfn "$ROOT/animation-studio/.claude/skills/$n" ~/.claude/skills/"$n"; echo "global: $n"
   done
+  python3 scripts/install_codex_skills.py
 }
 
 where() {

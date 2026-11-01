@@ -45,6 +45,10 @@ if (missing.length) { console.error('missing in public/:\n  ' + missing.join('\n
 if (!withAudio) { delete spec.audio; delete spec.music; spec.sfx = []; }
 
 const serveUrl = await bundle({entryPoint: path.resolve('src/index.ts')});
+
+// each bundle is a full copy of public/ (~2.5 GB); 70 left in /tmp filled the disk on 31 Oct 2026
+
+process.on('exit', () => { try { fs.rmSync(serveUrl, {recursive: true, force: true}); } catch {} });
 const inputProps = {spec};
 const composition = await selectComposition({serveUrl, id: 'Doc', inputProps});
 const outDir = path.join('out', 'doc');

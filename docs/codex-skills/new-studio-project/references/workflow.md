@@ -1,0 +1,4 @@
+# Add a studio project
+
+Create `<studio-root>/<name>/` with concise AGENTS.md and CLAUDE.md entrypoints, README.md, tool manifest and appropriate media ignore rules. Both entrypoints read `docs/PRODUCTION.md` and `docs/ASSISTANTS.md`; keep provider tool calls in their own skills. Use sibling-relative paths for handoffs. Add repeatable workflows to `docs/codex-skills/<skill>/SKILL.md` and `<name>/.claude/skills/<skill>/SKILL.md` where both assistants should use them. Register routing in root AGENTS.md and CLAUDE.md, the shared project table in docs/PRODUCTION.md and README.md, and contracts in docs/LINKS.md. Update studio.sh status/doctor when useful. Run `scripts/studio.sh link-skills`, review counterpart changes, and record them with `python3 scripts/install_codex_skills.py --record-sync`. Validate new skills with the available skill-creator validator and check that generated media is ignored.
+

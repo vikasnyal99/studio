@@ -1,0 +1,465 @@
+{
+ "facts": [
+  {
+   "claim": "Prophet Muhammad died 632 CE",
+   "status": "verified",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Muhammad"
+   ]
+  },
+  {
+   "claim": "Battle of Yarmouk 636 CE, Byzantine defeat; Syria/Palestine under Arab control",
+   "status": "verified",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_the_Yarmuk"
+   ]
+  },
+  {
+   "claim": "Egypt conquered 639-642 CE",
+   "status": "verified",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Muslim_conquest_of_Egypt"
+   ]
+  },
+  {
+   "claim": "Battle of al-Qadisiyyah 636/637 CE",
+   "status": "verified",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_al-Qadisiyyah"
+   ]
+  },
+  {
+   "claim": "Battle of Nahavand 642 CE",
+   "status": "verified",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_Nahavand"
+   ]
+  },
+  {
+   "claim": "Yazdegerd III, last Sasanian king, died 651 CE",
+   "status": "verified",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Yazdegerd_III"
+   ]
+  },
+  {
+   "claim": "Tariq ibn Ziyad crossed the Strait of Gibraltar 711 CE; Visigothic kingdom defeated",
+   "status": "verified",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Umayyad_conquest_of_Hispania"
+   ]
+  },
+  {
+   "claim": "Muhammad bin Qasim conquered Sindh 711-712 CE, Raja Dahir defeated",
+   "status": "verified",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Muhammad_ibn_al-Qasim"
+   ]
+  },
+  {
+   "claim": "Arab campaigns in Gujarat, Saurashtra, Kutch, Malwa in early 8th century",
+   "status": "verified",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Umayyad_campaigns_in_India"
+   ]
+  },
+  {
+   "claim": "Gwalior inscription of Mihira Bhoja credits Nagabhata I with defeating a Mlechchha army, read as Arabs",
+   "status": "verified (interpretation by historians)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Nagabhata_I",
+    "https://jainqq.org/explore/032572/136"
+   ]
+  },
+  {
+   "claim": "Mihira Bhoja reigned c. 836-885 CE, capital Kannauj",
+   "status": "verified (dates approximate)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mihira_Bhoja"
+   ]
+  },
+  {
+   "claim": "Barah copper plate 836 CE and Daulatpura copper plate 843 CE of Bhoja",
+   "status": "verified",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mihira_Bhoja",
+    "https://jainqq.org/pagetext/Epigraphia_Indica_Vol_19/032573/34"
+   ]
+  },
+  {
+   "claim": "Father Ramabhadra's reign was troubled; Bhoja revived control of Gurjaratra",
+   "status": "verified",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mihira_Bhoja"
+   ]
+  },
+  {
+   "claim": "Tripartite Struggle: Pratiharas, Palas, Rashtrakutas over Kannauj",
+   "status": "verified",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Tripartite_Struggle"
+   ]
+  },
+  {
+   "claim": "Arab merchant Sulaiman (851 CE): ruler of Juzr (Gurjara) had the finest cavalry among Indian princes",
+   "status": "verified",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Sulaiman_al-Tajir"
+   ]
+  },
+  {
+   "claim": "Sulaiman: the Gurjara king was the greatest foe/enemy of the Muslims (Islam)",
+   "status": "paraphrase in secondary sources; exact wording varies by translation",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Sulaiman_al-Tajir",
+    "https://en.wikipedia.org/wiki/Mihira_Bhoja"
+   ]
+  },
+  {
+   "claim": "Pehowa (Prithudaka) inscription 882-83 CE: horse dealers' fair and donation to temples, reign of Bhoja",
+   "status": "verified",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Pehowa",
+    "https://jainqq.org/explore/032555/277"
+   ]
+  },
+  {
+   "claim": "Adivaraha title on Bhoja's coins (boar = Varaha avatar of Vishnu)",
+   "status": "verified",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mihira_Bhoja"
+   ]
+  },
+  {
+   "claim": "Sulaiman's account (tr. Elliot & Dowson 1867, vol 1 p.4): the king of Jurz has numerous forces, no other Indian prince has so fine a cavalry; among the princes of India there is no greater foe of the Muhammadan faith",
+   "status": "verified (exact translated text shown on screen)",
+   "sources": [
+    "https://archive.org/details/in.ernet.dli.2015.448955"
+   ]
+  },
+  {
+   "claim": "Gwalior prasasti of Bhoja, v.4: Nagabhata I defeated a Mlechchha army (Epigraphia Indica vol 18, p.101)",
+   "status": "verified",
+   "sources": [
+    "https://archive.org/details/in.ernet.dli.2015.56668"
+   ]
+  },
+  {
+   "claim": "EI vol 18 p.103: shortly after 725 AD Arab invaders... Nagabhata gained successes over the Mlechchha forces; Nagabhata I established the greatness of his family by his triumphant success over the Arabs",
+   "status": "verified",
+   "sources": [
+    "https://archive.org/details/in.ernet.dli.2015.56668"
+   ]
+  },
+  {
+   "claim": "Pehowa inscription (EI vol 1 p.184): horse-dealers at the horse-fair held at Pehoa (Prithudaka) imposed taxes for temples; Bhoja ruled in AD 882",
+   "status": "verified",
+   "sources": [
+    "https://archive.org/details/in.ernet.dli.2015.56636"
+   ]
+  },
+  {
+   "claim": "Coin with Varaha on a Pratihara coin 850-900 CE",
+   "status": "verified (Commons description)",
+   "sources": [
+    "https://commons.wikimedia.org/wiki/File:VarahaVishnuAvatarPratiharaKings850-900CE.jpg"
+   ]
+  },
+  {
+   "claim": "Gibraltar's name comes from Jabal Tariq (Tariq ibn Ziyad)",
+   "status": "verified",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gibraltar#Etymology"
+   ]
+  },
+  {
+   "claim": "Banbhore (Sindh) is identified by many historians with Debal",
+   "status": "verified",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Banbhore"
+   ]
+  },
+  {
+   "claim": "Kailasa temple Ellora built under Rashtrakuta king Krishna I (8th century)",
+   "status": "verified",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Kailasa_temple,_Ellora"
+   ]
+  }
+ ],
+ "screenshots": [],
+ "photos": [
+  {
+   "file": "assets/kannauj_ghat.jpg",
+   "title": "Mehndi Ghat, Ganga River, Kannauj.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Mehndi_Ghat,_Ganga_River,_Kannauj.jpg",
+   "author": "Utkarsh Nandan Oreya",
+   "licence": "CC BY-SA 4.0",
+   "date": "2022-04-26 14:54:54",
+   "description": "Mehndi Ghat, Ganga River, Kannauj मेहंदी घाट, गंगा नदी, कन्नौज",
+   "credit": "Photo: Utkarsh Nandan Oreya / Wikimedia Commons · CC BY-SA 4.0"
+  },
+  {
+   "file": "assets/kannauj_kartikeya.jpg",
+   "title": "Kartikeya, 10th Century A.D., Kannauj Museum.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Kartikeya,_10th_Century_A.D.,_Kannauj_Museum.jpg",
+   "author": "Utkarsh Nandan Oreya",
+   "licence": "CC BY-SA 4.0",
+   "date": "2022-04-26 11:02:17",
+   "description": "Kartikeya, 10th Century A.D., Kannauj Museum",
+   "credit": "Photo: Utkarsh Nandan Oreya / Wikimedia Commons · CC BY-SA 4.0"
+  },
+  {
+   "file": "assets/teli_mandir.jpg",
+   "title": "Teli Ka Mandir Gwalior Fort 001 (3).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Teli_Ka_Mandir_Gwalior_Fort_001_(3).jpg",
+   "author": "Suyash Dwivedi",
+   "licence": "CC BY-SA 4.0",
+   "date": "2018-03-09 17:45:32",
+   "description": "Teli Ka Mandir at Gwalior Fort",
+   "credit": "Photo: Suyash Dwivedi / Wikimedia Commons · CC BY-SA 4.0"
+  },
+  {
+   "file": "assets/bateshwar.jpg",
+   "title": "Batesara Group of Temple, Morena, Madhya Pradesh 09.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Batesara_Group_of_Temple,_Morena,_Madhya_Pradesh_09.jpg",
+   "author": "Suyash Dwivedi",
+   "licence": "CC BY-SA 4.0",
+   "date": "2018-03-10 15:45:23",
+   "description": ".mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--b",
+   "credit": "Photo: Suyash Dwivedi / Wikimedia Commons · CC BY-SA 4.0"
+  },
+  {
+   "file": "assets/gwalior_fort.jpg",
+   "title": "Gwalior fort view 003 (15).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Gwalior_fort_view_003_(15).jpg",
+   "author": "Suyash Dwivedi",
+   "licence": "CC BY-SA 4.0",
+   "date": "2018-03-09 17:12:02",
+   "description": "Gwalior fort premises",
+   "credit": "Photo: Suyash Dwivedi / Wikimedia Commons · CC BY-SA 4.0"
+  },
+  {
+   "file": "assets/gwalior_1844.jpg",
+   "title": "Gwalior Fort, 1844.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Gwalior_Fort,_1844.jpg",
+   "author": "AnonymousUnknown author",
+   "licence": "Public domain",
+   "date": "1844-03-09",
+   "description": "Gwalior Fort, 1844",
+   "credit": "Photo: AnonymousUnknown author / Wikimedia Commons · Public domain"
+  },
+  {
+   "file": "assets/pratihara_vishnu.jpg",
+   "title": "Lord Vishnu with Kaumodaki Mace, Gurjara-Pratihara Period, Chanderi.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Lord_Vishnu_with_Kaumodaki_Mace,_Gurjara-Pratihara_Period,_Chanderi.jpg",
+   "author": "Manishontop02",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-03-11 10:13:36",
+   "description": "Sandstone sculpture of Lord Vishnu in a standing, four-armed form, preserved at the Archaeological Site Museum, Chanderi, Madhya Pradesh, India. Vishnu is ident",
+   "credit": "Photo: Manishontop02 / Wikimedia Commons · CC BY-SA 4.0"
+  },
+  {
+   "file": "assets/pratihara_relief.jpg",
+   "title": "Surasundari on Red Sandstone Architectural Relief Panel, Gurjara-Pratihara Period, Budhi Chanderi.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Surasundari_on_Red_Sandstone_Architectural_Relief_Panel,_Gurjara-Pratihara_Period,_Budhi_Chanderi.jpg",
+   "author": "Manishontop02",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-03-11 10:13:16",
+   "description": "Red sandstone architectural relief panel depicting a Surasundari, a celestial female figure commonly found in the decorative sculpture of ancient and medieval I",
+   "credit": "Photo: Manishontop02 / Wikimedia Commons · CC BY-SA 4.0"
+  },
+  {
+   "file": "assets/varaha_udayagiri.jpg",
+   "title": "Udayagiri Caves, cave 5, Vishnu as Varaha Avatar (9839977024).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Udayagiri_Caves,_cave_5,_Vishnu_as_Varaha_Avatar_(9839977024).jpg",
+   "author": "Arian Zwegers from Brussels, Belgium",
+   "licence": "CC BY 2.0",
+   "date": "2012-12-27 10:51",
+   "description": "Udayagiri Caves, cave 5, Vishnu as Varaha Avatar The Udayagiri Caves are an early Hindu ritual site in the state of Madhya Pradesh, Northern India. They were ex",
+   "credit": "Photo: Arian Zwegers from Brussels, Belgium / Wikimedia Commons · CC BY 2.0"
+  },
+  {
+   "file": "assets/yarmouk_hayton.jpg",
+   "title": "Hayton BNF886 9v.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Hayton_BNF886_9v.jpg",
+   "author": "anonymous Catalonian illustrator",
+   "licence": "Public domain",
+   "date": "between circa 1310 a",
+   "description": "Illustration of the Battle of Yarmouk (636) at the bottom of the page of BNF Nouvelle acquisition française 886 fol. 9v (early 14th century). The Saracens are s",
+   "credit": "Photo: anonymous Catalonian illustrator / Wikimedia Commons · Public domain"
+  },
+  {
+   "file": "assets/yarmouk_site.jpg",
+   "title": "Yarmouk Battle Site JO.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Yarmouk_Battle_Site_JO.JPG",
+   "author": "Freedom's Falcon",
+   "licence": "CC BY-SA 3.0",
+   "date": "2013-09-20 16:57:20",
+   "description": "Yarmouk Battle Site,near by Yarmouk River, North of Jordan.",
+   "credit": "Photo: Freedom's Falcon / Wikimedia Commons · CC BY-SA 3.0"
+  },
+  {
+   "file": "assets/nahavand_flandin.jpg",
+   "title": "Castle Nahavend by Eugène Flandin.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Castle_Nahavend_by_Eug%C3%A8ne_Flandin.jpg",
+   "author": "Eugène Flandin",
+   "licence": "Public domain",
+   "date": "1840",
+   "description": "Castle Nahavend",
+   "credit": "Photo: Eugène Flandin / Wikimedia Commons · Public domain"
+  },
+  {
+   "file": "assets/coin_yazdegerd.jpg",
+   "title": "Coin of the Sasanian king Yazdegerd III, 651 mint.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Coin_of_the_Sasanian_king_Yazdegerd_III,_651_mint.jpg",
+   "author": "Classical Numismatic Group; [1]",
+   "licence": "CC BY-SA 3.0",
+   "date": "",
+   "description": "Coin of the Sasanian king Yazdegerd III, 651 mint.",
+   "credit": "Photo: Classical Numismatic Group; [1] / Wikimedia Commons · CC BY-SA 3.0"
+  },
+  {
+   "file": "assets/coin_heraclius.jpg",
+   "title": "Solidus of Heraclius and Heraclius Constantine MET sf04-2-821s1.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Solidus_of_Heraclius_and_Heraclius_Constantine_MET_sf04-2-821s1.jpg",
+   "author": "The Metropolitan Museum of Art (Heraclius solidus)",
+   "licence": "CC0",
+   "date": "629–631",
+   "description": "Byzantine; Solidus; Coins",
+   "credit": "Photo: Unknown author / Wikimedia Commons · CC0"
+  },
+  {
+   "file": "assets/gibraltar.jpg",
+   "title": "Rock-of-Gibraltar-2011.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Rock-of-Gibraltar-2011.jpg",
+   "author": "Acediscovery",
+   "licence": "CC BY 4.0",
+   "date": "2011-02-03 16:53:06",
+   "description": "Rock of Gibraltar in February 2011",
+   "credit": "Photo: Acediscovery / Wikimedia Commons · CC BY 4.0"
+  },
+  {
+   "file": "assets/banbhore.jpg",
+   "title": "Madarsa of Port of Banbhore.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Madarsa_of_Port_of_Banbhore.jpg",
+   "author": "Anwar Ahmed",
+   "licence": "CC BY-SA 3.0",
+   "date": "Taken on 19 February",
+   "description": "Madarsa of Banbhore",
+   "credit": "Photo: Anwar Ahmed / Wikimedia Commons · CC BY-SA 3.0"
+  },
+  {
+   "file": "assets/ellora_kailasa.jpg",
+   "title": "Kailasa temple overview, Ellora.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Kailasa_temple_overview,_Ellora.jpg",
+   "author": "Ms Sarah Welch",
+   "licence": "CC BY-SA 4.0",
+   "date": "2016-09-12 16:07:35",
+   "description": "Cave 16 of Ellora, Kailasha Kailasa Kailashanath Hindu temple",
+   "credit": "Photo: Ms Sarah Welch / Wikimedia Commons · CC BY-SA 4.0"
+  },
+  {
+   "file": "assets/pala_vishnu.jpg",
+   "title": "Sculpture of Vishnu, Pala School of Art, Black Basalt, Ashmolean Museum, Oxford.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Sculpture_of_Vishnu,_Pala_School_of_Art,_Black_Basalt,_Ashmolean_Museum,_Oxford.jpg",
+   "author": "SpeakingArch",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-09-21",
+   "description": "Sculpture of Vishnu, Pala School of Art, Black Basalt, Ashmolean Museum, Oxford",
+   "credit": "Photo: SpeakingArch / Wikimedia Commons · CC BY-SA 4.0"
+  },
+  {
+   "file": "assets/coin_pratihara.jpg",
+   "title": "Silver Coin, Gurjara Pratihara Period, 8th-11th Century, National Museum Delhi.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Silver_Coin,_Gurjara_Pratihara_Period,_8th-11th_Century,_National_Museum_Delhi.jpg",
+   "author": "SpeakingArch",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-08-08",
+   "description": "Silver Coin, Gurjara Pratihara Period, 8th-11th Century, National Museum Delhi",
+   "credit": "Photo: SpeakingArch / Wikimedia Commons · CC BY-SA 4.0"
+  },
+  {
+   "file": "assets/varaha_pratihara.jpg",
+   "title": "VarahaVishnuAvatarPratiharaKings850-900CE.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:VarahaVishnuAvatarPratiharaKings850-900CE.jpg",
+   "author": "Unknown author (Pratihara Varaha coin)",
+   "licence": "CC BY-SA 3.0",
+   "date": "2007",
+   "description": "Coin with Varaha (Vishnu Avatar) on a Pratihara coin 850-900 CE",
+   "credit": "Photo: Unknown author / Wikimedia Commons · CC BY-SA 3.0"
+  },
+  {
+   "file": "assets/guadalete.jpg",
+   "title": "Mariano Barbasán - Batalla de Guadalete.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Mariano_Barbas%C3%A1n_-_Batalla_de_Guadalete.jpg",
+   "author": "Mariano Barbasán Lagueruela",
+   "licence": "Public domain",
+   "date": "1882date QS:P571,+18",
+   "description": "",
+   "credit": "Photo: Mariano Barbasán Lagueruela / Wikimedia Commons · Public domain"
+  },
+  {
+   "file": "assets/qadisiyyah_folio.jpg",
+   "title": "Saad ibn Waqqas Kills Rustam (Son of Hormuzd), folio detached from a manuscript of the Shahnameh (Book of Kings), Iran, 1494.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Saad_ibn_Waqqas_Kills_Rustam_(Son_of_Hormuzd),_folio_detached_from_a_manuscript_of_the_Shahnameh_(Book_of_Kings),_Iran,_1494.jpg",
+   "author": "Aga Khan Museum",
+   "licence": "Public domain",
+   "date": "1494",
+   "description": "Saad ibn Waqqas Kills Rustam (Son of Hormuzd) Folio detached from a manuscript of the Shahnameh (Book of Kings) by Abu’l Kasim Firdausi (d. 1010) Accession Numb",
+   "credit": "Photo: Aga Khan Museum / Wikimedia Commons · Public domain"
+  },
+  {
+   "file": "assets/osian_monuments.jpg",
+   "title": "Osian Monuments.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Osian_Monuments.JPG",
+   "author": "L T Gandhi",
+   "licence": "CC BY-SA 3.0",
+   "date": "2011-03-12 17:21:38",
+   "description": "Osian is a small town about 60 km from Jodhpur, Rajasthan in India. A few but exquisite temple ruins can be seen here.",
+   "credit": "Photo: L T Gandhi / Wikimedia Commons · CC BY-SA 3.0"
+  },
+  {
+   "file": "assets/osian_1897.jpg",
+   "title": "KITLV 88219 - Unknown - Sachiya Mata temple Osia in British India - 1897.tif",
+   "page": "https://commons.wikimedia.org/wiki/File:KITLV_88219_-_Unknown_-_Sachiya_Mata_temple_Osia_in_British_India_-_1897.tif",
+   "author": "Unknown authorUnknown author",
+   "licence": "Public domain",
+   "date": "1897date QS:P571,+18",
+   "description": "Sachiya Mata temple Osia in British India. Sachchiya Mata temple, Rajasthan. Sachayay Mata. In Osian, near Jodhpur city in Rajasthan. Devi temples in Rajasthan.",
+   "credit": "Photo: Unknown authorUnknown author / Wikimedia Commons · Public domain"
+  },
+  {
+   "file": "assets/osian_varaha.jpg",
+   "title": "Varaha avatar of Vishnu,sachiya Mata temple, 8th-10th cent. , Pratihara dynasty.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Varaha_avatar_of_Vishnu,sachiya_Mata_temple,_8th-10th_cent._,_Pratihara_dynasty.jpg",
+   "author": "Summerkillsme",
+   "licence": "CC0",
+   "date": "2023-11-08",
+   "description": "Varaha , sachiya Mata temple, 8th-10th cent. , Pratihara dynasty",
+   "credit": "Photo: Summerkillsme / Wikimedia Commons · CC0"
+  },
+  {
+   "file": "assets/chaturbhuj_gwalior.jpg",
+   "title": "0121521 Chaturbhuj Temple, Gwalior Fort, Madhya Pradesh 01.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:0121521_Chaturbhuj_Temple,_Gwalior_Fort,_Madhya_Pradesh_01.jpg",
+   "author": "Ms Sarah Welch",
+   "licence": "CC0",
+   "date": "2021-12-15 12:37:21",
+   "description": "The Chaturbhuj Temple of Gwalior is a Hindu temple dedicated to Vishnu excavated in a rock face in the Gwalior Fort, Madhya Pradesh, India. The temple is famous",
+   "credit": "Photo: Ms Sarah Welch / Wikimedia Commons · CC0"
+  }
+ ],
+ "music": [],
+ "map": "Natural Earth (public domain)",
+ "credits_extra": [
+  "Book page: H. M. Elliot & J. Dowson, The History of India as Told by Its Own Historians, vol. 1 (1867), p. 4 — scan via Internet Archive (public domain) https://archive.org/details/in.ernet.dli.2015.448955",
+  "Book pages: Epigraphia Indica vol. 18, pp. 101, 103 (Gwalior prasasti of Bhoja) — scan via Internet Archive (public domain) https://archive.org/details/in.ernet.dli.2015.56668",
+  "Book page: Epigraphia Indica vol. 1, p. 184 (Pehowa inscription, G. Bühler) — scan via Internet Archive (public domain) https://archive.org/details/in.ernet.dli.2015.56636",
+  "Sound effects: Sword Clash 1–3 by Gravity Sound / Wikimedia Commons · CC BY 4.0",
+  "Sound effect: Six Horses Galloping By / Wikimedia Commons · CC0",
+  "Screenshots: Wikipedia articles Mihira Bhoja, Pratihara dynasty, Nagabhata I, Tripartite Struggle (en.wikipedia.org, CC BY-SA 4.0)",
+  "Photos (hook): Osian temples · L T Gandhi / Wikimedia Commons · CC BY-SA 3.0; Varaha, Sachiya Mata temple Osian · Summerkillsme / Wikimedia Commons · CC0; Sachiya Mata temple 1897 · KITLV / Wikimedia Commons · Public domain; Chaturbhuj temple Gwalior · Ms Sarah Welch / Wikimedia Commons · CC0",
+  "Book title pages: Epigraphia Indica vol. 18 and Elliot & Dowson vol. 1 — scans via Internet Archive"
+ ]
+}

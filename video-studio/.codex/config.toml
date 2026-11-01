@@ -1,0 +1,3 @@
+# Codex counterpart of additionalDirectories in .claude/settings.json.
+[sandbox_workspace_write]
+writable_roots = ["/home/vikas/Desktop/studio/animation-studio"]

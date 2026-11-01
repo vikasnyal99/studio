@@ -1,0 +1,330 @@
+{
+ "shots": {
+  "pc_open": {
+   "kind": "kinetic",
+   "dur": 1.94,
+   "bg": "f_city.jpg",
+   "lines": [
+    {
+     "text": "SIRF EK FILM?",
+     "at": 0.05,
+     "size": 140,
+     "hit": true
+    },
+    {
+     "text": "NAHI.",
+     "at": 1.0,
+     "size": 120,
+     "c": "gold",
+     "hit": true
+    }
+   ]
+  },
+  "pc_raaz": {
+   "kind": "kinetic",
+   "dur": 1.96,
+   "bg": "f_snow.jpg",
+   "lines": [
+    {
+     "text": "HAR FRAME MEIN",
+     "at": 0.05,
+     "size": 110
+    },
+    {
+     "text": "CHHUPE RAAZ",
+     "at": 0.85,
+     "size": 150,
+     "c": "gold",
+     "hit": true
+    }
+   ]
+  },
+  "pc_budget": {
+   "kind": "kinetic",
+   "dur": 5.74,
+   "bg": "f_palace.jpg",
+   "lines": [
+    {
+     "text": "₹4,000 CRORE",
+     "at": 0.35,
+     "size": 170,
+     "c": "gold",
+     "hit": true
+    },
+    {
+     "text": "Part 1 + Part 2 · reported",
+     "at": 1.6,
+     "size": 54
+    }
+   ],
+   "stamp": {
+    "text": "REPORTED",
+    "at": 3.6,
+    "c": "amber"
+   }
+  },
+  "pc_budget_doc": {
+   "kind": "doc",
+   "dur": 2.1,
+   "img": "shot_budget_bt.png",
+   "w": 2560,
+   "h": 440,
+   "chip": "Business Today · 15 July 2025",
+   "cam": [
+    [
+     0,
+     50,
+     50,
+     1.0
+    ],
+    [
+     0.6,
+     42,
+     50,
+     1.1
+    ]
+   ],
+   "marks": [
+    {
+     "k": "hl",
+     "r": [
+      4,
+      41,
+      39,
+      13
+     ],
+     "at": 0.3
+    },
+    {
+     "k": "circle",
+     "r": [
+      3,
+      38,
+      14,
+      18
+     ],
+     "at": 1.0,
+     "c": "red"
+    }
+   ],
+   "stamp": {
+    "text": "ALAG-ALAG AANKDE",
+    "at": 1.1,
+    "c": "amber"
+   }
+  },
+  "pc_nitesh": {
+   "kind": "kinetic",
+   "dur": 2.58,
+   "bg": "nitesh.jpg",
+   "lines": [
+    {
+     "text": "DIRECTOR",
+     "at": 0.05,
+     "size": 70
+    },
+    {
+     "text": "NITESH TIWARI",
+     "at": 0.5,
+     "size": 130,
+     "c": "gold",
+     "hit": true
+    },
+    {
+     "text": "Dangal",
+     "at": 1.4,
+     "size": 60
+    }
+   ]
+  },
+  "pc_dneg": {
+   "kind": "kinetic",
+   "dur": 3.04,
+   "bg": "f_palace.jpg",
+   "lines": [
+    {
+     "text": "VFX",
+     "at": 0.05,
+     "size": 70
+    },
+    {
+     "text": "DNEG",
+     "at": 0.6,
+     "size": 190,
+     "c": "gold",
+     "hit": true
+    },
+    {
+     "text": "Interstellar · Dune",
+     "at": 1.6,
+     "size": 60
+    }
+   ]
+  },
+  "pc_music": {
+   "kind": "kinetic",
+   "dur": 2.86,
+   "bg": "zimmer.jpg",
+   "lines": [
+    {
+     "text": "MUSIC",
+     "at": 0.05,
+     "size": 70
+    },
+    {
+     "text": "HANS ZIMMER",
+     "at": 0.85,
+     "size": 130,
+     "hit": true
+    },
+    {
+     "text": "+ A. R. RAHMAN",
+     "at": 1.95,
+     "size": 130,
+     "c": "gold",
+     "hit": true
+    }
+   ]
+  },
+  "pc_ram": {
+   "kind": "doc",
+   "dur": 2.14,
+   "img": "f_ram.jpg",
+   "w": 1920,
+   "h": 1080,
+   "chip": "Trailer 2 · 1:02",
+   "cam": [
+    [
+     0,
+     50,
+     50,
+     1.0
+    ],
+    [
+     0.4,
+     62,
+     30,
+     1.15
+    ]
+   ],
+   "marks": [
+    {
+     "k": "circle",
+     "r": [
+      58,
+      8,
+      15,
+      30
+     ],
+     "at": 0.6,
+     "c": "red",
+     "note": "Ram = Ranbir Kapoor",
+     "side": "below"
+    }
+   ]
+  },
+  "pc_ravana": {
+   "kind": "doc",
+   "dur": 1.84,
+   "img": "f_ravana.jpg",
+   "w": 1920,
+   "h": 1080,
+   "chip": "Trailer 2 · 0:56",
+   "cam": [
+    [
+     0,
+     50,
+     50,
+     1.0
+    ],
+    [
+     0.3,
+     50,
+     40,
+     1.12
+    ]
+   ],
+   "marks": [
+    {
+     "k": "circle",
+     "r": [
+      42,
+      27,
+      16,
+      31
+     ],
+     "at": 0.5,
+     "c": "red",
+     "note": "Ravana = Yash",
+     "side": "right"
+    }
+   ]
+  },
+  "pc_sita": {
+   "kind": "doc",
+   "dur": 2.5,
+   "img": "f_sita.jpg",
+   "w": 1920,
+   "h": 1080,
+   "chip": "Trailer 1 · 2:50",
+   "cam": [
+    [
+     0,
+     50,
+     50,
+     1.0
+    ],
+    [
+     0.4,
+     44,
+     35,
+     1.12
+    ]
+   ],
+   "marks": [
+    {
+     "k": "circle",
+     "r": [
+      36,
+      16,
+      15,
+      33
+     ],
+     "at": 0.7,
+     "c": "red",
+     "note": "Sita = Sai Pallavi",
+     "side": "right"
+    }
+   ]
+  },
+  "pc_valmiki": {
+   "kind": "law",
+   "dur": 2.32,
+   "head": "VALMIKI RAMAYANA · ARANYA KANDA 45–46 · SAAR",
+   "text": "Sita Lakshman ko Ram ki madad ke liye bhejti hain. Ravana sanyasi ke vesh mein aata hai. [[Koi rekha nahi kheenchi jaati.]]",
+   "marks": [
+    0.9
+   ],
+   "credit": "valmikiramayan.net · Aranya Kanda 45, 46"
+  },
+  "pc_rekha": {
+   "kind": "kinetic",
+   "dur": 3.4,
+   "bg": "rekha_hero.jpg",
+   "lines": [
+    {
+     "text": "LAKSHMAN REKHA?",
+     "at": 0.1,
+     "size": 150,
+     "c": "gold",
+     "hit": true
+    }
+   ],
+   "stamp": {
+    "text": "VALMIKI MEIN NAHI",
+    "at": 1.9,
+    "c": "red"
+   }
+  }
+ }
+}

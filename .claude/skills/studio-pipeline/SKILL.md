@@ -33,7 +33,7 @@ Video name = `<today YYYY-MM-DD>-<2-3 word slug>`. Use it unchanged in every pro
 | true-story / documentary re-creation (16:9 insert) | `doc-animation` |
 | fight, fast action, animated Short | `animate-shot` → `closeup-shots` |
 | debunk / fact-check proof | `proof-shots` (video-studio writes `proofs.json`) |
-| new art | `chatgpt-image-sheets` (tell the user the quota first: `npm run -s quota`) |
+| new art | Claude image route in `docs/ASSISTANTS.md`; state the planned count and respect live limits |
 
 Deliveries land in `video-studio/videos/<name>/assets/`; add the printed scene lines to `scenes.json`
 and re-render with `revise-video`. While art is pending, the edit continues with a `card` placeholder.

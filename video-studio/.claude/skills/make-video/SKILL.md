@@ -34,6 +34,29 @@ stretch of `timeline.txt` is nonsense, redo that stretch:
 .venv/bin/python scripts/transcribe.py --input <voice> --output-dir V/timing --window A B
 ```
 
+### 1b. Narration QC — mandatory before any visuals (user review, 31 Oct 2026)
+
+The user's reviewer flagged 22 audio faults in one 10-min video. A cut list built from a rough transcript is
+not enough. Before planning visuals, edit the narration until a full word-level pass finds none of these:
+
+- **Fumbles**: a word broken off, restarted or garbled ("military reputa- reputation"), a stutter.
+- **Repeats**: the same word, phrase or sentence said twice in a row (retake left in), or a line repeated
+  a few sentences later. Keep the cleaner take, cut the other completely, including its breath.
+- **Wrong wording / grammar**: compare every sentence with `V/script.txt`. Hindi postpositions especially:
+  "rivals **ko** saamne" must be "rivals **ke** saamne"; check every "ko" against "ka/ke/ki". Find a correct
+  take in the raw parts (retakes often contain it) and splice it in; if none exists, list the line for the
+  user to re-record — never leave it silently.
+- **Abrupt endings**: a sentence cut mid-breath or a word clipped at a join. Leave ~0.25 s after a sentence
+  end and never cut inside a word; check each join with word timings.
+- **Glitches**: clicks, doubled syllables or level jumps at joins (15 ms crossfade, same room tone).
+- **Dead air**: pauses over ~0.6 s inside a section, over ~0.9 s between sections.
+
+How: transcribe the joined narration with faster-whisper **large-v3**, `word_timestamps=True`, an
+`initial_prompt` of the video's names, `vad_filter=False`, in 40 s windows. Read every word with its time,
+next to the script. Find pauses with the word gaps. Fix in `V/audio-edit/edl.json` (`drop`/`cut` in part
+seconds — `narration_*_cuts.json` maps joined time to part time), rejoin, re-clean, re-transcribe, and do
+the pass again until clean. Report what was cut, spliced, and what needs re-recording.
+
 ## 2. Read and plan
 
 Read `V/timing/timeline.txt` once (and `V/script.txt` if present: it gives
@@ -46,6 +69,12 @@ first: real photo or collage, article screenshot, map, animation (see
 shot, fight, story moment with no footage) comes from animation-studio via the
 `animate` skill. On-screen text is headings of two to four words only;
 never a sentence. Aim for one scene every 3 to 8 seconds.
+
+User rules (31 Oct 2026): never use the same picture twice in a video; no run of full-screen stills
+(photos go in animated frames with callouts, art gets layered motion); the 0-45 s hook must change every
+2-3 s and mix real material with motion graphics; history maps show animated historical territory
+(spreading shapes, arrows, pins), never whole modern countries coloured or red circles for an empire.
+Details in animation-studio's `doc-animation` skill.
 
 List every factual claim that will appear on screen (dates, numbers, who
 did what, any "according to X").
@@ -130,6 +159,11 @@ scenes.
 .venv/bin/python scripts/make_video.py V render      # background; about 1.2x the video length
 ```
 
+If EVERY scene is a ready-made clip (animation-studio inserts, proof shots, maps, Doc chapters; no photo/map/text
+scenes drawn by HyperFrames), use the fast route: `.venv/bin/python scripts/fast_assemble.py V` cuts and joins the clips
+with ffmpeg and mixes the same sound (10 min of video in ~10 min, low memory). The HyperFrames render took ~75 min,
+needed up to 10 GB and was stopped by Claude Code's low-memory guard several times (31 Oct 2026).
+
 ## 6. Hand over
 
 Tell the user, briefly:
@@ -170,6 +204,19 @@ When the recording is a video of the user speaking and they want only the strong
 - Hook: their two most quotable lines (real audio) → the user's "ek bhi counter-question nahi" → slams with FACT CHECK.
 - Check the user's narration against the source too: on the Quraishi video they swapped two numbers (150/350) in a quote;
   cut it and let the original speaker's clip say it. Cut any claim the narration raises but never answers.
+
+## Background music (user notes, 31 Oct 2026)
+
+- The user could not hear the beds at 10-13 dB under the voice ("music only at the start"). Default now: one bed
+  `below_voice_db` 4 with ducking (`sound.json` / `speed_version.py --duck-db 6`): music dips 6 dB while the voice
+  speaks and swells back in pauses. Loops crossfade (finish.py), so a short track can cover a long video.
+- Choose music by audition, not by name: put 10-15 candidates under the same 20 s of narration with the real mix and
+  let the user pick (Mihir Bhoj video: user picked "Faceoff", tense/serious, for the whole video).
+- Free sources: incompetech.com (Kevin MacLeod, CC BY 4.0, direct mp3 download, credit line per track — tracks in
+  `library/music/candidates/`); Wikimedia Commons audio (Rafael Krux, MusicLFiles, CC BY/CC0 — Commons rate-limits
+  downloads after heavy use, retry later); YouTube Audio Library / Pixabay Music need the user's browser login.
+- Pace: the user found 1.2x too fast and chose 1.1x. `speed_version.py V 1.1` speeds picture + narration (pitch kept),
+  keeps music at normal speed and re-times captions -> `output/final_x1.1.mp4`, `timing/subtitles_hi_x1.1.srt`.
 
 ## Quality and sound (user notes, 24 Oct 2026)
 

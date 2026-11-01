@@ -1,5 +1,7 @@
 # Studio — root of all the user's content projects
 
+This is Claude's entrypoint. Read `docs/PRODUCTION.md` for rules shared with Codex and `docs/ASSISTANTS.md` for the current Claude image/browser route. This file and each project's `CLAUDE.md` supply Claude-specific tool and command details. Shared production rules in `docs/PRODUCTION.md` supersede older examples below when they differ.
+
 One monorepo, four projects that feed each other. Claude may be started here (root) or inside any
 project folder. **From the root: route the request to the right project, read that project's
 `CLAUDE.md` before touching it, and run its commands from inside its folder** (`cd video-studio && …`):
@@ -24,12 +26,13 @@ what the user must decide.
 |---|---|---|
 | "idea do", "topics", "channel analysis", "kya banaun", "script likho" | idea-generator | — (see its CLAUDE.md) |
 | "make a video", gives a recording, "inbox mein daala" | video-studio | `make-video` |
+| separate phone recordings for Shorts | video-studio + animation-studio | individual 9:16 edit using the local VShort/recorded-Short composition |
 | changes with timestamps on an existing video | video-studio | `revise-video` |
 | "animate this", "animation chahiye", cartoon/fight/re-enactment | animation-studio | `animate-shot` (→ `closeup-shots` / `doc-animation`) |
 | "documentary animation", "AniDoc jaisa", 2D insert | animation-studio | `doc-animation` |
 | "debunk", "fact check", "proof dikhao", markings on an article | animation-studio (graphics) + video-studio (edit) | `proof-shots` |
 | "shorts bana do", "reels from the video" | animation-studio | `shorts-from-video` |
-| ChatGPT images needed | animation-studio | `chatgpt-image-sheets` |
+| Animation art needed | animation-studio | `chatgpt-image-sheets` or an available Claude image tool, following `docs/ASSISTANTS.md` |
 | song, lyrics, folk/rap track | audio-studio | — (`_shared/scripts/new-song.sh`) |
 | idea → finished video → Shorts (end to end) | all | `studio-pipeline` |
 | add a new studio/tool folder | root | `new-studio-project` |
@@ -38,6 +41,8 @@ what the user must decide.
 Skills live in each project's `.claude/skills/`. The root `.claude/skills/` links video-studio's skills
 and holds the root skills; animation-studio's skills are linked globally in `~/.claude/skills/`
 (re-link after moving folders: `scripts/studio.sh link-skills`).
+
+Codex uses its own skills in `docs/codex-skills/`. After changing a shared workflow here, port the change to its Codex counterpart and record the reviewed pair with `python3 scripts/install_codex_skills.py --record-sync`. The checker reports later drift by content hash.
 
 ## Where files go (never leave files in the root)
 
@@ -80,11 +85,10 @@ audio-studio ──master/*.wav (own songs, licence-free)──► video-studio/
 
 ## Rules that apply in every project
 
-- Free tools only, local on this laptop (Linux, Intel iGPU, no CUDA, 15 GB RAM). Heavy AI models run
-  on Kaggle/Colab. Never add a paid service or upload the user's recordings without asking.
+- Prefer local tools on this laptop (Linux, Intel iGPU, no CUDA, 15 GB RAM). The current paid ChatGPT image account is authorized for art; do not add another paid service or upload recordings without instruction.
 - Never invent facts, names, dates, quotes or sources; anything on screen as fact needs a source.
 - No agency photos (Getty/AFP/Reuters); only free-licence or user-supplied pictures, credited.
-- Images come from the user's free ChatGPT accounts (quota: `cd animation-studio && npm run -s quota`).
+- The current ChatGPT account is paid. State the planned image count and respect live limits; `npm run -s quota` is only a generation log. Use the Claude image route in `docs/ASSISTANTS.md`.
 - Renders: 1080p (4K crashes here). Run long renders in the background and wait.
 - Report honestly: what was not checked, not found, not tested.
 
